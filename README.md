@@ -14,3 +14,6 @@
 
 ## Notlar
 > INT klasörü tamamen çevrilmiş olan dosyaları kapsamaktadır.
+
+## Katkıda Bulunanlar
+> Hoshungen
