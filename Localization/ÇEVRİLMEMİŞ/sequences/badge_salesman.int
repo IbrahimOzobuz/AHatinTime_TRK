@@ -1,0 +1,11 @@
+﻿[spaceship]
+sell_intro0 = [glitch]Merhaba, genç. Uzak çok diyarlardan geliyorum. Dünyanın her köşesini gördüm, ve şimdi keşiflerimden kalan bazı küçük parçaları satıyorum.[/glitch]
+sell_intro1 = [glitch]Bana [name]Rozet Satıcısı[/name] diyebilirsin, for I sell and trade [icon:badge]Badges. I can provide you with strong abilities and upgrades to your hat		sağlayabilirim... paran varsa, tabii ki.[/glitch]
+sell_intro2 = [glitch]Başka bir şey mi almaya geldin?[/glitch]
+sell_intro3 = [glitch][icon:badge]Rozetler... totally "in" right now. That's what I've been told to say. So make a purchase, lütfen.[/glitch]
+sell_intro4 = [glitch]Not everything I sell is of value. Ben ayrıca korkunç [icon:badge]Rozetler de satıyorum... ama millet yine de alıyor.[/glitch]
+sell_intro5 = [glitch]Hoşgeldin, genç. Lütfen make a purchase at my humble stall.[/glitch]
+sell_intro6 = [glitch]Please disregard my twitchy behavior. Bedenim has been to places that have left a permanent mark.[/glitch]
+
+all_out0 = [glitch]Satabileceklerimin hepsi bu kadar. Kendine iyi bak.[/glitch]
+all_out1 = [glitch]Satabileceğim hiçbir şey kalmadı. Lütfen beni başka bir zaman ziyaret et.[/glitch]

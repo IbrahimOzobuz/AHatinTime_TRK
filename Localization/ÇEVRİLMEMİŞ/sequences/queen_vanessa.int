@@ -1,0 +1,106 @@
+[encounter]
+Encounter0 = ORADAKİ KİM?
+Encounter1 = EVİME GİRMEYE[br]KİM CÜRET EDİYOR?
+
+NOT: diaries entrylerin hepsi bitişik ben ayırdım.
+
+[diaries]
+crowning0 = Annem geçen hafta bir kaza geçirdi, bu yüzden bugün kraliçe olarak taçlandırıldım. Şimdi prens bana prensesim diyemiyor! Hayat adil değil!
+prince_breakfast0 = Prensim kahvaltısını çok fazla sever. O lanet pastırmayı kıskanıyorum! O bunu seviyor! Bu evde bundan sonra pastırma yok!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mom_breakfast0 = Mother keeps insisting I be "proper". A young lady can do what she wants!
+mom_breakfast1 = Just this morning I had two cookies for breakfast. That will show her. I might even have a third.
+
+
+
+Bu sabah sadece kahvaltı için iki kurabiye vardı. Bu o kıza gösterecektir. Üçüncüsü de
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cellar_chains0 = Oh, I wish I could just keep him always! Locked up and in chains in the cellar! But you can't chain a man... can you?
+prince_hair0 = Saçın için üzgünüm, prensim. I just wanted our lengths to match! ...ve rengi... ve kıvrımları... sen harika gözüküyorsun!
+
+
+
+
+
+
+
+
+
+
+princeletter0 = Benim En sevgili Vanessa'm,[br]Seni son gördüğümden beri çok gün oldu, ama bana aylar gibi geldi.
+
+
+
+
+
+
+
+princeletter1 = My time at the Academy is hard, ama çabuk gelişiyorum. There is so much to study when it comes to law, ama buradaki kütüphane iyi stoklanmış.
+
+Akademideki zamanım zor,
+
+princeletter2 = Öğretmenlerimiz bu ülkenin en iyileri, ve onlara yardımlarından dolayı minnettarım. I have been attending private study with one, an experienced practitioner of law by the name of Lady
+princeletter3 = Mektubun geri kalanı harap ve yırtık.
+
+diary0 = Eski, harap bir günlük. Birçok sayfası yırtılmış.
+diary1 = Turn to one that's left?
+diarychoice_1 = Sayfa 13
+diarychoice_2 = Sayfa 48
+diarychoice_3 = Sayfa 73
+diary13a = Sevgili günlük,[br]Today my prince left to begin his studies. He will be so far away, and for so long. He has promised to write. He won't forget me, will he?
+
+
+Bugün prensim çalışmalarına başlamak için terketti.
+O çok uzaklarda, ve çok zaman olacak.
+O yazacağına söz verdi.
+
+
+
+
+diary13b = Onun sevgili prensesi?
+diary48a = Neden? Neyi yanlış yaptım? In his letters he talks about her. A 'tutor'. He says he loves me. But SHE sees him. I get letters, and SHE gets his time.
+
+
+
+
+Mektuplarında onun hakkında konuşuyor. Bir 'öğretmen'. O sevdiğini söylüyor. Ama . Mektuplar alıyorum, ve O KIZ zamanını alıyor.
+
+
+diary48b = Prens BENİM. Once his studies are finished I will have him back.
+
+diary73a = Prens geri geliyor. Sadece bir haftasonuna. Kısa bir tatil, ONDAN. Onu kalması için ikna edeceğim.
+diary73b = Aşkımın tekrar gitmesine İZİN VEREMEM.
+diary73c = Kulağa melodramatik gibi geliyor.

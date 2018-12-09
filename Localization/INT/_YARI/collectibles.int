@@ -1,0 +1,243 @@
+[general]
+YouGotItem0 = Sahip oldun: [plural][name][itemname][/name]![custom0]
+custom0 = [custom0]
+custom1 = [custom1]
+custom2 = [custom2]
+custom3 = [custom3]
+
+Plural0 = Bir
+Plural1 = Bir
+
+TwoItemsAnd = ve
+
+GenericYarnSuffix = Yumak
+GenericHatSuffix = Şapka
+
+[trigger_abilities]
+BadgeCollect0 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor; sadece [yarn][badgepoints_left][/yarn] kaldı!
+BadgeCollect1 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor, ve senin [yarn][badgepoints_player][/yarn] tane var! Press [button:start] to open the pause menu, where you can stitch it!
+BadgeCollect2 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor!
+BadgeCollect3 = Örmek için yeterince [yarn][icon:yarn]yumağın[/yarn] yok!
+BadgeCollect4 = Bu şapkaya zaten sahipsin, ama [yarn]+1 [icon:yarn]yumak[/yarn] kazandın!
+
+UnknownName = ??? Şapkası
+UnknownDescLocked0 = Açıklama yok.
+UnknownDescTech0 = Bu sapkanın herhangi bir amacı yok gibi gözüküyor.
+
+SprintName = Koşu Şapkası
+SprintDescLocked0 = Bu yumak koşmaya hazır gözüküyor!
+SprintDescLockedHat = Bu yumak koşmaya hazır gözüküyor!
+SprintDesc0 = Koşmak için [button:badge] tuşuna basılı tut!
+
+StatueFallName = Buz Şapkası
+StatueFallFun0 = Buz gibi!
+StatueFallTech0 = Buz kütlesi oluşturmak için [button:badge] basılı tut!
+
+HoverName = Floating Şapkası
+HoverDescFun0 = Float away from a sticky situation!
+HoverDescTech0 = Press and hold [button:badge] to float for a bit!
+
+HelpName = Çocuğun Sapkası
+HelpDescTech0 = Sonraki [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nı aramak için [button:badge]!
+HelpUsage = Hedefini bulmak için [icon:activehat] kullan!
+
+ChemicalName = Brewing Sapkası
+ChemicalDescFun0 = Deli karışımlar üret!
+ChemicalDescTech0 = Press [button:badge] to throw an explosive concoction!
+
+TimeStopName = Zaman Durduran Sapka
+TimeStopDescFun0 = Ölüm kaçınılmaz, zamanın degerlidir.
+TimeStopDescTech0 = Zamanı yavaşlatmak için [button:badge] butonuna bas!
+
+FoxMaskName = Orman Sakini Maskesi
+FoxMaskDescFun0 = Bu korkunç bir yumak!
+FoxMaskDescHat0 = Bu korkunç bir yumak!
+FoxMaskDescTech0 = Dünyayı Orman Sakininin gözünden görmek için [button:badge] butonuna bas!
+
+DetectiveHatName = Suç Çözme Giysisi
+DetectiveHatDesc0 = Cinayeti çözme zamanı!! Tutmayın küçük dedektifi!
+
+ParadeHatName = Tören Giysisi
+ParadeHatDesc0 = İşte kasabanın ihtiyacı olan bir lider!
+
+[abilities]
+UnknownName = ??? Yeteneği
+UnknownDescFun0 = Açıklama yok.
+UnknownDescTech0 = Bu yeteneğin herhangi bir amacı yok gibi gözüküyor.
+
+OneHitDeathName = 1-Hit Hero Badge
+OneHitDeathDesc0 = Bir vuruşta ölürsün. Sadece kahramanlar için!
+
+SuckInOrbsName = Item Magnet Badge
+SuckInOrbsFun0 = Eşya ulaşılamaz mı? Artık sorun degil!
+SuckInOrbsTech0 = Yakınlardaki nesneleri çeker!
+
+AttackProjectileName = Projectile Badge
+AttackProjectileDescFun0 = Projectile Badge
+AttackProjectileDescTech0 = Hold and release [button:attack] for a beam attack!
+
+CameraName = Kamera Rozeti
+CameraDesc0 = Press [button:share] to take pictures of your journey!
+CameraDesc1 = Swap it out at any time in the [button:start] menu!
+
+ScooterBadgeName = Scooter Rozeti
+ScooterBadgeDesc0 = [icon:sprinthat] şapkanı mobilete dönüştürür!
+
+ScooterSubconBadgeName = Posta Teslim Rozeti
+ScooterSubconBadgeDesc0 = [icon:sprinthat] şapkanı posta teslim mobiletine dönüştürür!
+
+AirAttackBadgeName = Havada Saldırı Rozeti
+AirAttackBadgeDesc0 = Havada saldırı yapmanıza izin verir!
+
+MumbleBadgeName = Mırıltı Rozeti
+MumbleBadgeDesc0 = Kulaklarına tak, onların sadece anlamsız mırıltılarını duyacaksın!
+
+HookshotBadgeName = Kanca Rozeti
+HookshotBadgeDesc0 = Kancalardan sallanmak için [button:attack] butonuna bas ve basılı tut!
+
+FindRelicsBadgeName = Kalıntı Bulucu Rozet
+FindRelicsBadgeDesc0 = [icon:relic] haritasını gösterir!
+
+CompassBadgeName = Pusula Rozeti
+CompassBadgeDesc0 = Yakınlardaki [icon:relic] [icon:token] gösterir!
+
+NoFallDamageBadgeName = Şemsiye Rozeti
+NoFallDamageBadgeDesc0 = Ölümcül darbeden önce otomatik olarak semsiye çıkarır!
+
+NoBonkBadgeName = Toslamama Rozeti
+NoBonkBadgeDesc0 = Dalarken artık duvarlara toslamayacaksın!
+
+HatCooldownBonusBadgeName = Hızlı Şapkacı Rozeti
+HatCooldownBonusBadgeDesc0 = Significantly reduce the cooldown when using hats!
+
+MirrorBadgeName = Ayna Rozeti
+MirrorBadgeDesc0 = !Ririveç sret iyes reh
+
+NostalgiaBadgeName = Nostalji Rozeti
+NostalgiaBadgeDesc0 = Her şey kötü olduğunda her şey daha iyi olacak!
+
+[loot]
+BirdPassportName = Kuşların Federal Birlik Pasaportu
+
+BirdPassportDesc0 = Ben şimdi yasal olarak bir kuşum! Öyle mi?
+
+BadgeSlotName = Rozet İğnesi
+BadgeSlotDesc0 = Bir tane daha [icon:badge][name]rozet[/name] kuşanmana izin verir!
+
+RouletteTokenName = Yarık Jetonu
+RouletteTokenDesc0 = Uzay gemisinin orb makinasında sevimli ödüller kazanmak için kullan!
+
+[levelspecific]
+VaultCodeName = Kasa Kodu
+VaultCodeDesc0 = Bu Kasa kodunun bir parçası!
+VaultCodeRedName = Kırmızı Kasa Kodu
+VaultCodeGreenName = Yeşil Kasa Kodu
+VaultCodeBlueName = Mavi Kasa Kodu
+VaultCodeYellowName = Altın Kasa Kodu
+
+[skins]
+SkinDesc0 = Giysilerinizin rengini boyayın!
+SkinDesc_Outfit0 = Giysinizi değiştirin!
+MaterialSkin_Desc0 = Kendini boyaya daldır!
+WhiteRedSkinName = Büyük Patron
+RedWhiteSkinName = Kanlı Ay
+GreenOrangeSkinName = The Nutcracker
+BlueYellowSkinName = Blueberry Pie
+BlackSkinName = The Widow
+CaptainName = Captain of the Sea
+WahooName = The Big Appetite
+FreedomSkinName = Özgürlük
+MarginOfNightSkinName = Margin of the Night
+GirlySkinName = Sevimli ve Tehlikeli
+BronzeSkinName = Bronz
+GreenGoldName = The Forest Critter
+LiquoriceName = Liquorice
+MintyName = Nane Ferahlığı
+CookieDoughSkinName = Kurabiye Hamuru
+80sCandy = 80s Candy
+
+Cardboard = Karton
+RaincoatName = Yağmurluk
+ParadeName = Tören Giysisi
+DetectiveName = Dedektif Giyisisi
+QueenDressGreenName = Kraliçenin Elbisesi
+WitchDressName = Cadı Giysisi
+MaterialSkin_Gold_Name = 24 Ayar Çocuk
+MaterialSkin_Metal_Name = Metalik
+MaterialSkin_Shadow_Name = Gölge kuklası
+MaterialSkin_Space_Name = Deneyüstü
+HK64_Name = Sanal Çocuk
+HikingSkin_Name = Gezginin Giysisi
+
+[remixes]
+RemixDesc_MafiaTown0 = Mafya Şehri için yeni bir müzik remix'i açıldı!
+RemixDesc_Subcon0 = Subcon Ormanı için yeni bir müzik remix'i açıldı!
+RemixDesc_Trainwreck0 = Kuşların Mücadelesi için yeni bir müzik remix'i açıldı!
+RemixDesc_Sand0 = Alpine Manzarası için yeni bir müzik remix'i açıldı!
+RemixDesc_Rift0 = Zaman Yarıkları için yeni bir müzik remix'i açıldı!
+
+MafiaTownElectroName = Mafya Şehri (Electronic Remix)
+ClockTowersOrchestralName = Mavi Zaman Yarıgı (Orchestral Remix)
+SandmobileJazzName = Sandmobile (Jazz Remix)
+MafiaBossOrchestralName = Mafya Patronu (Orchestral Remix)
+TrainRushElectroSwingName = Tam Zamanında (Electro Swing Remix)
+MoonJazzName = Ay (Jazz Remix)
+SubconVillageScifiName = Subcon Köyü (Sci-fi Remix)
+SnatcherBossOrchestralName = Sözleşmen Bitti (Orchestral Remix)
+
+[camerafilters]
+CameraFilter = Kamera Filtresi
+CameraFilterDesc0 = Yeni kamera filtresinin kilidi açıldı
+CameraFilterDesc1 = bu filtre: [icon:camerabadge][name]Camera Badge[/name]!
+
+ActionBlueName = Action Blue
+DreamyName = Dreamy
+SunriseName = 80ler
+VibrantName = Canlı
+GirlyThingsName = Just Girly Things
+VintageName = Klasik
+Vintage2Name = Klasik 2
+NoirName = Noir
+PurpleNightName = Mor Gece
+SunsetName = Gün Batımı
+SilhouetteName = Silüet
+HazeName = Haze
+ColdName = Soğuk
+MangaName = Nani!?
+PosterName = Film Posteri
+
+[decorations]
+DecorationMatch = Eşleşti! Bu garip gezegenden bir kalıntıyı buldun!
+DecorationSaved = Bu bilinmeyen kalıntı diğerleriyle eşleşebilir!
+DecorationMystery = You sense a temporal disturbance in this room... ama bu muhtemelen hiçbir şey.
+DecorationGenericName = Kalıntı
+
+TrainSetName = Küçük Tren (Ve Kuşlar?)
+TrainSetDesc0 = "Tren" ve "Kuşlar"ın "işe yetişmek" için kullandıkları minicik sürümü gibi gözüküyor.
+TrainSetDesc1 = Orada minik kuşlar mı var? Minicik "fimler" mi yapıyorlar?
+TrainSetDesc2 = Minik kuş topluluğuyla geçirecek zamanım yok!
+
+UFOName = Gezegendışı Yaşam Alayı
+UFODesc0 = Bu da ne! Uzay gemileri bunun gibi degildir!
+UFODesc1 = Tahtası nerede? Neden o, inekleri emiyor?
+UFODesc2 = Bu onur kırıcı! Dava açacağım!
+
+CrayonCompleteName = Üç Renkli Grafiti Seti
+CrayonCompleteDesc0 = Vandalizm için yapıldılar. Kesinlikle. Ben bile bunları almayı ve HER ŞEYin üzerini çizmeye ikna oldum bile.
+CrayonCompleteDesc1 = Ben sadece bu vandalizm aracının yasaklanması sonucuna vardım.
+CrayonCompleteDesc2 = Bu da bu kalıntıyı aşırı nadir yapıyor. Sadece bu paket açılmamış olsaydı. Sadece bir canavar bu nadir eşya paketini açardı.
+
+BurgerCushionName = Dünyalı Oturma Aracı
+BurgerCushionDesc0 = Araştırma, bu şeyin oturmak için aşırı yumuşak olduğu kanısına vardı.
+BurgerCushionDesc1 = Çok yumuşak, en mantıklı sonuç bunların dünyanın sandalyeleri olduğu.
+BurgerCushionDesc2 = Bu bir yiyecek değil. Denedim. Tadı kumaş gibi.
+
+CakeTowerName = Kek Müzesİ
+CakeTowerDesc0 = Kekleri sergilemek için süslü bir metal platform.
+CakeTowerDesc1 = Hangi türden bir insan onları sadece gösterirdi, değil mi? Onlar yenmek için!
+CakeTowerDesc2 = ... En üsttekine yetişemiyorum.
+
+[ItemQuality]
+SupporterPrefix = Destekçi
+GoldPrefix = Altın
+CompletionistPrefix = Gezgin

@@ -1,0 +1,163 @@
+[levels]
+Chapter1_MafiaTown = Mafya Şehri
+Act_1_1 = Mafya Şehrine Hoşgeldin
+Act_1_2 = Varil Mücadelesi
+Act_1_3 = O Uzaydan Geldi
+Act_1_4 = Down with the Mafia!
+Act_1_5 = Adil Yarış
+Act_1_6 = Mafya Şehrini Kavurmak
+Act_1_7 = Altın Kasa
+Location_MafiaTown = Mafya Şehri
+Location_MafiaHQ = Mafia HQ
+
+Chapter1_Bonus_Secret_Sewer = Kanalizasyon
+Chapter1_Bonus_Secret_Bazaar = Pazar
+Chapter1_Bonus_Cave_Intro = Aşçılar Mafyası
+Chapter1_Bonus_Cave_Raccoon = Uykulu Subcon
+
+Chapter2_Subcon = Subcon Ormanı
+Act_2_1 = Sözleşme Yükümlülükleri
+Act_2_2 = The Subcon Kuyusu
+Act_2_3 = Toilet of Doom
+Act_2_4 = Kraliçe Vanessa'nın Malikanesi
+Act_2_5 = Posta Teslim Servisi
+Act_2_6 = Ates Ruhlarının Ritüeli
+Act_2_7 = Sözleşmen Bitti
+Location_Subcon = Subcon Ormanı
+Location_SubconCave = Subcon Mağarası
+Location_VanessaManor = Vanessa'nın Malikanesi
+Location_SubconVillage = Subcon Köyü
+
+Chapter2_Bonus_Vanessa = Köy
+Chapter2_Bonus_Cave = Boru
+
+Chapter3_Trainwreck = Kuşların Mücadelesi
+Act_3_1 = Dead Bird Stüdyosu
+Act_3_2 = Owl Ekspresindeki Katil
+Act_3_3 = Picture Perfect
+Act_3_4 = Tam Zamanında
+Act_3_5 = Geçit Töreni
+Act_3_6 = Ödül Töreni
+Location_ScienceExpress = Baykuş Ekspresi
+Location_Moon = Ay
+TimeRift_Water_TWreck_Panels = Baykuş Ekspresi
+TimeRift_Water_TWreck_Parade = Ay
+TimeRift_Cave_TWreck_Basement = Dead Bird Stüdyosu
+
+Chapter4_Sand = Alpine Skyline
+alpine_finale = Hastalık Yayıldı
+Chapter4_Bonus_Cats = Kıvrımlı Kuyruk Patikası
+
+TimeRift_Water_Alp_Goats = Alacakaranlık Çanı
+TimeRift_Cave_Alps = Alp Manzarası
+
+Chapter5_Finale = Zamanın Sonu
+act_5_1 = Final
+
+Chapter6_Cruise = Buz Gibi Yolculuk
+Cruise_Act1 = İyi Yolculuklar!
+Cruise_Act2 = Gemi Nizamı
+Cruise_Act3 = Alabora
+TimeRift_Cave_Cruise = Derin Deniz
+TimeRift_Water_Cruise_Slide = Balkon
+
+Spaceship_WaterRift_Gallery = Galeri
+Spaceship_WaterRift_MailRoom = Laboratuvar
+TimeRift_Cave_Tour = Tur
+
+Location_DreamWorld_Water = Zaman Yarığı - Mavi
+Location_DreamWorld_Cave = Zaman Yarığı - Mor
+Location_Spaceship = Uzay Gemisi
+Location_Bookstore = Zamanın Sonu
+
+FreeRoam = Gezinti
+TimeRift = Zaman Yarığı
+DeathWish = Son İstek
+NiceWish = Hoş İstek
+Community = Topluluk Haritası
+
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
+TimeRift_Cave_TwilightTravels = Alacakaranlık Gezileri
+TimeRift_Cave_MountainRift = Dağ yarığı
+
+secretlevel_beta_space = Beta Kahraman'ın Challenge
+
+[ActInfoBoxDetails]
+Population_MafiaTown = Nüfus: 379
+Population_MafiaTown_Less = Nüfus: Less than before since I made them go boom
+Population_MafiaTown_Fried = Nüfus: Bir sürü kavrulmuş Mafya
+Population_MafiaTown_Boss = Nüfus: Birden az
+Mission_RecoverTP = Görev: Recover fallen Time Piece
+Mission_Race = Görev: Adil olarak ka- pfffft hahaha
+Mission_Safe = Görev: Bu koca kasayı aç!
+Mission_Boss =  Görev: Take down the Mafia!
+Mission_Lava = Görev: Cool things down!
+Sweating_No = Terleme: Umarım yoktur
+Sweating_Nope = Terleme: Asla
+Sweating_Yes = Terleme: Evet, ne yazıkki
+Sweating_Rain = Terleme: Gökyüzü terliyor gibi gözüküyor
+
+Mission_Studio = Görev: Zaman Parçalarının nereye gittiğini bul!
+Mission_Award = Görev: Kutla! Başardın!
+Mission_Uncanny = Burada garip bir şeyler mi dönüyor?
+ReviewScore = Top Review: "2 1/2 Stars, Actors All Terrible"
+ReviewScore2 = Top Review "5 Stars, New Female Actor Excellent"
+Legality_No = Yasal Durum: Totally Not Allowed In
+Legality_Yes = Yasal Durum: Nothing Untoward Here, Surely
+MovieStars_Starring = Başroller...
+MovieStars_Conductor = CONDUCTOR as THE SAVVY TRAIN CONDUCTOR
+MovieStars_DJ = DJ GROOVES as ŞIK ÜSTAD
+MovieStars_DetectiveHatKid = SOME GIRL as İŞE YARAMAZ DEDEKTİF
+MovieStars_BombHatKid = SOME GIRL as RECKLESS DETONATOR
+MovieStars_ParadeHatKid = KÜÇÇÜK KIZ as TÖREN MAREŞALİ
+MovieStars_CameraHatKid = KÜÇÇÜK KIZ as GİZEMLİ DİVA
+MovieStars_Crows = KARGALAR as K.G.B. AJANLARI
+MovieStars_Owls = OWLS as OWLS
+MovieStars_Penguins = AY PENGUENLERİ as AÇ MİLLET
+HighScore = Yüksek Skor
+CharacterName_Conductor = CONDUCTOR
+CharacterName_DJGrooves = DJ GROOVES
+
+Mission_Mail = Yüküm: Bu gerçektten eski postayı teslim et!
+Mission_Manor = Yüküm: Snatcher'ın eski evine gözat!
+Mission_Well = Yüküm: Eski kuyuyu temizle!
+Mission_Toilet = Yüküm: Kurtul bu tuhaf ... tuvaletten?
+Mission_Snatcher = Yüküm: Hakettiğini al!
+Atmosphere_Tense = Atmosfer: Zaman
+Atmosphere_Energetic = Atmosfer: Kıpır Kıpır
+Atmosphere_Menacing = Atmosfer: Tehditkar
+Atmosphere_Palpable = Atmosfer: Palpable
+Atmosphere_Unpleasant = Atmosfer: Unpleasant
+TOTD_Requiem = Günün Terimi: Requiem
+TOTD_Choir = Günün Terimi: Koro
+TOTD_Encore = Günün Terimi: Encore
+TOTD_DCad = Günün Terimi: Deceptive Cadence
+TOTD_Rondo = Günün Terimi: Rondo
+TOTD_Allegro = Günün Terimi: Allegro
+
+TP_Secured = ZAMAN PARÇASI GÜVENDE!
+TP_Detected = ZAMAN PARÇASI BULUNDU!
+TimeRift = Kırılmış Zaman Yarığı, Time Rift yarattı
+TimeRift_Cave = Zaman Parçacığı düştü ve birisine çarptı
+
+[Mountains]
+TowerOfGods = Tanrıların Kulesi
+WillsTower = Koca Yel Degirmeni
+Oasis = Vaha
+HUBMountain = Keçi Köyü
+TheWindmill = Yel Değirmeni
+Twilight = Alacakaranlık Çanı
+BirdHouse = Kuş Evi
+LavaCake = The Lava Cake
+Mini1 = Goat Outpost Horn
+Mini2 = Goat Refinery
+OwlBrewMountain = Yellow Band Hills
+SnatcherTeleportMountain = Mystifying Time Mesa
+BirdPathHorn = Serpentine Bird Horn
+BirdPath1 = Bird Pass Fork
+BellPath1 = Alacakaranlık Patikası
+LavaPath1 = Sizzling Lava Split
+LavaPath2 = Ember Zirvesi
+WindmillPath1 = Rüzgarlı Geçit
+CatEasy = Kıvrım Kuyruk Boynuz Patikası
+CatHard = The Mırlanan Köy
