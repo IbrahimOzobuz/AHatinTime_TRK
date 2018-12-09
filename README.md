@@ -1,5 +1,7 @@
 # A Hat in Time - Türkçe Çeviri
 
+![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-0.6-orange.svg?&style=popout-square&link=https://github.com/Hepobur/AHatinTime_TRK/commits/master)
+
 # TR
 
 > Bu çeviri modu ```A Hat in Time``` adındaki Steam Oyunu içindir ve Steam sürümünden önce çıkarılmaktadır, Pre-ALPHA durumundadır.
