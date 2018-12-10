@@ -209,7 +209,7 @@ PosterName = Film Posteri
 [decorations]
 DecorationMatch = Eşleşti! Bu garip gezegenden bir kalıntıyı buldun!
 DecorationSaved = Bu bilinmeyen kalıntı diğerleriyle eşleşebilir!
-DecorationMystery = You sense a temporal disturbance in this room... ama bu muhtemelen hiçbir şey.
+DecorationMystery = Bu odada geçici bir rahatsızlık hissediyorsun... ama bu muhtemelen hiçbir şey.
 DecorationGenericName = Kalıntı
 
 TrainSetName = Küçük Tren (Ve Kuşlar?)
@@ -218,7 +218,7 @@ TrainSetDesc1 = Orada minik kuşlar mı var? Minicik "fimler" mi yapıyorlar?
 TrainSetDesc2 = Minik kuş topluluğuyla geçirecek zamanım yok!
 
 UFOName = Gezegendışı Yaşam Alayı
-UFODesc0 = Bu da ne! Uzay gemileri bunun gibi degildir!
+UFODesc0 = Bu da ne! Uzay gemileri bunun gibi değildir!
 UFODesc1 = Tahtası nerede? Neden o, inekleri emiyor?
 UFODesc2 = Bu onur kırıcı! Dava açacağım!
 
