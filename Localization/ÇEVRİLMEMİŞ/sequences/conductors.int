@@ -3,11 +3,11 @@ sketch0 = Ehhhh ba ba bab![waitlong] Nireye gittiğini sanıyorsun, kızım?
 sketch1 = Sin artık bir film yıldızısın, kızım! We need yer ugly mug all over, so that dünyadaki tüm kuşlar filmimi izlemeye gelcek!
 ihtiyacımız var,
 
-sketch2 = İşte, take this pen 'n paper, and start making me a movie poster! Make yerself look tough and ready for a fist fight!
+sketch2 = İşte, şu kalem ve kağıdı al, ve bir film posterimi yapmaya başla! Make yerself look tough and ready for a fist fight!
 sketch3 = Make sure to give yerself an outfit as well! It's all about the looks!
 
 sketch_done0 = Eh he he! Is that the best yer can do, then? Alright, I'll put these up!
-sketch_done1 = Içeri geç. Kus Tarihindeki EN BÜYÜK aksiyon filminin çekimine hazırlanıyoruz!
+sketch_done1 = İeri geç. Kus Tarihindeki EN BÜYÜK aksiyon filminin çekimine hazırlanıyoruz!
 sketch_done2 = Bu film BOMBA olacak!! [wave]GWAHAHAHAHA[/wave]!
 sketch_done3 = ... Ve bombayı iyi anlamda demek istedim, peck neck!
 
@@ -20,11 +20,14 @@ trigger_detonation5 = The cameras are gonna be rollin' lassy, şimdi acele et! H
 
 ending0 = Başardın! Ve tam zamanında!
 ending1 = Oh ho ho hooo... look at all this raw footage we got![br]Look at how yer runnin' for dear life![br][wave]EH HE HE[/wave]!
-ending2 = What? We did it in the name of cinematography! ... and to beat that no-good [icon:djgrooves][name]DJ Grooves[/name]! I bet he won't be able to make HALF the movie we just made!
-ending3 = Alright here, take one of these [icon:timepiece][timepiece]thingamajigs[/timepiece] you like. You deserve it!
+ending2 = Ne? Bunu cinematography adına yaptık!! ... and to beat that no-good [icon:djgrooves][name]DJ Grooves[/name]! I bet he won't be able to make HALF the movie we just made!
+
+bahse girerim!
+
+ending3 = Tamamdır burada, sevdiğin şu [icon:timepiece][timepiece]şeyimsiler[/timepiece]den birini al. Hakettin!
 
 [deadbird]
-intro0 = Bu film stüdyosu ikimi için de çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu film GERÇEK kuslarla yapılmalı!
+intro0 = Bu film stüdyosu ikimiz için de çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu film GERÇEK kuşlarla yapılmalı!
 intro1 = You [name]Moon Penguins[/name] are just gonna write some loud, noisy drivel! If I wanted a bunch of peck necks to dance around while on bird seed, torunlarımı ziyaret ederdim!
 intro2 = NE?! No we haven't, yer buffoon!
 intro3 = Oh evet?
@@ -39,13 +42,12 @@ intro11 = Oh wait, shutting the peck necks inside the studio will force them to 
 intro12 = Alright, time to go, owls! Let's make our killer movie!!
 intro13 = Oh, and receptionist, can yer PLEASE close off that vent already? I don't want the smell of penguin to come anywhere near my crew!
 
-outro0 = [scream][big]HEY! WHATCHA THINK YER DOIN?![/big][/scream]
-SIN NE YAPTIGINI ZANIYORSUN?!
-outro1 = Yer can't just jump in and fiddle with the [icon:trophy][trophy]annual bird movie awards[/trophy]! Bu dolandırıcılık! SAHTEKARLIK! Hey everyone, we've got a FRAUDSTER OVER HERE!
+outro0 = [scream][big]HEY! SIN NE YAPTIGINI ZANIYORSUN?!?![/big][/scream]
+outro1 = Yer can't just jump in and fiddle with the [icon:trophy][trophy]yıllık kuş film ödülleri[/trophy]! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, burada bir SAHTEKAR VAR!
 outro2 = ...
-outro3 = WHERE MY OWL GUARDS AT?! Why are the owls so darn useless?!
-_outro4 = Öyle bir şey asla olmadı.
-outro5 = Alright, listen here, lass! Yer in big trouble. If you're helping crooked  [icon:djgrooves][name]DJ Grooves[/name] rig the awards, and I can't take yer to jail, then yer gotta help me even the score!
+outro3 = BAYKUŞ KORUMALARIM NEREDE?! Neden bu lanet baykuşlar çok kullanışsız?!
+_outro4 = yok
+outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. If you're helping crooked  [icon:djgrooves][name]DJ Grooves[/name] rig the awards, ve seni hapse atamam, then yer gotta help me even the score!
 outro6 = Bu dogru, sen benim filmlerimde de yıldız olacaksın!
 outro7 = Here, hold our [icon:timepiece][timepiece]newest prop[/timepiece], practice showing it off, and bring it to my movie set tomorrow! Anladın mı? Geç kalma!
 
@@ -79,16 +81,6 @@ suspect_generic1 = Nöy ne? KAUÇUK bıçak?!
 
 suspect_ending0 = Well, bu cinayeti çözdügün için teşekkürler, küçük kız.
 suspect_ending1 = Not only did you reveal the murderer, you also revealed that the victim was never harmed
-
-
-
-
-
-
-
-
-
-
 suspect_ending2 = ... and you gave us intense footage for the movie!
 suspect_ending3 = What? You think I'd let a murder happen on MY Owl Express? Think again! It was all just a setup for my newest Owl Express movie:[br][name]Murder on the Owl Express![/name]
 suspect_ending4 = You think [icon:djgrooves][name]DJ Peck Neck[/name] will make a movie that's even remotely as good? I think not!
@@ -127,26 +119,8 @@ SupportNotice2 = Me defuser is[br]hazır, buraya gel!
 hth_intro0 = Let's have a little heart-to-heart. Otur, kızım.
 hth_intro1 = Sen geldiginden beri, bu [icon:timepiece][timepiece]Zaman Parçacıkları[/timepiece] gökten yagıyor.
 hth_intro2 = Şimdi, I can understand if you feel they belong to you. Anladım. Ama onların zamanı geri alabilecegini biliyor muydun?
-
-
-
-
-
-
-
-
-
-
-
 hth_intro3 = Tek [timepiece][icon:timepiece]Zaman Parçası[/timepiece]yla, I could reclaim the trophy that belongs to me! Aynen öyle, ödül 42nin kaybı!
 hth_intro4 = I got 2nd place at the [icon:trophy][trophy]42nd annual bird award[/trophy]! Me! İnanabiliyor musun? [icon:djgrooves][name]DJ Grooves[/name] ödülde 1inciliğini elde etmeyi başardı!
-
-
-
-
-
-
-
 hth_intro5 = I need just one [timepiece][icon:timepiece]Zaman Parçası[/timepiece] to fix this mistake. Can't you spare just one [icon:timepiece][timepiece]Time Piece[/timepiece]?
 hth_intro5_yes = Belki?
 hth_intro5_no = Hayur!
