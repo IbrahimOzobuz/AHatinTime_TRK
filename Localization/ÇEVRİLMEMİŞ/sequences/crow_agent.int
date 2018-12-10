@@ -38,9 +38,7 @@ Victim_Reveal0 = Bu vakayı bize bırakın.
 Victim_Reveal1 = Biz KGB, [name]Karga Gözlem Birimi[/name].[br]Bu trendeki herkesi[br]son istasyondan beridir gözetliyoruz.
 Victim_Reveal2 = Biz [hint]tüm treni kanıt için arayacağız[/hint]. No one is allowed to go outside of this wagon.
 
-Artık kimse bu vagonun dışına çıkması izinli değil.
-
-Kimse,No one | is allowed to go, çıkmasına izin verilmeyecek| outside of this wagon, bu vagonun dışına çıkmasına
+// Artık kimse bu vagonun dışına çıkması izinli değil. // Kimse,No one | is allowed to go, çıkmasına izin verilmeyecek| outside of this wagon, bu vagonun dışına çıkmasına
 
 Victim_Reveal3 = Once the [hint]clock hits midnight[/hint], we'll get off at the station with the murderer in cuffs.
 Victim_Reveal4 = Stay here while we investigate further.
@@ -61,15 +59,15 @@ CafeteriaChatter0 = so I said to her,[br]don't go into the store
 CafeteriaChatter1 = there was way too[br]much sauce on the pizza
 CafeteriaChatter2 = it didn't even matter[br]what he said anyway
 CafeteriaChatter3 = because he was missing[br]one of his feathers
-CafeteriaChatter4 = and the owls don't like[br]to give their blueprints
+CafeteriaChatter4 = ve kendi planlarını vermeyi[br]baykuşlar beğenmedi
 CafeteriaChatter5 = even if there was[br]a giant fire
 CafeteriaChatter6 = right as he was[br]about to sneeze
-CafeteriaChatter7 = but has anyone[br]noticed we all[br]wear the same coat?
+CafeteriaChatter7 = ama birileri hepimizin[br] aynı paltoyu[br]giydiğimizi farketti mi?
 
 BodyPartChatter0 = o kız dedi ki[br][BodyPartName] utanıyormuş
-BodyPartChatter1 = onun çirkin[br][BodyPartName] görmeliydin
-BodyPartChatter2 = bu küçük kız[br]en çirkin [BodyPartName] sahip
-BodyPartChatter3 = bu kadar korkunç[br]bir [BodyPartName] görmemiştim
+BodyPartChatter1 = onun çirkin[br][BodyPartName] parçasını görmeliydin
+BodyPartChatter2 = bu küçük kız[br]en çirkin [BodyPartName] parçasına sahip
+BodyPartChatter3 = bu kadar korkunç[br]bir [BodyPartName] parçası görmemiştim
 BodyPartChatter4 = ona hiç sevmediği[br]vücut parçasını[br]sordum
 
 [finale]
