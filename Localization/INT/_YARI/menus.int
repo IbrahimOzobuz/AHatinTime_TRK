@@ -164,7 +164,7 @@ Item_Audio3DPositioning_Desc = Audio is played in your left or right speakers de
 Tab_Auto = Otomatik
 Tab_Simple = Basit
 Tab_Detailed = Detaylı
-Tab_Advanced = Gelismis
+Tab_Advanced = Gelişmiş
 
 Header_Window = Pencere
 
@@ -188,18 +188,18 @@ Item_Configure = Ayarla...
 
 Header_RefreshRate = Tazeleme Oranı
 
-Item_FrameRate_Title = Maksimum Frame Rate
+Item_FrameRate_Title = Maksimum Kare Oranı
 Item_FrameRate_Desc = Sets the maximum allowed frame rate, or frames per second (FPS). Games look best when the frame rate is consistent, but often it changes drastically depending on what is on-screen. This is avoided by setting a maximum frame rate. Only go below 60 FPS if your system is having trouble running at 60 FPS.
 Item_FrameRate_Item_Unlocked = Sınırsız
 
-Item_VSync_Title = Dikey Esitleme
+Item_VSync_Title = Dikey Eşitleme
 Item_VSync_Desc = Forces the game to render at your monitor's refresh rate. This gets rid of screen tearing, but at the cost of delayed input. This option is rarely recommended.
 
 Item_Gamme_Title = Kontrast Parlaklık
-Item_Gamme_Desc = Oyunun parlaklıgını ayarlar. Eğer oyun bazı yerlerde çok karanlıksa, bu ayarı açmayı düsünün.
+Item_Gamme_Desc = Oyunun parlaklığını ayarlar. Eğer oyun bazı yerlerde çok karanlıksa, bu ayarı açmayı düşünün.
 
 
-Item_ColorBlindness_Title = Renk Körlügü Düzeltmesi
+Item_ColorBlindness_Title = Renk Körlüğü Düzeltmesi
 Item_ColorBlindness_Desc = Renk körlügünden muzdarip insanlar içindir. Bu ayar, oyunun renklerini ayarlamayı deneyecektir.
 Item_ColorBlindness_Off = Kapalı
 Item_ColorBlindness_Protanopia = Kırmızı
