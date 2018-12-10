@@ -22,11 +22,11 @@ BadgeCollect4 = Bu şapkaya zaten sahipsin, ama [yarn]+1 [icon:yarn]yumak[/yarn]
 
 UnknownName = ??? Şapkası
 UnknownDescLocked0 = Açıklama yok.
-UnknownDescTech0 = Bu sapkanın herhangi bir amacı yok gibi gözüküyor.
+UnknownDescTech0 = Bu şapkanın herhangi bir amacı yok gibi gözüküyor.
 
 SprintName = Koşu Şapkası
 SprintDescLocked0 = Bu yumak koşmaya hazır gözüküyor!
-SprintDescLockedHat = Bu yumak koşmaya hazır gözüküyor!
+SprintDescLockedHat = Bu şapka koşmaya hazır gözüküyor!
 SprintDesc0 = Koşmak için [button:badge] tuşuna basılı tut!
 
 StatueFallName = Buz Şapkası
@@ -46,7 +46,7 @@ ChemicalDescFun0 = Deli karışımlar üret!
 ChemicalDescTech0 = Press [button:badge] to throw an explosive concoction!
 
 TimeStopName = Zaman Durduran Sapka
-TimeStopDescFun0 = Ölüm kaçınılmaz, zamanın degerlidir.
+TimeStopDescFun0 = Ölüm kaçınılmaz, zamanın değerlidir.
 TimeStopDescTech0 = Zamanı yavaşlatmak için [button:badge] butonuna bas!
 
 FoxMaskName = Orman Sakini Maskesi
