@@ -2,5 +2,4 @@
 
 * text=auto
 
-
-*.int text
+*.int text working-tree-encoding=UTF-16
