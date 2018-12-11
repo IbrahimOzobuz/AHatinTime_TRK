@@ -10,7 +10,7 @@ Title = Pon Fanatiği
 Objective = 20 Pons Topla
 50Pons = 50 Pons Topla
 100Pons 100 Pons Topla
-Tip0 = [icon:money] [name]Ponların[/name] ne olduğunu biliyorsun, değil mi? Şu küçük yeşil seyler?[br]Her yerdeler. Lütfen [icon:money] [name]Ponların[/name] ne olduğunu söyle bana.
+Tip0 = [icon:money] [name]Ponların[/name] ne olduğunu biliyorsun, değil mi? Şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Ponların[/name] ne olduğunu söyle bana.
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
 Title = The Great Big Hootenanny
@@ -41,9 +41,9 @@ Tip0 = Bu en zor görevin olacak: [name]Baş belası olmamak![/name]
 Title = Isıyı Yen
 Objective = Tüm Lava musluklarını kapat
 AvoidLava = Ateşlenme!
-MinWater = Don't cool down more than 2 times
-Condition = It's much hotter than usual, cool yourself off!
-Tip0 = Don't worry about doing every task on your contract at the same time. You can even [name]come back later[/name] and do them, I don't mind! Really![br][shake][scream]TAKE ALL THE TIME YOU NEED.[/scream][/shake]
+MinWater = Kendini 2 kereden fazla soğutma
+Condition = Hava normalden daha sıcak, kendini serinlet!
+Tip0 = Don't worry about doing every task on your contract at the same time. You can even [name]come back later[/name] and do them, I don't mind! Gerçekten![br][shake][scream]TAKE ALL THE TIME YOU NEED.[/scream][/shake]
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Sıfır Zıplama
@@ -82,7 +82,7 @@ Objective = En güçlü rakibini yen
 Condition = İyi şanslar!
 NoHats = Şapka yeteneklerini kullanma
 FewHits = Canının 1e inmesine izin verme
-Tip0 = Ara vermeyi unutma! Uzun süre hareket etmemek sağlığın için kötüdür!
+Tip0 = Ara vermeyi unutma! Uzun süre hareketsizlik sağlığın için kötüdür!
 
 [Hat_SnatcherContract_DeathWish_PonFrenzy]
 Title = Collect-a-thon
@@ -161,9 +161,9 @@ Condition = The Time Rift has become unstable!
 Tip0 = There sure are a lot of [icon:treasure] lying around. If only you had a [name]badge[/name] that made collecting them easier...
 
 [Hat_SnatcherContract_DeathWish_RiftCollapse_Birds]
-Title = Rift Collapse: Dead Bird Studio
-Objective = Complete The Dead Bird Studio Time Rift
-AllPons = Collect every Rift Pon
+Title = Rift Collapse: Dead Bird Stüdyosu
+Objective = The Dead Bird Stüdyosu Zaman Yarığını tamamlaz
+AllPons = Her Rift Ponlarını topla
 AllPons_Easy = Collect all Rift Pons but 3
 Faster = Complete with 30 seconds to spare
 Faster_Easy = Complete with 15 seconds to spare
@@ -202,16 +202,16 @@ Tip0 = Feeling a little lost? If only you had [icon:camerabadge] [name]something
 
 [Hat_SnatcherContract_DeathWish_NoAPresses_MafiaAlien]
 Title = Mafia's Jumps
-Objective = Complete 'She Came From Outer Space' in only 15 jumps
+Objective = 'O Uzaydan Geldi'yi sadece 15 zıplamayla tamamla
 Presses1 = 11 zıplamayla tamamla
 Presses2 = 7 zıplamayla tamamla
-Objective_Easy = Complete 'She Came From Outer Space' in only 24 jumps
+Objective_Easy = 'O Uzaydan Geldi'yi sadece 24 zıplamayla tamamla
 EasyPresses1 = 18 zıplamayla tamamla
 EasyPresses2 = 14 zıplamayla tamamla
-Tip0 = With a light tap, your [icon:icehat] can be used to climb up ledges without having to actually jump. Sounds useful!
+Tip0 = With a light tap, your [icon:icehat] can be used to climb up ledges without having to actually jump. Kulağa kullanışlı geliyor!
 
 [Hat_SnatcherContract_DeathWish_SurvivalOfTheFittest]
-Title = Quality Time with Snatcher
+Title = Snatcher ile Kaliteli Zaman
 Objective = Snatcher a 2 dakika dayan
 Medium = 4 dakika dayan
 Long = 6 dakika dayan
@@ -229,31 +229,31 @@ KillFast = Do it in less than 8 minutes
 Tip0 = Make sure you [name]kill everyone[/name], kiddo! You don't want to reach the end just to find out you have to [name]start over[/name], do you?
 
 [Hat_SnatcherContract_DeathWish_NiceBirdhouse]
-Title = Bird Barınağı
+Title = Kuş Barınağı
 Objective = Beat the Kuşevini without any birds getting hurt
 TimeLimit = Sona 65 saniyede ulaş
 MafiaHunt = 6 gizlenmiş Mafyayı yen
-Tip0 = Make sure you keep the birds away from those [name]explosive eggs[/name], kimsenin incinmesini görmek istemem!
+Tip0 = Make sure you keep the birds away from those [name]patlayan yumurtlar[/name], kimsenin incinmesini görmek istemem!
 
 [Hat_SnatcherContract_DeathWish_CameraTourist_1]
-Title = Camera Tourist
-Objective = Snap a picture of 8 different enemies
-GroupShot = Snap a single picture with 3 different enemies in it
-AllBosses = Snap a picture of every boss
-Tip0 = Make sure you get a picture of my good side! While I'm [name]killing you[/name], preferably.
+Title = Kameralı Turist
+Objective = 8 farklı düşmanın resmini çek
+GroupShot = 3 farklı düşmanın resmini tek kareye sığdır
+AllBosses = Her boss'un resmini çek
+Tip0 = Make sure you get a picture of my good side! While I'm [name]killing you[/name], tercihen.
 
 [Hat_SnatcherContract_DeathWish_MovingVault]
 Title = Vault Codes in the Wind
-Objective = Open the Golden Vault
+Objective = Altın Kasayı aç
 NoSlow = Don't slow the flow of time
 Kill = Find time to defeat 10 Mafia
 Kill_Easy = Find time to defeat one Mafia
 Condition = You only have 30 seconds to collect each Vault Code
-Tip0 = Take your time with this one, kid. Just relax and watch the Vault Codes flutter in the wind. It's very calming!
+Tip0 = Take your time with this one, çocuk. Just relax and watch the Vault Codes flutter in the wind. It's very calming!
 
 [Hat_SnatcherContract_DeathWish_MafiaBossEX]
-Title = Encore! Encore!
-Objective = Defeat the Mafia Boss
+Title = Tekrar! Tekrar!
+Objective = Mafya Patronunu Yen
 NoMiss = Don't miss your cue to attack
 NoHit = With One-Hit Hero equipped
 Condition = He's all charged up!
