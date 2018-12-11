@@ -1,3 +1,2 @@
-*.int
-*.INT
-/INT/
+*.int		text working-tree-encoding=UTF-16
+*.INT		text working-tree-encoding=UTF-16
