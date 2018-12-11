@@ -10,6 +10,7 @@
 
 ## Notlar
 > INT klasörü tamamen çevrilmiş olan dosyaları kapsamaktadır.
+> ATOM Text Editor'un Kullanılması dosyaların formatını bozabilmektedir, kullanmanız tavsiye edilmez.
 > Çevirilerin bir kısmı yanlış, hatalı, eksik olabilir; önerilerinizi 'issues' bölümünden belirtebilirsiniz.
 
 ## Katkıda Bulunanlar
