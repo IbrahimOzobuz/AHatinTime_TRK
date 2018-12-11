@@ -1,1 +1,1 @@
-*.int  encoding=cp1251
+.gitattributes   git-encoding=iso8859-1 working-tree-encoding=iso8859-1
