@@ -2,4 +2,6 @@
 
 * text=auto
 
-*.int text working-tree-encoding=UTF-16
+*.int text
+.gitignore text
+*.md text
