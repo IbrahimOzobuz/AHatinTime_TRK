@@ -1,8 +1,8 @@
 ﻿[murder]
 IntroMaidenName0 = A! Selam, baykuş dostum. Tanışma zevkine sahip olduğumuza inanamıyorum?
 IntroMaidenName1 = Söyleyebilirsin ki, ben de bir Ekspres Baykuşuyum. Ben de ötüyorum.
-IntroMaidenName2 = Bir baykuştan diğerine, detay verebilir miyiz, evet mi? Amcanın kız kardeşinin kızlık soyadı nedir?
-IntroMaidenName3 = Oh, bu [name][MotherMaidenName][/name] mi? Anladım, anladım. This is the kind of uncle's sister's maiden name I would expect from a fellow Express Owl
+IntroMaidenName2 = Bir baykuştan diğerine, bilgi verebilir miyiz, evet mi? Amcanın kız kardeşinin kızlık soyadı nedir?
+IntroMaidenName3 = Oh, bu [name][MotherMaidenName][/name] mi? Anladım, anladım. This is the kind of uncle's sister's maiden name I would expect from a fellow Express Owl.
 IntroMaidenName4 = Umarım I bir gün [name][MotherMaidenName][/name] ile karşılaşırız, as us Express Owls enjoy meeting the family of our fellow owls.
 
 BlackboardHelp0 = Selam, Express Baykuş dostum. İleri matematik ve bilimsel sorunda takıldım.
@@ -19,10 +19,10 @@ Pet4 = [PetName] kesinlikle ilginç bir evcil hayvan adı. Evcil hayvanın evcil
 
 Password0 = Selam, Ekspres Baykuşu dostum. Güvenliği önemser misin? Ben güvenliği her şeyden çok önemserim.
 Password1 = You should not be going around telling information to strangers. It could be a security risk!
-Password2 = I can help your daily life become more secure. What is your favorite combination of letters and numbers?
-Password3 = Anladım, anladım. [FavoritePassword] is also my favorite combination of letters and numbers.
+Password2 = Gündelik hayatının daha güvenli olmasını sağlayabilirim. Favori harf ve sayı kombinasyonun nedir?
+Password3 = Anladım, anladım. [FavoritePassword] ayrıca benim de favori harf ve sayı kombinasyonumdur.
 
-Username0 = Fellow Express Owl, do you ever wonder what it would be like to be a superhero?
+Username0 = Ekpres Baykuşu Dostum, do you ever wonder what it would be like to be a superhero?
 Username1 = The most important feature of a superhero is the name. Every superhero needs an intricate name to their fame.
 Username2 = If you were a superhero, what would your name be, if entered in an online form with standardized account identification requirements?
 Username3 = That name is great! I can already imagine it: the mighty [SuperheroName], savior of justice!
@@ -64,7 +64,7 @@ CafeteriaChatter5 = even if there was[br]a giant fire
 CafeteriaChatter6 = right as he was[br]about to sneeze
 CafeteriaChatter7 = ama birileri hepimizin[br] aynı paltoyu[br]giydiğimizi farketti mi?
 
-BodyPartChatter0 = o kız dedi ki[br][BodyPartName] utanıyormuş
+BodyPartChatter0 = o kız dedi ki[br][BodyPartName] parçasından utanıyormuş
 BodyPartChatter1 = onun çirkin[br][BodyPartName] parçasını görmeliydin
 BodyPartChatter2 = bu küçük kız[br]en çirkin [BodyPartName] parçasına sahip
 BodyPartChatter3 = bu kadar korkunç[br]bir [BodyPartName] parçası görmemiştim
@@ -72,10 +72,10 @@ BodyPartChatter4 = ona hiç sevmediği[br]vücut parçasını[br]sordum
 
 [finale]
 outside0 = Merhabalar, [br]sanık dostum. Burada [br]bizden çok var.
-outside1 = We are all here for crimes. İddiaya göre. What alleged crime did you commit, fellow criminal?
-outside1a = What legal term would you use to describe your crime?
+outside1 = Hepimiz suç için buradayız. İddiaya göre. Hangi iddia edilen suçu işledin, suçlu dostum?
+outside1a = Suçunu açıklamak için hangi hukuki terimi kullanırdın?
 outside1b = Anladım. So this is the face of [Crimes].
-outside2 = This is perplexing. Why have we birds been gathered here? Do you know, fellow criminal?
-inside0 = My fellow criminals [br]have not re-emerged from [br]the lava. Very strange.
+outside2 = Bu şaşırtıcı. Neden kuşlar olarak burada toplandık? Biliyor musun, suçlu dostum?
+inside0 = Benim suçlu dostlarım [br]have not re-emerged from [br]the lava. Çok tuhaf.
 inside1 = We criminals can [br]feel relief we have not[br] committed [Crimes].
 suicide0 = KAYBOL!
