@@ -12,6 +12,7 @@
 > INT klasörü tamamen çevrilmiş olan dosyaları kapsamaktadır.
 > ATOM Text Editor'un Kullanılması dosyaların formatını bozabilmektedir, kullanmanız tavsiye edilmez.
 > Çevirilerin bir kısmı yanlış, hatalı, eksik olabilir; önerilerinizi 'issues' bölümünden belirtebilirsiniz.
+> menus.int dosyası düzenlemeyin, düzenlediğinizanda UTF8'e dönüşüyor.
 
 ## Katkıda Bulunanlar
 > * Hoshungen
