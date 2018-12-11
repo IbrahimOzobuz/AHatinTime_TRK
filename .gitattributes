@@ -1,5 +1,3 @@
-// DENEME
-
-* text=auto
-
 *.int
+*.INT
+/INT/
