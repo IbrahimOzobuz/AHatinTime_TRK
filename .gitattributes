@@ -1,1 +1,4 @@
-*.int encoding=cp1252
+* text=auto
+
+.gitignore text
+*.int text
