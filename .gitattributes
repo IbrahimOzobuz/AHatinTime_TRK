@@ -1,1 +1,1 @@
-*.int binary
+echo '*.int encoding=cp1252' > .gitattributes
