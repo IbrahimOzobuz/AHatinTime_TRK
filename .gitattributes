@@ -1,1 +1,1 @@
-echo '*.int encoding=cp1252' > .gitattributes
+*.*
