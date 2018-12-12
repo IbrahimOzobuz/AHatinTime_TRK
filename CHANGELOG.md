@@ -1,6 +1,9 @@
 # Sürüm Geçmişi
 Tüm kaydadeğer gelişmeler buradan açıklanacaktır.
 
+## Yaklaşan Güncelleme
+- Türkçe Dokular (2D Textures) [Pre-ALPHA]
+
 ## [0.0.1](https://github.com/Hepobur/AHatinTime_TRK/compare/master...0.0.1) - [12.12.2018]
 
 ### Eklendi
@@ -9,7 +12,8 @@ Tüm kaydadeğer gelişmeler buradan açıklanacaktır.
 
 ### Değiştirildi
 - Steam sürümü için DLC gerekliliği kaldırıldı
+- Language Pack -> Asset Replacement otomatik düzeltmesi
 
 ### Düzeltildi
-- Çevirideki Hata Düzeltmeleri
+- Çevirideki Hatalar düzeltildi
 - Türkçe Harf eklemeleri ('Sapka' -> Şapka / 'SILAH' -> SİLAH)
