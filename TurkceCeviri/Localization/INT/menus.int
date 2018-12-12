@@ -496,7 +496,7 @@ Help_Exit = Çık
 Action_EnterCompletedAct = Bu perdeyi tamamladın. Yine de gir?
 Action_MissingItem = You're missing a key item[br]and won't be able to complete this act. Yine de gir?
 
-StandOff_Confirm_Conductor0 = Conductor yüksek skora sahip! Confirm him as the winner?
+StandOff_Confirm_Conductor0 = Kondüktör yüksek skora sahip! Confirm him as the winner?
 StandOff_Confirm_Conductor1 = He's kinda smug about it. Sure you want him to win?
 
 StandOff_Confirm_DJGrooves0 = DJ Grooves yüksek skora sahip! Confirm him as the winner?
