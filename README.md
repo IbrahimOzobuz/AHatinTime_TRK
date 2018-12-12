@@ -3,7 +3,7 @@
 
 ## Nasıl Yüklenir ? (GitHub)
 > 1. Steam'dan A Hat in Time oyununu seçin.
-> 2. Özellikler -> Yerel Dosyalar -> Yerel dosyalara gözat
+> 2. Özellikler → Yerel Dosyalar → Yerel dosyalara gözat
 > 3. HatinTimeGame/Mods dizinine gelin, TurkceCeviri klasörünü bu dizine yapıştırın.
 
 ## Notlar
