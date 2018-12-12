@@ -1,0 +1,1 @@
+class TurkceCeviri_AutoGenGameModClass extends GameMod;
