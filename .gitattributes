@@ -1,1 +1,2 @@
 [attr]utf16 diff merge -crlf
+*.int utf16
