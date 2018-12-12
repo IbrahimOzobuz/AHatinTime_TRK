@@ -9,7 +9,7 @@
 ## Notlar
 > 2. ATOM Text Editor'un Kullanılması dosyaların formatını bozabilmektedir, kullanmanız tavsiye edilmez. NotePad++ kullanılması tavsiye edilir.
 > 3. Çevirilerin bir kısmı yanlış, hatalı, eksik olabilir; önerilerinizi GitHub'taki 'Issues' bölümünden belirtebilirsiniz.
-> 4. Dosyaları GitHub'un editöründen düzenlemeyin, düzenlediğiniz anda UTF8'e dönüşüyor.
+> 4. GitHub Big-Endian Kodlamasını UTF-8 yaptığı için bu dosyaların yeniden UTF-16BE biçiminde yüklenmesi gerekmektedir.
 
 ## Katkıda Bulunanlar
 > * Hoshungen
