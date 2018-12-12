@@ -1,1 +1,1 @@
-*.int filter=mixedtext
+[attr]utf16 diff merge -crlf
