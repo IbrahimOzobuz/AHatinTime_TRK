@@ -5,9 +5,9 @@ Tüm kaydadeğer gelişmeler buradan açıklanacaktır.
 
 ### Eklendi
 - Asset Replacement ile Türkçe Harf Desteği eklendi [BETA]
-- Yepyeni Çeviriler
+- Yepyeni Çeviriler (Localization/INT)
 - Çevirideki Hata Düzeltmeleri
 - Türkçe Harf eklemeleri ('Sapka' -> Şapka / 'SILAH' -> SİLAH)
 
 ### Değiştirildi
-Steam sürümü için DLC gerekliliği kaldırıldı
+- Steam sürümü için DLC gerekliliği kaldırıldı
