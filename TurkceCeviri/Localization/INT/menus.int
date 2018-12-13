@@ -401,8 +401,8 @@ BrokenControllerSoftware1 = Consider turning off the software you're using, and 
 
 [Loadout]
 TimePieces_Main = Ana
-TimePieces_Bonus = Time Rifts
-Loadout_Swap_Hat = Sapka seç!
+TimePieces_Bonus = Zaman Yarıkları
+Loadout_Swap_Hat = Şapka seç!
 Loadout_Swap_Mask = Maske seç!
 Loadout_Swap_Skin = Renk seç!
 Loadout_Swap_Ability = Bir Yetenek Seç!
@@ -410,14 +410,14 @@ Loadout_Swap_Badge = Bir Rozet Seç!
 Loadout_BadgeLocked = Bunu örmek için [yarn][num] [icon:yarn]yumağa[/yarn] ihtiyacın var!
 Loadout_BadgeLocked_Affordable = Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
 
-Loadout_AbilityActivation_Trigger = Activate
+Loadout_AbilityActivation_Trigger = Etkin
 Loadout_AbilityActivation_Jump = Zıpla
 Loadout_AbilityActivation_Automatic = Otomatik
 Loadout_AbilityActivation_Attack = Saldır
 Loadout_AbilityActivation_Weapon = Silah
 
-Options_ReturnToHUB_Q = Kaydet & Return to Hub?
-Options_ReturnToHUB_NoSaving_Q = Return to Hub?
+Options_ReturnToHUB_Q = Kaydet & Hub'a dön?
+Options_ReturnToHUB_NoSaving_Q = Hub'a dön?
 Options_QuitGame_Q = Oyundan Çık?
 Options_QuitGame_InGame_Q = Kaydet & Çık...
 Options_QuitGame_InGame_NoSaving_Q = Kaydetmeden Çık...
@@ -564,7 +564,7 @@ Bill_Cactus = Kaktüs e suikast girisimi
 Bill_TeePee = Teepee T-KO
 
 [MovieCredits]
-Author_Condutor = CONDUCTOR YÖNETTİ
+Author_Condutor = KONDÜKTÖR YÖNETTİ
 Author_DJ = DJ GROOVES YÖNETTİ
 Starring = BAŞROLLER
 Highscore = DEĞERLENDİRMELER...
