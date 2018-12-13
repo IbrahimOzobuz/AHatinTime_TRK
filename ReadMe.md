@@ -1,5 +1,5 @@
 # A Hat in Time - Türkçe Çeviri, Türkçe Yama
-> Bu çeviri modu ```A Hat in Time``` adındaki Steam Oyunu içindir ve Steam sürümünden önce çıkarılmaktadır, hatalar meydana gelebilir veya hatalı gözüken harflere rastlayebilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir.
+> Bu çeviri modu ```A Hat in Time``` adındaki Steam Oyunu içindir ve Steam sürümünden önce çıkarılmaktadır, hatalar meydana gelebilir veya hatalı gözüken harflere rastlayabilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir.
 
 ## Nasıl Yüklenir ? (GitHub)
 > 1. Steam'dan A Hat in Time oyununu seçin.
