@@ -8,7 +8,7 @@
 
 ## Notlar
 > 1. ATOM Text Editor'un Kullanılması dosyaların formatını bozabilmektedir, kullanmanız tavsiye edilmez. NotePad++ kullanılması tavsiye edilir.
-> 2. Çevirilerin bir kısmı yanlış, hatalı, eksik olabilir; önerilerinizi GitHub'taki 'Issues' bölümünden belirtebilirsiniz.
+> 2. Çevirilerin bir kısmı yanlış, hatalı, eksik olabilir; önerilerinizi GitHub'taki **Issues** bölümünden belirtebilirsiniz.
 > 3. GitHub Big-Endian Kodlamasını **UTF-8** yaptığı için bu dosyaların yeniden **UTF-16BE** biçiminde yüklenmesi gerekmektedir.
 > 4. Clone, Push yaparken **GitKraken** kullanabilirsiniz.
 
