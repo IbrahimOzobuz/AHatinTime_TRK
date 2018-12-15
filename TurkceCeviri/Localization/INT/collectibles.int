@@ -42,7 +42,7 @@ HelpDescTech0 = Sonraki [icon:timepiece][timepiece]Zaman Parçası[/timepiece]n�
 HelpUsage = Hedefini bulmak için [icon:activehat] kullan!
 
 ChemicalName = Brewing Şapkası
-ChemicalDescFun0 = Deli karışımlar üret!
+ChemicalDescFun0 = Deli karışımlar hazırla!
 ChemicalDescTech0 = Press [button:badge] to throw an explosive concoction!
 
 TimeStopName = Zaman Durduran Şapka
@@ -68,7 +68,7 @@ UnknownDescTech0 = Bu yeteneğin herhangi bir amacı yok gibi gözüküyor.
 OneHitDeathName = 1-Hit Hero Badge
 OneHitDeathDesc0 = Bir vuruşta ölürsün. Sadece kahramanlar için!
 
-SuckInOrbsName = Item Magnet Badge
+SuckInOrbsName = Eşya Mıktanısı Rozet
 SuckInOrbsFun0 = Eşya ulaşılamaz mı? Artık sorun degil!
 SuckInOrbsTech0 = Yakınlardaki nesneleri çeker!
 
