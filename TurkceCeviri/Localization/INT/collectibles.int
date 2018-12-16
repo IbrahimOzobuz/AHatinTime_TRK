@@ -43,7 +43,7 @@ HelpUsage = Hedefini bulmak için [icon:activehat] kullan!
 
 ChemicalName = Brewing Şapkası
 ChemicalDescFun0 = Deli karışımlar hazırla!
-ChemicalDescTech0 = Press [button:badge] to throw an explosive concoction!
+ChemicalDescTech0 = Patlayıcı karışımı atmak için [button:badge] butonuna bas!
 
 TimeStopName = Zaman Durduran Şapka
 TimeStopDescFun0 = Ölüm kaçınılmaz, zaman değerlidir.
