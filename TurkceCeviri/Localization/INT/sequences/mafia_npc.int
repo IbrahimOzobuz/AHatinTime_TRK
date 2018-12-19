@@ -162,13 +162,13 @@ bar4 = O kız asi gibi duruyor. Gözünü ondan ayırma.
 
 [spaceship]
 flyingboat0 = Bu da ne, uçan bot mu?
-flyingboat1 = All boats need to[br]pay toll in[br][name]Mafia Town[/name].
+flyingboat1 = Tüm botlar [br]vergi ödemelidir[br][name]Mafya Kasaba[/name]sına.
 flyingboat2 = ...uzayda [br]olsa bile!
-flyingboat3 = Mafia come in[br]to collect.
+flyingboat3 = Mafya toplamaya[br]geldi.
 
 [cheating_race]
 intro0 = Haha! Roketler hızlıdır, ve Mafya roketteyse, Mafya hızlıdır! Dünyanın en hızlı adamı!
-intro1 = Little child want to race fastest man alive? Mafia stole [icon:timepiece][timepiece]Time Piece[/timepiece] from HQ. Kazanırsan,Mafya onu sana verecek.
+intro1 = Little child want to race fastest man alive? Mafya [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nı HQ'dan çaldı. Kazanırsan, Mafya onu sana verecek.
 intro2 = Küçük çocuk emin? You look very slow, maybe come back later when child can travel faster?
 intro3 = It is on! Mafia not sure Mafia survive this, but at least Mafia die as fastest man alive!
 intro_a = Race me, chicken!
@@ -176,7 +176,7 @@ intro_b = Bye, loser!
 intro_c = Race me already!
 
 [cave_dreams]
-rules_explained0 = Hello, little child. This is Mafia time rift. [timepiece][icon:timepiece]Time Piece[/timepiece] hit Mafia in head, and now time rift filled with Mafia thoughts and dreams.
+rules_explained0 = Merhaba, küçük çocuk. Burası Mafya zaman yarığıdır. [timepiece][icon:timepiece]Time Piece[/timepiece] hit Mafia in head, and now time rift filled with Mafia thoughts and dreams.
 rules_explained1 = This time rift is simple. Simple like Mafia, just how Mafia like it.
 rules_explained2 = Rules of time rift: If you die, you start over. You need [treasure][icon:treasure]Rift Pons[/treasure] to go deeper.
 rules_explained3 = That is all the rules. Please tread carefully in Mafia time rift. Mafia like to experience past.
