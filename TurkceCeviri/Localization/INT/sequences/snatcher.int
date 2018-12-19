@@ -78,7 +78,7 @@ home_intro1 = [shake2]You won't get anything from me until you complete your end
 nosoul0 = [shake2]You weren't expecting to get your soul back just because you completed your initial contract, were you?[/shake2]
 nosoul1 = [shake2]Well, [shake][big][scream]TOO BAD![/scream][/big][/shake][/shake2][br][shake2]You're my newest servant, and our business isn't concluded yet! Get it done, then we'll talk![/shake2]
 
-home_businessconcluded = [shake2]Kid, our business is concluded. I'm not giving you anything else. KaybolşğĞŞ![/shake2]
+home_businessconcluded = [shake2]Kid, our business is concluded. I'm not giving you anything else. Kaybol![/shake2]
 
 wheretogo_subconwell0 = [shake2]You're supposed to be cleaning the well, kid. It's deep inside the swamp, but it's big enough even a tiny thing like you can't miss it. Try not to trip and hit your head at the bottom... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
