@@ -5,7 +5,7 @@ TimePieceDirection2 = Her durumda, gerçekten çok parlak olmamasını isterdim.
 
 [finale]
 finale0 = Bitti... mi? Hava tekrar temiz!
-finale1 = And the goats seem to have come to their senses again. I don't really understand it, but I assume we have you to thank!
+finale1 = And the goats seem to have come to their senses again. Gerçekten bunu anlamadım, ama I assume we have you to thank!
 finale2 = We found this in a cluster of those flowers after they wilted again. You were pretty insistent in going after the others, so I guess it belongs to you?
 finale3 = Bize yardım ettiğin için teşekkürler!
 
@@ -39,11 +39,11 @@ guide_danger0 = Selam! This is clearly a [br]safe place for a [br]child to be.
 [PeakSize]
 size0 = Bu zirvede gerçekten bir sürü kocaman yapı var.
 size1 = Onları kimin yaptığını merak ediyorum.
-size2 = ... Kuşlar kuşevini yapmamıştır, degil mi?
+size2 = ... Kuşlar kuşevini yapmamıştır, değil mi?
 
 [Flowers]
 flowers0 = Etrafta mor çiçeklerin büyüdüğünü gördün mü?
-flowers1 = I'd keep your distance. Something seems weird about them to me.
+flowers1 = Ben olsam uzak dururdum. Something seems weird about them to me.
 
 [Horns]
 explanation0 = Neden borulara biz üflemiyoruz?
