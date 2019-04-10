@@ -1,10 +1,12 @@
-# A Hat in Time - Türkçe Çeviri, Türkçe Yama
-> Bu çeviri modu ```A Hat in Time``` adındaki Steam Oyunu içindir ve Steam sürümünden önce çıkarılmaktadır, hatalar meydana gelebilir veya hatalı gözüken harflere/cümlelere rastlayabilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir ve bu yapmış olduğum farklı bir projeyle sunulmuştur.
+# A Hat in Time - Türkçe Çeviri
+<p align="center"><img width="200" height="200" src="https://raw.githubusercontent.com/Hepobur/AHatinTime_TRK/0.0.1/TurkceCeviri/icon_TRK.png"></p>
+
+> Bu çeviri modu ```A Hat in Time``` adındaki Steam Oyunu içindir ve Steam sürümünden önce çıkarılmaktadır, oyun içi hatalar meydana gelebilir veya hatalı gözüken harflere/cümlelere rastlayabilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir ve bu yapmış olduğum farklı bir projeyle sunulmuştur.
 
 ## Nasıl Yüklenir ? (GitHub)
-> 1. Steam'dan A Hat in Time oyununu seçin.
-> 2. Özellikler → Yerel Dosyalar → Yerel Dosyalara Gözat
-> 3. HatinTimeGame/Mods dizinine gelin, **TurkceCeviri** klasörünü bu dizine yapıştırın.
+> 1. Steam'dan 'A Hat in Time' oyununu seçin.
+> 2. Sırasıyla 'Özellikler → Yerel Dosyalar → Yerel Dosyalara Gözat' yolunu izleyin.
+> 3. HatinTimeGame/Mods dizinine gelin, **TurkceCeviri** klasörünü bu klasör dizinine yapıştırın.
 
 ## Notlar
 > ATOM Text Editor'un Kullanılması dosyaların formatını bozabilmektedir, kullanmanız tavsiye edilmez bu yüzden NotePad++ kullanmanız tavsiye edilir.
