@@ -1,1 +1,0 @@
-class TurkceFont_AutoGenGameModClass extends GameMod;
