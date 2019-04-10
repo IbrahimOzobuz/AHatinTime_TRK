@@ -2,7 +2,8 @@
 Tüm kaydadeğer gelişmeler buradan açıklanacaktır.
 
 ## Yaklaşan Güncelleme
-- Türkçe Dokular (2D Textures) [Pre-ALPHA]
+- Yepyeni Çeviriler
+- Türkçe Dokular (2D Textures) [Pre-ALPHA] adında farklı bir GitHub projesiyle.
 
 ## [0.0.1](https://github.com/Hepobur/AHatinTime_TRK/compare/master...0.0.1) - [12.12.2018]
 
