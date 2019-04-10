@@ -1,5 +1,5 @@
 # A Hat in Time - Türkçe Çeviri
-<p align="center"><img width="200" height="200" src="https://raw.githubusercontent.com/Hepobur/AHatinTime_TRK/0.0.1/TurkceCeviri/icon_TRK.png"></p>
+<p align="center"><img width="200" height="200" src="https://github.com/Hepobur/AHatinTime_TRK/blob/master/TurkceCeviri/icon_TRK.png"></p>
 
 > Bu çeviri mod'u ```A Hat in Time``` adındaki Steam Oyunu için yapılmıştır ve Steam sürümünden önce çıkarılmaktadır, oyun içi hatalar meydana gelebilir veya hatalı gözüken harflere/cümlelere rastlayabilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir.
 
