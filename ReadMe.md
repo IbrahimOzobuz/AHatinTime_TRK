@@ -15,6 +15,8 @@
 > Clone, Push yapmak için **GitKraken** kullanabilirsiniz.
 
 ## Yapılacaklar / Yapıldı
+- [ ] Nyakuza Metro çevirisine başlanacak.
+- [ ] Çeviri doğruluğu paketi eklenecek.
 - [ ] Türkçe Doku Paketi eklenecek.
 - [x] Deneysel durumda olan Türkçe bir Font eklendi.
 
