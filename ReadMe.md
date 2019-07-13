@@ -1,10 +1,6 @@
 # A Hat in Time - Türkçe Çeviri
 <p align="center"><img width="200" height="200" src="https://github.com/Hepobur/AHatinTime_TRK/blob/master/TurkceCeviri/icon_TRK.png"></p>
 
-> Bu çeviri projesi, oyunu Türkçe oynatmak tasarlanmıştı; ama artık, Localization (Çeviri) dosyalarının sürekli düzenlenmesi/güncellenmesi, projeye ilgimin kalmaması, Tek kişi yönetimli/odaklı proje, font'un saçma sapan aşağıda gözükmesi, projeye ilginin olmaması (8 → 5), projenin %40 çeviri durumu, gibi sorunlar dolayısıyla, bu projeyi durdurma kararı aldım. Bu proje artık arşivlenmiş halde GitHub'ta duracaktır.
-
-> NOT: Nyakuza ile ilgili güncellemeyi kapsamadı bu proje, farklı bir Repo açmıştım. Ayrıca Projeyi (Turkish Translation) Steam Atölyeden de kaldırdım. Umarım bu oyun için Hayran Çevirileri yerine, Profesyonel çevirmenler tarafından çevrilen Official **TRK** dosyaları gelir. Tüm temennim bu yöndedir. (24/05//2019 - 01:23)
-
 > Bu Türkçe çeviri modu ```A Hat in Time``` adındaki Steam Oyunu için yapılmıştır ve Steam sürümünden önce çıkarılmaktadır, oyun içi hatalar meydana gelebilir veya hatalı gözüken harflere/cümlelere rastlayabilirsiniz. Sadece diyaloglar, menü içerikleri *Türkçeye* çevrilir. Resimlerin çevrilmesi için **Asset Replacement** gerekmektedir.
 
 ## Nasıl Yüklenir ? (GitHub)
