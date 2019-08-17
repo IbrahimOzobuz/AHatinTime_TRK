@@ -1,6 +1,6 @@
 [general]
-playerdied0 = [shake2][wave]I love the smell of [scream][big]DEATH[/big][/scream] in the morning...[/wave][/shake2]
-playerdied1 = [shake2]Killing you is hard work, but it pays off, HA HA HA.[/shake2]
+playerdied0 = [shake2][wave]Sabahları [scream][big]ÖLÜM[/big][/scream]ün kokusunu severim....[/wave][/shake2]
+playerdied1 = [shake2]Seni öldürmek zor iştir, ama buna değiyor, HA HA HA.[/shake2]
 playerdied2 = [shake2]Oh, did that hurt? Maybe you should stop doing it then, kiddo.[/shake2]
 playerdied3 = [shake2]If you love dying so much, maybe you should marry it![/shake2]
 playerdied4 = [shake2]Oh, that's just tragic. It'd break my heart if I had one.[/shake2]
@@ -15,7 +15,7 @@ playerdied12 = [shake2]Oh no, you're not slipping out of your contract that easi
 playerdied13 = [shake2]Whoops![/shake2]
 playerdied14 = [shake2]Wow, nice job! Really great work out there, kiddo. Impressive stuff.[/shake2]
 playerdied15 = [shake2]I have to hand it to you, kid. Nobody dies quite like you do.[/shake2]
-playerdied16 = [shake2]Regretting the whole 'best friends forever' thing yet, kid? I can do this a whole lot longer than you can.[/shake2]
+playerdied16 = [shake2]Regretting the whole 'best friends forever' thing yet, kid? I can do this a lot longer than you can.[/shake2]
 playerdied17 = [shake2][wave]Ahhh[/wave], it gets better every time![/shake2]
 playerdied18 = [shake2]Is this what you call trying? These contracts won't fulfil themselves, kid.[/shake2]
 playerdied19 = [shake2]Are you having fun, kid? Is this exciting for you?[/shake2]
@@ -70,13 +70,13 @@ Intro8 = [shake2]Getting too warm, kid? I'm sure there's someone here who can co
 Intro9 = [shake2]It must be hard to think straight in all that heat, kiddo. There's no shame in [wave]giving up.[/wave][/shake2]
 
 [StudioMoreGuards]
-Intro0 = [shake2]I saw one of your movies once. It was in the bargain bin. I didn't buy it.[/shake2]
-Intro1 = [shake2]Hey kiddo. Just dropping by to let you know I pirated your movie. And I didn't even finish it.[/shake2]
+Intro0 = [shake2]I saw one of your movies once. It was in the bargain bin. Almadım.[/shake2]
+Intro1 = [shake2]Hey ufaklık. Just dropping by to let you know I pirated your movie. Ve bitirmedim bile.[/shake2]
 
 [PonFrenzy]
 Intro0 = [shake2]I hope you're planning to claim all these Pons on your taxes.[/shake2]
 Intro1 = [shake2]Go on, start collecting! I have to pay for all this ink somehow...[/shake2]
-Intro2 = [shake2]Show me the money![/shake2]
+Intro2 = [shake2]Paranı göster![/shake2]
 
 [CruiseWorkingHard]
 Intro0 = [shake2]Those seals are accident-prone, and incapable of performing the most basic tasks... and yet, they'd still be better at this than you.[/shake2]
@@ -108,9 +108,9 @@ Intro7 = [shake2]Face it kid, your speedrunning career was over before it even b
 
 [CanKick]
 cans_a0 = [big][timepiece]Nice Shot![/timepiece][/big]
-cans_a1 = Keep our ship clean!
+cans_a1 = Gemimizi temiz tutalim!
 cans_a2 = Put trash in its proper place!
-cans_b0 = Oh look! You did it again!
+cans_b0 = Oh bak! Yine yaptın!
 cans_b1 = Not satisfied with just one, eh? I like you. You know how to have a good time.
 cans_b2 = In that case, new [timepiece]Death Wish[/timepiece] unlocked: [hint]Kick 6 Cans Behind the Desk![/hint]
 cans_b3 = You've already done two, now go find the other four.
