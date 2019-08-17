@@ -16,16 +16,8 @@ PetTrap3 = [shake2]What are you gonna do?[br]Save [PetName] from becoming saw du
 DogThankYou0 = Beni kurtardığın için teşekkürkler kibar insan canlısı. Hav. Hav.
 DogThankYou1 = Katilde bu ipucunu buldum. Umarım bu yardımcı olur. Hav. Hav.
 
-PetWarning0 = [shake2]Are you sure you wanna leave [PetName] hanging?[/shake2]
-
-
-bırakmak isteddiğine emin misin?
-
-
-AD  emin misin?
-
-
-PetWarning1 = [shake2]Why not turn around, and give [PetName] a[br]little time-consuming help before it's too late?[/shake2]
+PetWarning0 = [shake2][PetName] asılı bırakmak isteddiğine emin misin?[/shake2]
+PetWarning1 = [shake2]Neden etrafta dolaşmıyor ve give [PetName] a[br]little time-consuming help before it's too late?[/shake2]
 
 suspect_mothermaiden0 = ...
 suspect_mothermaiden1 = Tamamdır, beni yakaladın, canım.
