@@ -1,16 +1,19 @@
 [murder]
 CrowAskForDetails0 = Have you noticed all these crows around the place?
-CrowAskForDetails1 = They keep asking for personal details, and I never know what to answer!
+CrowAskForDetails1 = Kişisel bilgiler sorup duruyorlar, ve ben ne cevap vereceğimi bilemiyorum bile!
 
-CrowsGotOn0 = Did you notice that there's suddenly a lot of crows on this train? They all got on at the last stop.
-CrowsGotOn1 = Speaking of, at which stop did you get on the train?
+0= Bu trendeki tüm bu kargaları farkettin mi?
+1=
+
+CrowsGotOn0 = Did you notice that there's suddenly a lot of crows on this train? Onların hepsi son duraktayken geldirler.
+CrowsGotOn1 = Bahsederken, bu trene hangi duraktayken geldin?
 CrowsGotOn2 = ...
-CrowsGotOn3 = ... what do you mean you fell from the sky?
+CrowsGotOn3 = ... gökyüzünden düştü derken ne demek istiyorsun?
 
 CrowsAnnoy0 = It's really difficult to get settled down on this train with these crows crowding the place.
 CrowsAnnoy1 = They keep interviewing me about everything I do!
 
-ScientificEquation0 = I don't get it, how is this a scientific equation of any kind?[br]It's just scrambled numbers and letters, like those you see on an online form.
+ScientificEquation0 = Anlamadım, how is this a scientific equation of any kind?[br]It's just scrambled numbers and letters, like those you see on an online form.
 
 StayOut0 = Wait, don't come in here. I lost my contact lens somewhere... please don't step on it![br]I can't move out of the way, I might step on it myself!
 StayOut1 = I hope no one goes into the VIP area and accidentally steps on my contact lens...
@@ -18,14 +21,22 @@ PostMurder0 = Man, I just needed to get home from work. I didn't sign up for a b
 PostMurder1 = My wife is gonna kill me.
 
 OwlHiddenRoom0 = Man, this is the life.[br]Nothing beats a[br]hot sauna.
-OwlHiddenRoom1 = Did you hear[br]some noise outside?
+OwlHiddenRoom1 = Dışarıdan gelen sesi [br]duydun mu?
 OwlHiddenRoom2 = Eh, peck it.[br]I don't wanna go[br]out in the cold.
 
-VictimRubberKnife0 = Yeah, can I go now? I'm kinda sore from playing dead for so long.
-VictimRubberKnife1 = This rubber knife is also a bit uncomfortable.
+
+
+
+
+
+
+VictimRubberKnife0 = Evet, şimdi gidebilir miyim? I'm kinda sore from playing dead for so long.
+VictimRubberKnife1 = Bu kauçuk bıçak ayrıca birazcık rahatsız edici.
+
+
 
 suspect_sciowls0 = ...
-suspect_sciowls1 = It's true.
+suspect_sciowls1 = Bu doğru.
 suspect_sciowls2 = We were sitting in the lounge playing card games, and we were having so much fun! Everyone enjoyed the peace and quiet of card games!
 suspect_sciowls3 = ... and Robin wouldn't stop chewing with his mouth open.
 suspect_sciowls4 = Seriously, who chews with their mouth open? So we stabbed him with the rubber knife, to get some peace and quiet.
@@ -79,15 +90,17 @@ listentomusic_newadventure0 = Okay, you might actually have heard this one befor
 calm0 = What are we filming[br]today? There's no stops[br]on the schedule...
 calm1 = Did we load more [br]explosives than usual [br]today?
 calm2 = I hope today's filming [br]doesn't run late...
-rush0 = [scream]We're doomed![/scream]
-rush1 = [scream]Run, kid![/scream]
-rush2= [scream]Is there a b-bomb on this train?![/scream]
+rush0 = [scream]Mahvolduk![/scream]
+rush1 = [scream]Koş, çocuk![/scream]
+rush2= [scream]Bu trende b-bomba mı var?![/scream]
 
 [finale]
-outside0 = What are we being judged for? 
-outside01 = All our movies were wholesome action flicks!
-outside1 = I've never done a [br]crime in my life!
-outside2 = I'm really not getting to work on time...
-inside0 = I can't get through there! [br]I'm no stunt owl!
+outside0 = N'için yargılanıyoruz?
+outside01 = Tüm filmlerimiz were wholesome action flicks!
+
+
+outside1 = Hayatımda asla [br]cinayet işlemedim!!
+outside2 = Ben işe asla zamanında başlayamadım...
+inside0 = Oraya gidemem! [br]Dublör baykuşu değilim ben!
 inside1 = [scream]Aaaaghhh![/scream]
 attack0 = Gimme your [br]back-of-the-line [br]ticket!
