@@ -1,27 +1,27 @@
 [encounter]
-Encounter0 = WHO'S THERE?
-Encounter1 = WHO DARES[br]ENTER MY HOME?
+Encounter0 = O KİM?
+Encounter1 = KİM EVİME GİRMEYE[br]CÜRET EDİYOR?
 
 [diaries]
-crowning0 = Mother had a bit of an accident last week, so today I got crowned as queen. Now the prince can't call me his princess! Life isn't fair!
-prince_breakfast0 = My prince enjoys his breakfast far too much. I'm jealous of that darn bacon! He loves it! No more bacon in this house!
+crowning0 = Annem geçen hafta bir kaza geçirdi, bu yüzden bugün kraliçe olarak taçlandırıldım. Şimdi prens bana prensesim diyemiyor! Hayat adil değil!
+prince_breakfast0 = Prensim kahvaltısını çok fazla sever. O lanet pastırmayı kıskanıyorum! O bunu seviyor! Bu evde bundan sonra pastırma yok!
 mom_breakfast0 = Mother keeps insisting I be "proper". A young lady can do what she wants!
 mom_breakfast1 = Just this morning I had two cookies for breakfast. That will show her. I might even have a third.
 cellar_chains0 = Oh, I wish I could just keep him always! Locked up and in chains in the cellar! But you can't chain a man... can you?
-prince_hair0 = I'm sorry about your hair, my prince. I just wanted our lengths to match! ...and color... and curl... you look wonderful!
-princeletter0 = My Dearest Vanessa,[br]It has been many days since I saw you last, but it feels like months.
+prince_hair0 = Saçın için üzgünüm, prensim. I just wanted our lengths to match! ...ve rengi... ve kıvrımları... sen harika gözüküyorsun!
+princeletter0 = Benim En sevgili Vanessa'm,[br]Seni son gördüğümden beri çok gün oldu, ama bana aylar gibi geldi.
 princeletter1 = My time at the Academy is hard, but I am progressing quickly. There is so much to study when it comes to law, but the library here is well-stocked.
-princeletter2 = Our tutors are the finest in the land, and I am thankful for their help. I have been attending private study with one, an experienced practitioner of law by the name of Lady - 
-princeletter3 = The rest of the letter is ruined and torn.
-diary0 = An old, ruined diary. A lot of the pages have been torn out.
-diary1 = Turn to one that's left?
-diarychoice_1 = Page 13
-diarychoice_2 = Page 48
-diarychoice_3 = Page 73
-diary13a = Dear diary,[br]Today my prince left to begin his studies. He will be so far away, and for so long. He has promised to write. He won't forget me, will he?
-diary13b = His beloved princess?
-diary48a = Why? What have I done wrong? In his letters he talks about her. A 'tutor'. He says he loves me. But SHE sees him. I get letters, and SHE gets his time. 
-diary48b = He is MINE. Once his studies are finished I will have him back.
-diary73a = He is coming back. Just one weekend. A short holiday, from HER. I will convince him to stay.
-diary73b = I CANNOT let my love leave again.
-diary73c = Sounds a little melodramatic.
+princeletter2 = Öğretmenlerimiz bu ülkenin en iyileri, ve onlara yardımlarından dolayı minnettarım. I have been attending private study with one, an experienced practitioner of law by the name of Lady.
+princeletter3 = Mektubun geri kalanı harap ve yırtık.
+diary0 = Eski, harap bir günlük. Birçok sayfası yırtılmış.
+diary1 = Kalan sayfaları aç?
+diarychoice_1 = Sayfa 13
+diarychoice_2 = Sayfa 48
+diarychoice_3 = Sayfa 73
+diary13a = Sevgili günlük,[br]Bugün prensim çalışmalarına başlamak için terk etti. Prensim çok uzaklarda olacak, ve çok uzun zamandır. Prensim mektuplaşacağına söz verdi. Presim beni unutmayacak, unutacak mı?
+diary13b = Onun sevgili prensesi?
+diary48a = Neden? Neyi yanlış yaptım? Mektuplarında prensim ondan bahsediyor. Bir 'öğretmen'. O beni sevdiğini söylüyor. Ama O KIZ onu görüyor. Mektuplar alıyorum, ve O KIZ zamanını alacak.
+diary48b = Prens BENİM. Çalışmaları bittiğinde ona yeniden sahip olacağım.
+diary73a = Prens geri geliyor. Sadece bir haftasonuna. Kısa bir tatil, ONDAN. Onu kalması için ikna edeceğim.
+diary73b = Aşkımın tekrar gitmesine İZİN VEREMEM.
+diary73c = Kulağa melodramatik gibi geliyor.
