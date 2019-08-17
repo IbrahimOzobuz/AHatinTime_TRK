@@ -2,14 +2,20 @@
 
 [docks]
 owls0 = Biliyorsun, sürekli [icon:conductor][name]Kondüktörün[/name] treninde seyahat ettikten sonra, biraz daha güvenli bir şeye can atıyorum...
+//^"şey" HATALI
 owls1 = Havuzda zaman geçirmek için sabırsızlanıyorum. Baykuşlar suyu sever, bilirsin.
 
 [fluff]
-restowl0 = Umarım onlar yemeği yakmamıştır. Şef değilim ama şundan eminim ki bu ateş normal değil.
+restowl0 = Umarım yemeği yakmamışlardır. Şef değilim ama şundan eminim ki bu ateş normal değil.
 
 owls0 = Film sektöründen ayrılmayı düşünüyorum. [icon:conductor][name]Kondüktörün[/name] filmleri sırf aksiyondur - drama nerede? Sanat nerede?
 owls1 = Belki de onun yerine video oyunlarında çalışabilirim...
 owls2 = I followed some nice new people on Chirper today! İnkar edemeyeceğimden kesinlikle eminim.
+//Chirper'de bir sürü iyi yeni insanı takip ettim.
 owls3 = I thought the pool would be heated seeing as it's so cold out, ama... öyle değil!
+
+
+Dalış yapmayı denerken neredeyse kanatlarımı neredeyse dondurdu.
+
 owls4 = I almost froze my feathers off trying to take a dip earlier.
 owls5 = [icon:conductor][name]Kondüktörün[/name] torunları biraz... yaramaz, değil mi? Onlardan ben sorumlu olmadığıma sevindim.
