@@ -1,3 +1,4 @@
 [finale]
-steal_tps_0 = You stole back all your [timepiece][icon:timepiece]Time Pieces[/timepiece]!
-steal_tps_1 = You put them in your pocket for safekeeping.
+steal_tps_0 = [timepiece][icon:timepiece]Zaman Parça[/timepiece]larınının tümünü geri çaldın!
+steal_tps_1 = Onları emaneten cebine koydun.
+^HATALI
