@@ -17,6 +17,7 @@ DogThankYou0 = Beni kurtardığın için teşekkürkler kibar insan canlısı. H
 DogThankYou1 = Katilde bu ipucunu buldum. Umarım bu yardımcı olur. Hav. Hav.
 
 PetWarning0 = [shake2][PetName] asılı bırakmak isteddiğine emin misin?[/shake2]
+//^HATALI
 PetWarning1 = [shake2]Neden etrafta dolaşmıyor ve give [PetName] a[br]little time-consuming help before it's too late?[/shake2]
 
 suspect_mothermaiden0 = ...
