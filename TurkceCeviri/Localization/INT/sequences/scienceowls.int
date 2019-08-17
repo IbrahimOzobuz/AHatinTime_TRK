@@ -28,14 +28,14 @@ ScientificEquation0 = Anlamadım, how is this a scientific equation of any kind?
 
 
 
-StayOut0 = Bekle, gelme buraya. Burada kontakt lensimi kaybettim... lütfen üzerine basma![br]Buradan ayrılamam, üzerime bile basabilirim!
+StayOut0 = Bekle, sakın buraya gelme. Burada kontakt lensimi kaybettim... lütfen üzerine basma![br]Buradan ayrılamam, üzerime bile basabilirim!
 StayOut1 = I hope no one goes into the VIP area and accidentally steps on my contact lens...
 PostMurder0 = Man, I just needed to get home from work. I didn't sign up for a big murder mystery.
 PostMurder1 = Eşim beni öldürecek.
 
-OwlHiddenRoom0 = Adamım, hayat budur.[br]Hiçbir şey[br]sıcak sauna yı geçemez.
+OwlHiddenRoom0 = Adamım, hayat budur.[br]Hiçbir şey[br]sıcak saunayı geçemez.
 OwlHiddenRoom1 = Dışarıdan gelen sesi [br]duydun mu?
-OwlHiddenRoom2 = Eh, peck it.[br]I don't wanna go[br]out in the cold.
+OwlHiddenRoom2 = Eh, peck it.[br]Bu soğukta[br]dışarı çıkmayı istemem
 
 VictimRubberKnife0 = Evet, şimdi gidebilir miyim? I'm kinda sore from playing dead for so long.
 VictimRubberKnife1 = Bu kauçuk bıçak ayrıca birazcık rahatsız edici.
@@ -44,25 +44,37 @@ VictimRubberKnife1 = Bu kauçuk bıçak ayrıca birazcık rahatsız edici.
 
 suspect_sciowls0 = ...
 suspect_sciowls1 = Bu doğru.
-suspect_sciowls2 = We were sitting in the lounge playing card games, and we were having so much fun! Everyone enjoyed the peace and quiet of card games!
-suspect_sciowls3 = ... and Robin wouldn't stop chewing with his mouth open.
-suspect_sciowls4 = Seriously, who chews with their mouth open? So we stabbed him with the rubber knife, to get some peace and quiet.
+suspect_sciowls2 = Salonda otururken kart oynuyorduk, ve biz çok eğleniyorduk! Herkes barış ve sessizlikle kart oyunlarının tadını çıkartıyordu!
+suspect_sciowls3 = ... ve Robin ağzı açıkken sakız çiğnemeyi durmazdı.
+suspect_sciowls4 = Ciden, kim ağzı açıkken sakız çiğner? Bu yüzden biz onu sırtından bıçakladık, azıcık barış ve sesszilik için.
 
 suspect_victim0 = It seems you've seen through my charade.
 suspect_victim1 = It was my turn to clean the Owl Express, and I just decided to... uhh... fake my death, with this rubber knife.
 suspect_victim2 = But all this trouble isn't worth it. I'll just start cleaning up now.
 
-suspect_hatkid0 = Actually I'm fine.
-suspect_hatkid1 = She just stuck this fake rubber knife on me and told me to play dead.
-suspect_victim_idle0 = Man, I even wasted an entire bottle of ketchup to make this murder look real...
+
+
+
+0=
+1=
+2=
+
+suspect_hatkid0 = Ben gerçekte iyiyim.
+suspect_hatkid1 = Bu kız bu sahte kauçuk bıçağı bana sapladı ve ölü rolü yapmamı söyledi.
+suspect_victim_idle0 = Adamım, I even wasted an entire bottle of ketchup to make this murder look real...
 
 [DeadBird]
 prop0 = Huh, you want that movie prop they carried in?
 prop1 = Are you the kind of person that sells movie props on eBird?
 
-intro0 = Uhhh, hi there. I'm an [name]Express Owl[/name]. Which really just means I ride the [name]Owl Express[/name] that the [icon:conductor][name]Conductor[/name] runs.
+intro0 = Uhhh, selam. Ben bir [name]Eksrep Baykuşu[/name]yum. Which really just means I ride the [name]Owl Express[/name] that the [icon:conductor][name]Conductor[/name] runs.
 intro1 = I need to ride the train to get to work, but the [icon:conductor][name]Conductor[/name] makes unexpected stops all the time.
-intro2 = I have no idea why we're at a movie studio. I need to be at work in 15 minutes!
+intro2 = I have no idea why we're at a movie studio. Benim 15 dakika içinde işte olmam lazım!
+
+
+
+
+
 
 guard0 = Uh yeah sorry, the [icon:conductor][name]Conductor[/name] has said only birds are allowed past here. And he specifically said no penguins of any kind.
 guard1 = I have no idea -why-, I'm just a passenger on his train. Whatever gets us back on the train faster.
@@ -71,7 +83,7 @@ feud0 = I don't really get this feud between [name]The Conductor[/name] and [ico
 feud1 = Like, why does a train operator and a disco guy want to compete? We're all birds here, right? Shouldn't we cooperate?
 feud2 = ... I dunno, I guess cooperating is kinda stupid. I guess. Yeah... just ignore me...
 
-reception_desk0 = Resepsiyoncuya bir soru sormak istemiştim, ama o beni tanıyamadı.
+reception_desk0 = Danışmaya bir soru sormak istemiştim, ama o beni tanıyamadı.
 reception_desk1 = Uhh, ama şimdi burada bu kadar süre boyunca dikildim, bu da konuşma başlatmak için tuhaf olur.
 reception_desk2 = Diğer kuşlarla konuşmakta gerçekten kötüyüm.
 
