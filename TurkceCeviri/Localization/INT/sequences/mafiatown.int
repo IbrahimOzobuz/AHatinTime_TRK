@@ -10,18 +10,12 @@ window0 = Dışarıda halen yağmur yağıyor.
 window1 = Ama bunu içeriden seyretmek çok daha iyi.
 slotmachine0 = Sadece yerel para birimiyle çalışıyor gibi gözüküyor; ve sen, dövizciye uğramayı unutmuşsun.
 
-cans0 = Görünüşe göre bu Mafya'nın yemek için özrü, ama bu kesinlikle sevilebilecek gibi kokmuyor.
+cans0 = Görünüşe göre bu Mafya'nın yemek için özrü. Ama bu kesinlikle bunun gibi kokmuyor.
 //^Çeviri hatalı
-
-
-
-
 cans1 = You could probably taste some, but you're not sure that's something you want in your obituary.
 
-
-
-
-
+Biraz atıştırırdın, ama bundan emin değilsin ki ölümün
+//^Bu bir çocuk oyunu, ölüm hoş durmaz. Çeviri hatalı
 
 
 
@@ -32,14 +26,19 @@ pilehidden1 = Pull it?
 pile_q_yes = Evet!
 pile_q_no = Hayyır!
 pilehiddenpull0 = You pull the switch out of the pile and put it in your bag. Your collection of improv comedy props grows stronger.
-pilehiddennopull0 = You learned in school not to activate strange mechanisms found on alien planets in piles of gold, and leave it alone.
+pilehiddennopull0 = 
+Okuldayken uzaylı gezegenlerindeki altın yığınının garip mekanizmalarını aktif etmemeyi öğrenmiştin, ve bunu yalnız bırak.
+//^Çok bağlı eylem var HATALI
 
 [fluff]
-door0 = Git buradan! Mafya watching shows. High interest in plotline.
-meat0 = It's a hunk of meat, just like in your cartoons! Only far bigger.
-meat1 = Weird, considering you haven't spotted any leviathan animals around here.
+door0 = Git buradan! Mafya şov izliyor. Senaryoya karşı büyük ilgi.
+meat0 = It's a hunk of meat, just like in your cartoons! Sadece daha büyüğü.
+meat1 = Tuhaf, neden burada uçan canlılara rastlayamadığını düşünüyorsun.
+//^Çeviri Hatalı olabilir
 tailor0 = With how limited the dress code is around here, it's not surprising this place is boarded up.
-vista0 = So picturesque! You can't quite decide what videogame it looks like, though.
+vista0 = So picturesque! Bunun hangi dijital oyun olduğuna karar veremiyorsun bile.
+
+
 
 [lava]
 finish0 = Küçük çocuk bizi kurtardı! Buraya gel!
