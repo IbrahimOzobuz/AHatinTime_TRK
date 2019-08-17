@@ -22,10 +22,12 @@ captain2 = Tamamdır. Senin içecekleri, yiyecekleri, ve başka şeyleri teslim 
 captain3 = Oh, and there are some other jobs that'll need doing. So pay attention. Are you ready to start?
 captain4 = Well, come back when you are. This ship isn't going to clean itself up.
 captain5 = Good. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
-captainFail0 = Just like the seals... that's no good. You just made more of a mess, delikanlı. Try again. Or don't, whatever.
-captainDone0 = You can stop now, delikanlı. Come back to Control, I guess.
+captainFail0 = Just like the seals... bu iyi değil. You just made more of a mess, delikanlı. Tekrar dene. Ya da etme, boşver.
+captainDone0 = Şimdi durabilirsin, delikanlı. Come back to Control, bence.
 captainDone1 = Well... looks like you actually cleaned up more mess than you made, delikanlı. That's more than most of the crew can manage.
 captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
+
+
 
 yes = Evvet!
 no = Hayıııııır!
