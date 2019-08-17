@@ -15,7 +15,7 @@
 > Clone, Push yapmak için **GitKraken** kullanabilirsiniz.
 
 ## Yapılacaklar / Yapıldı
-- [ ] Çeviri doğruluğu () eklenecek.
+- [ ] Çeviri doğruluğu eklenecek.
 - [ ] Türkçe Font eklenecek.
 
 ## Bilinen Hatalar
