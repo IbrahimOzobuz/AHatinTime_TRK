@@ -1,5 +1,5 @@
 [finale]
-empress_finale0 = Küçük hırsızımızı bana getiren kediye bir miltyon dolar.
+empress_finale0 = Küçük hırsızımızı bana getiren kediye bir milyon dolar.
 empress_finale1 = İstersen koş. Fazla uzağa gidemezsin.
 empress_finale2 = Yakalayın onu. Çabuk olun.
 empress_finale3 = Hepinizi değiştirmem mi gerekiyor? Bir çocuğu bile yakalayamıyor musunuz?
@@ -50,6 +50,9 @@ empress_tp5_1 = Metromda keyifli vakti geçiriyor musun? There's people from all
 empress_tp5_2 = Bu yer yalan söylemek için mükemmeldir. Biraz da hile... biraz da çalıntı.
 empress_tp5_3 = You've almost earned yourself a real cut of the action here. Neredeyse.
 
+Sen neredeyse x kazandın
+
+
 [timepiece6]
 empress_tp6_0 = Bir başkası? Fazla bir şey kalmış olmamalı.
 empress_tp6_1 = Başarıyla durduğum bir operasyon geliyor. Bir taşıma işi.
@@ -77,13 +80,15 @@ empress_dir_yellowR = Peki? Start your search at the Yellow line, kız.
 
 empress_dir_greenR = I've heard murmurings of something shining atop the Green Clean station. Go.
 
-empress_dir_blueR = Bluefin. The underground. Don't come back empty-handed.
+empress_dir_blueR = Bluefin. Yeraltı. Elin boş gelme.
 
-empress_dir_pinkR = I hope your tickets are in order, küçük şey. One of my little treasures has been spotted over in Pink Paw.
+empress_dir_pinkR = Umarım biletlerin düzenlemişsindir, küçük şey. Benim küçük hazinem Pembe Pati'de tespit edilmiş.
+
+
 
 empress_dir_yellowM = Time to turn your search downwards, kız. Rögar Kapaklarına bak. Sarı Üstgçit.
 
-empress_dir_greenM = Take yourself to the Green line again. Another little treasure in the tunnels.
+empress_dir_greenM = Kendini yeniden Green line'a götür. Another little treasure in the tunnels.
 
 empress_dir_pinkM = One more foray beneath the ground. Bu sefer, Pembe hatta.
 
@@ -91,14 +96,19 @@ empress_dir_nothing = Hm? Kayıp mı oldun, küçük kız? Senin için yapabilec
 
 empress_dir_blueM = Umarım klorosfobik değilsindir. Yeniden Mavi de, ama bu sefer rögara bak.
 
-empress_dir_pinkM2 = Pink Paw da ikinci bir tünel var. Bu yeri ara.
+empress_dir_pinkM2 = Pembe Pati'de ikinci bir tünel var. Bu yeri ara.
 
 [postfinale]
 empress_post_finale_0 = Pençelerime doğru yine geldin. Cesurca.
 empress_post_finale_1 = Hata yapma, çocuk. Eğer bu polisler şu anda soruşturma yapmıyor olsaydı, senin peşini ikinci bir kez bırakmazdım.
-empress_post_finale_2 = Thanks to your little stunt, the Chief wants to... renegotiate our arrangement. He thinks sending a few of his kittens down here will pressure me.
-empress_post_finale_3 = They won't find anything, of course. Onlar bu kadar aptal değil. But it does mean I need to keep things orderly for a little while. No accidents happening to anyone, you know.
-empress_post_finale_4 = This'll all blow over soon. Zeki olsaydın, koşardın.
+empress_post_finale_2 = Küçük engelimize teşekkürler, Şef istiyor ki... anlaşmamızın yeniden müzakeresini. He thinks sending a few of his kittens down here will pressure me.
+
+
+O baskı yapacak birkaç kedi düşünüyor
+
+
+empress_post_finale_3 = Onlar hiçbir şey bulamayacak, tabii ki. Onlar bu kadar aptal değil. But it does mean I need to keep things orderly for a little while. No accidents happening to anyone, bilirsin.
+empress_post_finale_4 = Bunların hepsi yakında dağılacak. Zeki olsaydın, koşardın.
 
 [cutscenes]
 Intro0 = Bu şeyi bana getirdiğin için teşekkür ederim.
