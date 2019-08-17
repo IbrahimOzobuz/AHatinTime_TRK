@@ -15,13 +15,11 @@
 > Clone, Push yapmak için **GitKraken** kullanabilirsiniz.
 
 ## Yapılacaklar / Yapıldı
-- [ ] Nyakuza Metro çevirisine başlanacak.
 - [ ] Çeviri doğruluğu eklenecek.
-- [ ] Türkçe Doku Paketi eklenecek.
-- [x] Deneysel durumda olan Türkçe bir Font eklendi.
+- [ ] Türkçe Font eklenecek.
 
 ## Bilinen Hatalar
-> Oyun Türkçe karakterleri desteklemediği için, kendi yapmış olduğum Türkçe bir font ekledim, ama yazılar biraz altta gözüküyor.
+> Font şu anda tamamen bozulmuş durumdadır.
 
 ## Katkıda Bulunanlar
 > * Hoshungen
