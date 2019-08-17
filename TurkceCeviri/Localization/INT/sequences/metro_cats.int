@@ -1,0 +1,356 @@
+[ambient]
+metrocat_2p_missing_0 = Geçen hafta birilerinin kaybolduğunu duydun mu? [br]Demişlerdi ki-
+metrocat_2p_missing_1 = Şşşt! Ne dediklerine dikkat et.
+
+metrocat_1p_helpdesk_0 = Kayıp mı oldun, çocuk? Eğer bir şeye bakıyorsan, [hint]danışma[/hint]ya[br]sormalısın.
+metrocat_1p_waiting_0 = Beni yalnız bırakabilir misin, lütfen? Trenimi bekliyorum.
+metrocat_2p_stuck_0 = Arkadaşımdan bahsetmiş miydim? [br]O [hint]metro kartı[/hint]nı kaybeti ve Pembe Pati İstasyonunda mahsur kaldı.
+metrocat_2p_stuck_1 = Ha, umarım o kendine yeni bir bilet alabilir. Bu bilet [hint]bilet gişe[/hint]leri çok kısıtlayıcı!
+//^HATALI
+
+metrocat_2p_sushi_0 = Yukarıdaki şuşi lokantasına gittin mi, hı?
+metrocat_2p_sushi_1 = Henüz değil. Yeşil Hattan işe giderken her zaman onları görüyorum., ve bu da beni acıktırıyor.
+metrocat_2p_sushi_2 = Bazen, I wish I could leap straight across to it.
+
+metrocat_2p_stolen_0 = Did I tell you I had to buy a new [hint]metro pass[/hint]? Benimkisi çalındı galbia.
+metrocat_2p_stolen_1 = Daha dikkatli olmalısın. Duyduğuma göre son zamanlarda burada çok fazla suç işlenmiş.
+metrocat_2p_burgers_0 = Biz ayrılmadan bir şeyler yemek ister misin?
+metrocat_2p_burgers_1 = Nereden? Burada bir sürü fast food dükkanı var.
+metrocat_2p_burgers_2 = Hmm... Canım burger çekiyor.
+metrocat_2p_burgers_3 = Senin canın HEP burger çekiyor.
+
+metrocat_2p_right_0 = Doğru bileti aldığından emin ol.
+metrocat_2p_right_1 = Biliyorum, biliyorum. Onlar [hint]renk kodlu[/hint].
+
+metrocat_2p_knocking_0 = Trenin yukarısından gelen tıkırtıyı duydun mu? [br]Sanki birileri üzerinde yürüyormuş gibi?
+metrocat_2p_knocking_1 = Uh, belki de sen gaipten sesler duyuyorsundur. [br]Kimse trenin üzerine tırmanmaz.
+
+metrocat_2p_shortcuts_0 = Benden duyma ama, uh, ama bu rögar kapaklarını biliyor musun? Onlar gerçek değil.
+metrocat_2p_shortcuts_1 = Ne? Boyanmışlar mı?
+metrocat_2p_shortcuts_2 = Hayır, öyle değil. Onların lağımla alakası yok. Arkadaşım, onlar metronun diğer bölgelerinin kısayolları olduğunu söylemişti.
+
+metrocat_2p_badcrowd_0 = Etrafta koşan küçük çocuğu gördün mü?
+metrocat_2p_badcrowd_1 = Çocuklar yalnız bırakılmamalı! Umarım o, kötü niyetli bir kalabalığına rastlamaz.
+
+metrocat_2p_chase_0 = Temizlik robotları arkadaş canlısı ve zıpır gibi duruyor.
+metrocat_2p_chase_1 = Arkadaş Canlısı mı? Üzerine çamur bulaşırsa seni kovalamaya başlıyorlar! Bu korkunç.
+
+metrocat_2p_jewellery_0 = Buradaki şık ve büyük kuyumcuda tuhaf bir şeyler olduğunu hiç düşündün mü?
+metrocat_2p_jewellery_1 = Ne demek istiyorsun?
+metrocat_2p_jewellery_2 = Demek istediğim, kim metroya kolye almaya gelir ki? Burada, bu yerde şüpheli bir şeyler dönüyor.
+metrocat_2p_jewellery_3 = Hm, neyden bahsettiğini bilmiyorum.
+metrocat_2p_jewellery_4 = Ne? Burada garip bir şeylerin döndüğünü düşünmüyor musun?
+metrocat_2p_jewellery_5 = Şşşt, zaten! Bu mekanda her şeye burnunu sokma, tamam mı?
+
+metrocat_1p_watchstep_0 = Adım attığın yere dikkat et, çocuk. Rögar kapaklarını bazıları çok sert basarsan hareket eder.
+metrocat_1p_weirdgates_0 = Burada kurulan geçitler oldukça tuhaf.
+metrocat_1p_weirdgates_1 = oraya gidebilmek için [hint]Mavi[/hint] VE [hint]Sarı[/hint] biletlere ihtiyacın olacak!
+
+metrocat_2p_delayed_0 = Kötü haberlerim var, arkadaşım. Saat üç yeniden ertelenmiş...
+metrocat_2p_delayed_1 = Yine mi!? Aaaah, bu berbat. Geç kalacağım.
+metrocat_2p_delayed_2 = Belki farklı bir trene binebilirsin?
+metrocat_2p_delayed_3 = B-ben farklı bir trene binemem! Ya kaybolursam?
+
+metrocat_2p_rightmeow_0 = Ugh... eğer trenim şu anda gelmezse, Geç kalırım!
+metrocat_2p_rightmeow_1 = Ben onun hakkında bir şey- bekle, ne dedin...?
+metrocat_2p_rightmeow_2 = Ne dedin?
+metrocat_2p_rightmeow_3 = Boşver. Yanlış duymuş olmalıyım.
+
+metrocat_2p_outoftown_0 = Duyduğuma göre 'kuyumcu' 'gerçekten kocaman bir kolyeyi' şehrin dışına çıkarmayı planlıyormuş.
+metrocat_2p_outoftown_1 = Bu şeyi nereden duydun?
+metrocat_2p_outoftown_2 = Hiçbir şey duymadım. Ne hakkında konuştuğunu bilmiyorum, adamım.
+metrocat_2p_outoftown_3 = Emin misin? Ben muhabire benziyor muyum.
+//HATALI^
+metrocat_2p_outoftown_4 = Ben... oldukça eminim, evet.
+
+metrocat_2p_missingvan_0 = Önceden burada burger kamyonu vardı, sürekli burada duruyordu... Onu çok özledim.
+metrocat_2p_missingvan_1 = Hmmm... doesn't that spot just down the street do burgers?
+
+
+
+
+
+
+
+
+metrocat_2p_missingvan_2 = Sure, but... ama kamyon tam da buradaydı, biliyor musun?
+metrocat_2p_missingvan_3 = Tch. Çok tembelsin.
+
+metrocat_3p_needmoney_0 = I hope I can get some more hours at work.
+metrocat_3p_needmoney_1 = Fazladan paraya ihtiyacın var mı, hı?
+metrocat_3p_needmoney_2 = Yan tarafta işlere bakıyorsan, kiminle görüşmen gerektiğini biliyorum.
+
+metrocat_3p_bigidea_0 = Bu lokanta için muhteşem bir fikrim var.
+metrocat_3p_bigidea_1 = Gerçekten mi? A restaurant in this part of town? Burada onlardan çok var!
+metrocat_3p_bigidea_2 = Evet. Seni bu kadar özel yapan nedir?
+metrocat_3p_bigidea_3 = Yani... arabadan servis i hayal et.
+metrocat_3p_bigidea_4 = Burada araçlar için boş yer yer yok!
+metrocat_3p_bigidea_5 = Haklısın, haklısın, ama bir hayal etsene... trenler için olanını!
+metrocat_3p_bigidea_6 = Please tell me this isn't a set up for a 'fast' food pun.
+
+
+
+
+
+
+
+
+metrocat_3p_bigidea_7 = You'd have to grab your food so qui- oh.
+
+metrocat_3p_foodchoice_0 = Erişteye ne dersin?
+metrocat_3p_foodchoice_1 = Bunu dün yemiştik... ve balık ve patates kızartmasına ne dersin?
+metrocat_3p_foodchoice_2 = Yarın yiyeceğim. Ama burger de yiyebiliriz.
+metrocat_3p_foodchoice_3 = Uhhh... Bu hafta zaten iki kez burger yedim.
+metrocat_3p_foodchoice_4 = ... maybe we should just eat separately.
+
+metrocat_2p_beckoning_0 = So what's with the big waving cat?
+metrocat_2p_beckoning_1 = It's beckoning, not waving! At nalları ve dört yapraklı yoncalar gibi iyi şans sembolüdür.
+metrocat_2p_beckoning_2 = What do cats need good luck for? We land on our feet, we have nine lives...
+metrocat_2p_beckoning_3 = I mean, you can't be TOO lucky, right?
+
+metrocat_2p_purehate_0 = Bu istasyondan nefret ediyorum.
+metrocat_2p_purehate_1 = Oh, here we go again...
+metrocat_2p_purehate_2 = You get off one line, walk over to another, scan two different passes...
+metrocat_2p_purehate_3 = Mmm-hmm.
+metrocat_2p_purehate_4 = And I have to switch four more times just to get to where I wanna be.
+metrocat_2p_purehate_5 = Uhuh.
+metrocat_2p_purehate_6 = I'm pretty sure some of these trains aren't even going anywhere!
+metrocat_2p_purehate_7 = You wanna get something to eat after this?
+metrocat_2p_purehate_8 = ... Sure, I guess.
+
+metrocat_2p_sphynx_0 = Have you seen this weird looking cat running around?
+metrocat_2p_sphynx_1 = Huh?
+metrocat_2p_sphynx_2 = You know? That weird cat without any fur?
+metrocat_2p_sphynx_3 = Her? I think she's one of those sphynx cats.
+
+metrocat_2p_stash_0 = So what did you do with your cut?
+metrocat_2p_stash_1 = The usual. I stashed it.
+metrocat_2p_stash_2 = What, you just hid it away? You didn't spend any?
+metrocat_2p_stash_3 = Mhm, that's right. I'm saving up for a new place.
+metrocat_2p_stash_4 = You're gonna pay for a house in cash? Isn't that suspicious?
+metrocat_2p_stash_5 = I, uh.... didn't think of that. Do you think she'd write me a cheque?
+
+metrocat_2p_mud_0 = Berbat bir gün geçiriyorum. İçecek bir şeye ihtiyacım var.
+metrocat_2p_mud_1 = Ne oldu?
+metrocat_2p_mud_2 = Çamurlu bir şeye bastım...
+metrocat_2p_mud_3 = Bu kadar kötü mü?
+metrocat_2p_mud_4 = Bu kadar kötü değil, he? Bir temizlik robotu beni istasyonda on dakikadır kovaladı!
+
+metrocat_2p_cops_0 = Biliyorsun, buralarda uzun süredir polis kedisi görmedim.
+metrocat_2p_cops_1 = Hayır, yapmayacaksın. Duysam, -kim olduğunu biliyorsun- onlarla anlaşmaya varırdı.
+//^HATALII
+metrocat_2p_cops_2 = Gerçekten mi?
+metrocat_2p_cops_3 = Evet. Polisler buraya gelmez, kuyumcu da buraya gelmez.
+
+metrocat_2p_cclives_0 = Cooking Cat'in yeni bölümünü gördün mü?
+metrocat_2p_cclives_1 = Uh, kaçırdım. Başka bir Mafya Şehri bölümüydü?
+metrocat_2p_cclives_2 = Daha iyisi! She went on a cruise to sample the food, right?
+metrocat_2p_cclives_3 = İyi miydi?
+metrocat_2p_cclives_4 = It was alright, but the ship sank!
+metrocat_2p_cclives_5 = What!? Spoilers!
+metrocat_2p_cclives_6 = Sorry...
+metrocat_2p_cclives_7 = Is Cooking Cat alright? Did she make it out?
+metrocat_2p_cclives_8 = Yeah. You don't see her in the life rafts, but she's in the outro vignettes.
+metrocat_2p_cclives_9 = Oh thank goodness. I wouldn't be able to stand a loose end like that.
+
+metrocat_2p_metrosmell_0 = Kokuyu alıyor musun?
+metrocat_2p_metrosmell_1 = Ne?
+metrocat_2p_metrosmell_2 = It's kind of like wet fur, mixed with petrol, and smoke.
+metrocat_2p_metrosmell_3 = Ugh, now that you mention it...
+metrocat_2p_metrosmell_4 = Berbat değil mi?
+metrocat_2p_metrosmell_5 = Bu korkunç! It's all I can smell now. Bu koku her yerde!
+metrocat_2p_metrosmell_6 = I can't believe I didn't notice it before now.
+
+metrocat_3p_ignored_0 = Hey, maskeni ödünç alabilir miyim? Benimkisi koptu.
+metrocat_3p_ignored_1 = Şttt, sessiz ol! Birisi bizi dinliyor olabilir!
+metrocat_3p_ignored_2 = Siz ikiniz ne hakkında konuşuyorsunuz?
+metrocat_3p_ignored_3 = Hiçbir şey. Bizi yalnız bırak.
+metrocat_3p_ignored_4 = Yenisi alsan iyi olur. You never know when you're going to need it.
+metrocat_3p_ignored_5 = Maskeli bir çocuğu daha önce gördüm!
+metrocat_3p_ignored_6 = She's gonna bite my head off if I walk in there and ask for a new one!
+metrocat_3p_ignored_7 = Just hold your hands in front of your face and pretend you have it on.
+metrocat_3p_ignored_8 = Uh? Selam?
+metrocat_3p_ignored_9 = Bu gerçekten işe yaracak mı?
+metrocat_3p_ignored_10 = Evet, bunu her zaman yaparım. Kimse anlamaz.
+
+metrocat_3p_confusion_0 = Bu gidişle Trenimi tekrar kaçıracağım.
+metrocat_3p_confusion_1 = Hangi hattan gitmek gerekiyor? Sarı mı Yeşil mi?
+
+
+
+
+
+
+
+
+
+metrocat_3p_confusion_2 = I thought you were catching one from Blue today?
+metrocat_3p_confusion_3 = I am. Blue, then Yellow, then Pink.
+metrocat_3p_confusion_4 = Yellow doesn't transfer to Pink, does it?
+metrocat_3p_confusion_5 = It does, but you have to take Green first, right?
+metrocat_3p_confusion_6 = Does Blue transfer to Yellow?
+metrocat_3p_confusion_7 = No, no. You have to take Green first.
+metrocat_3p_confusion_8 = Green then Yellow.
+metrocat_3p_confusion_9 = I thought it was Yellow, then Green, then Pink?
+metrocat_3p_confusion_10 = It's Blue, then Green, then Yellow...
+metrocat_3p_confusion_11 = Then Green, then Pink.
+metrocat_3p_confusion_12 = Ne?
+metrocat_3p_confusion_13 = There's two Greens.
+metrocat_3p_confusion_14 = And three Yellows.
+metrocat_3p_confusion_15 = Trenimi yeniden kaçıracağım.
+
+metrocat_3p_stickers_0 = Kim bu sticker'ları etrafa yapıştırıp duruyor?
+metrocat_3p_stickers_1 = Bugünlerdeki yavru kediler. Public spaces'e saygıları yok.
+metrocat_3p_stickers_2 = It's litter, that's what it is!
+metrocat_3p_stickers_3 = Ben de bir çeşidinden istiyorum, ama.
+metrocat_3p_stickers_4 = Ben de...
+metrocat_3p_stickers_5 = Bir tanesini düşürmeyi denedim, ama ulaşamadım.
+
+metrocat_3p_watched_0 = Hiç izleniyormuş hissine kapıldın mı?
+metrocat_3p_watched_1 = Asla. Hiçkimse bizimle uğraşmayacağını bilir.
+metrocat_3p_watched_2 = Evet. İşte patron da bunu sevmezdi.
+
+metrocat_2p_feedtrain_0 = Daha önce tren kedilerinden birini beslemeye kalkıştım.
+metrocat_2p_feedtrain_1 = Ne? Onlar bunu yapmamanı söylemişti!
+metrocat_2p_feedtrain_2 = Biliyorum... yavaşlayıp yiyeceklerini düşünmüştüm, ama çiğnendim.
+metrocat_2p_feedtrain_3 = Of.
+metrocat_2p_feedtrain_4 = Evet, onlar kesinlikle tek yönlü hareket ediyor.
+
+metrocat_2p_shinything_0 = Bu parlak şeyleri metronun etrafında görüyorum.
+metrocat_2p_shinything_1 = Parlak 'şeyler' mi? Nerede? Onlarla, uh... onlarla ilgilenen bir arkadaşım var.
+metrocat_2p_shinything_2 = Oh, biliyorsun. Up on buildings and stuff.
+metrocat_2p_shinything_3 = Bana bir tane getirebilir misin? Onlar değerli!
+metrocat_2p_shinything_4 = Olmaz, ben yükseklikten korkarım!
+metrocat_2p_shinything_5 = Ödemeyi bölüşebiliriz...
+metrocat_2p_shinything_6 = Hmmm... bunu daha sonra konuşalım. Birileri bizi dinliyor galiba.
+
+metrocat_2p_vacuumears_0 = Bu süpürgeler beni korkutuyor.
+metrocat_2p_vacuumears_1 = Onlar sevimli görünüyor!
+metrocat_2p_vacuumears_2 = Şaka mı yapıyorsun? Onlara garip küçük kulaklar takmışlar. Gerçekçi kulaklar gibi.
+metrocat_2p_vacuumears_3 = İşte şimdi bahsettiğin şey, garip bir şey.
+
+metrocat_2p_vacuumbump_0 = I bumped into one of those vacuums the other day.
+metrocat_2p_vacuumbump_1 = Yikes. What happened?
+metrocat_2p_vacuumbump_2 = It bounced me way up into the air! 
+metrocat_2p_vacuumbump_3 = They do that. At least we always land on our feet?
+metrocat_2p_vacuumbump_4 = I hit the ceiling of the restaurant! My head still hurts...
+
+metrocat_2p_whattime_0 = Hey buddy, do you have the time?
+metrocat_2p_whattime_1 = Sure, it's, uh... Hey! Somebody stole my watch!
+
+metrocat_3p_foodchoices_0 = There's too many places to eat around here...
+metrocat_3p_foodchoices_1 = How could there be TOO MANY places to eat? Variety is great.
+metrocat_3p_foodchoices_2 = The smell is unbearable! All the flavors mix together.
+metrocat_3p_foodchoices_3 = How are you supposed to decide on anything?
+metrocat_3p_foodchoices_4 = By the time I make my mind up, I'm usually twice as hungry...
+metrocat_3p_foodchoices_5 = I miss my train every morning because it takes so long!
+
+metrocat_2p_toomuchfood_0 = I think I ate too much...
+metrocat_2p_toomuchfood_1 = You know, you don't have to order something from EVERY food truck we walk past.
+metrocat_2p_toomuchfood_2 = I mean, I don't NEED to.
+metrocat_2p_toomuchfood_3 = Do you... want to stand here for a while, then?
+metrocat_2p_toomuchfood_4 = I'd appreciate it.
+
+metrocat_2p_manholemusic_0 = Do you ever hear music coming from some of the manholes around here?
+metrocat_2p_manholemusic_1 = The manholes? You know, there's kind of a different vibe near them.
+metrocat_2p_manholemusic_2 = Yeah. You want to check it out?
+metrocat_2p_manholemusic_3 = I'll pass. I've seen you-know-who's cats going down them.
+
+[reviews]
+metro_coffee_0 = great for a quick coffee + a snack[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_coffee_1 = drinks 2 hot[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_coffee_2 = don't sell tea here?[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+
+metro_dimsum_0 = çbut I spilled my tea[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_dimsum_1 = metro da en iyisi!!!![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_dimsum_2 = soğuk günler için iyidir[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+metro_icecream_0 = they'll make you a float if you ask![br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_icecream_1 = amcam burada soyuldu. iyi dondurma[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_icecream_2 = ben trenime binemeden eridi[br][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+
+
+
+
+
+
+
+
+
+
+metro_yellow_0 = güzel otantik 'ingiliz' 'cipsi'[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_yellow_1 = çok iyi! her hafta sonu buraya geliyorum[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+metro_yellow_2 = friendly staff, spot-on prices[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+metro_red&yellow_0 = they have a fancy soda machine[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_1 = KETÇABI UNUTTULAR[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0][icon:reviewstar0]
+metro_red&yellow_2 = metro daki en iyi burgerci[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1]
+
+metro_ramen_0 = pilav için fazladan ödemek zorunda kaldım???[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0][icon:reviewstar0]
+metro_ramen_1 = en rahat yiyecek[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+metro_ramen_2 = Hızlı teslim ve tadı güzel.[br][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar1][icon:reviewstar0]
+
+[finale]
+finale_cop0 = Hey, çocuk. Endişelenme, Ben... kuyumcunun maaş bordrosundanım.
+finale_cop1 = Did something happen while I was upstairs? Patron deliye döndü.
+finale_cop2 = Neyse, ona vermem gereken bir şey var, ama I couldn't make the trade with my partner here.
+
+
+
+
+
+finale_cop3 = I know she's had you tracking them down, so take care of it for me.
+
+[solo]
+hiding_bushes0 = Şşşşt! Defol git buradan!
+hiding_bushes1 = Saklanma yerimi mahvediyorsun, çocuk.
+
+olddays0 = Hey, çocuk! Did you know it used to be really empty around here?
+olddays1 = Back when there was just one train line, there was barely any, like. Stores and stuff.
+olddays2 = But once a lot more people started using the trains, this place got way busier!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+secret_teller0 = Bir sır öğrenmek ister misin?
+secret_teller1 = Emin misin? Bu büyük bir sır...
+secret_teller2 = Tamam, tamam, Diyeceğim. Ama bunu asla tahmin edemezsin.
+secret_teller3 = Kuyumcu sahibinin...
+secret_teller4 = Kuyumcu olmak için vasfı yok!
+secret_teller5 = Bunun iyi bir sır olduğunu söylemiştim!
+
+gacha0 = I bought a hundred pulls from the event box... and got everything I wanted!
+gacha1 = Dang. I've been working at the jewelry store for extra cash, and I still don't have that Super-Limited-Rare Knight Robocat...
+gacha2 = You... you know you can trade points for them, right?
+gacha3 = Wha.... [scream]WHAT?[/scream]
+agilesuitfreegun0 = Sen! İyi bir damak zevkin var gibi!
+agilesuitfreegun1 = Agile Suit Freegun'un en iyi serisi hangisi?
+agilesuittt0 = Çift Teta!
+agilesuitfreegun2 = Ah, iyi. Akıllı bir çocuksun.
+signal0 = Şu anda konuşamam, çocuk, meşgulüm.
+signal1 = İş e-postaları göndermeye çalışıyorum, ama buradaki sinyal berbat...
+
+[egg]
+metro_easteregg_pre0 = Huh, rögar kapağında bir şey yazıyor
+metro_easteregg_pre1 = "Kiwami aşırı anlamına gelir."
+metro_easteregg_0 = [big][shake]ŞAPKALI ÇOCUK-CHAAAAAAN![/shake][/big]
+metro_easteregg_1 = You've grown soft, time to bring out your fighting spirit!
+metro_easteregg_extra = Yeehaw :)
+
+[cutscenes]
+Intro0 = Bu patrona aittir!
+Midpoint0 = Hayır öyle değil, yemin ederim!
+//HATALI^v
+Midpoint1 = Mücevherine asla pati uzatmadım!

@@ -1,0 +1,117 @@
+[finale]
+empress_finale0 = Küçük hırsızımızı bana getiren kediye bir miltyon dolar.
+empress_finale1 = İstersen koş. Fazla uzağa gidemezsin.
+empress_finale2 = Yakalayın onu. Çabuk olun.
+empress_finale3 = Hepinizi değiştirmem mi gerekiyor? Bir çocuğu bile yakalayamıyor musunuz?
+empress_finale4 = İkramiye İKİ milyon. Şu küçük yaramazı getirene.
+empress_finale5 = Koşmaya devam çocuk. Henüz evinde değilsin.
+empress_finale6 = Peki peki peki. Bak bakalım kim burada.
+empress_finale7 = İçeri gir, olmaz mı?
+empress_finale8 = Kaçabileceğini mi zannediyordun? Akıllı olduğunu mu düşünmüştün, küçük kız?
+empress_finale9 = Sana güvenebileceğimi düşünmüştüm. Kötü bir yatırım yaptığım çok nadirdir.
+empress_finale10 = Benden çalmak için oldukça açgözlü olabileceğini de - çok cesurca, çok küçük birisi için.
+//HATALI^
+empress_finale11 = Hepsi benim hatam, gerçekten. Cesaretlendirdiğim kişiler için daha iyi gözlem yapmam lazım.
+empress_finale12 = Bir gün burada önemli birisi olabilirdin. Ama sen beni hayal kırıklığına uğrattın -
+empress_finale13 = - ve parayı çekmenin sırası.
+//HATALI^ UydurulduV
+empress_finale14 = Oh! Polisler!
+empress_finale15 = Ne... zamanlama ama. Ben de tam gidiyordum.
+empress_finale16 = [small]Onlar, senden kurtulmaktan çok daha zor.[/small]
+empress_finale17 = Tekrar görüşeceğiz, yaramaz şey.
+
+[timepiece1]
+empress_tp1_0 = Bunlardan daha çok var, bundan eminim. Sen onları bulmakta... yetenekli gibisin.
+empress_tp1_1 = Ben sana para ödüyorum ve sen bana daha fazla getiriyorsun. Bu basit bir anlaşma.
+empress_tp1_2 = Sarı Üst Geçitten başla. Yolunu bulabileceğinden eminim.
+empress_tp1_3 = Yola koyul... ve sakın elin boş dönme.
+
+[timepiece2]
+empress_tp2_0 = Döndün mü? Ve benim için başka bir [timepiece][icon:timepiece]Zaman Parçası[/timepiece]yla - güzel.
+empress_tp2_1 = Küçük anlaşmamız güzel işliyor. Devam ettiğini gör.
+empress_tp2_2 = And since it's going so well, you shouldn't have any trouble buying some [hint]metro passes[/hint].
+empress_tp2_3 = You won't get around much without them, after all.
+
+[timepiece3]
+empress_tp3_0 = İlginç. Düşündüğümden daha kullanışlısın.
+empress_tp3_1 = Buna devam et, çocuk, ve seni zengin edeceğim. Ben çok... sadakate yatırım yaptım.
+empress_tp3_2 = Şimdi, be a worthwhile little investment ve başkasını bul. [hint]Rögar kapaklarına[/hint] bakman gerekse bile.
+empress_tp3_3 = Kedilerim ve ben onları... işimiz için kullanıyorum. Bastığın yere dikkat et.
+
+[timepiece4]
+empress_tp4_0 = Tebrikler. Örgütüm her zaman senin gibi daha çok insan kullanabilir.
+empress_tp4_1 = Burada senin için bir yerim var, uğratma beni... hayal kırıklığına.
+empress_tp4_2 = Halen, küçük koleksiyonumun henüz tamamlanmadığını duyuyorum. Bu yüzden, işine geri dön.
+empress_tp4_3 = Ve mükemmel ol. Aranmadık yeri bırakma, duydun mu?
+
+[timepiece5]
+empress_tp5_0 = Beşinci mi? Beni şaşırtmaya devam ediyorsun.
+empress_tp5_1 = Metromda keyifli vakti geçiriyor musun? There's people from all over here.
+empress_tp5_2 = Bu yer yalan söylemek için mükemmeldir. Biraz da hile... biraz da çalıntı.
+empress_tp5_3 = You've almost earned yourself a real cut of the action here. Neredeyse.
+
+[timepiece6]
+empress_tp6_0 = Bir başkası? Fazla bir şey kalmış olmamalı.
+empress_tp6_1 = Başarıyla durduğum bir operasyon geliyor. Bir taşıma işi.
+empress_tp6_2 = Bana daha fazlasını getir ve there won't be a cat in this city with more scratch than me.
+
+[timepiece7]
+empress_tp7_0 = Yedi. Bazıları için bu şanslı bir sayıdır, bilirsin.
+empress_tp7_1 = Beklentin mi var, çocuk? Büyüyünce yapmak istediğin şeyler mi?
+empress_tp7_2 = Kullanışlı olmaya devam et, ve dışarıda ulaşamayacağından daha fazla şey olmayacak.
+
+[timepiece8]
+empress_tp8_0 = Sekinci? Hm... bu güzel.
+empress_tp8_1 = Senin için, daha fazla para demek. Sana, seni zengin yapabilirim demiştim ve ben sahip olduklarıma yalan söylemem.
+empress_tp8_2 = Şimdi, benim için... peki, bu BENİM işim. Yeteneklerine ihtiyacım olduğunda seni yeniden çağıracağım, çocuk.
+empress_tp8_3 = Şimdilik, kazandıklarını keyfini çıkar. Gitmem gereken yerler ve hazırlanmam gerekenler var.
+
+[timepiece9]
+empress_tp9_0 = Dokuz. Tebrikler.
+empress_tp9_1 = Each of these is worth more than most would earn in a lifetime.
+empress_tp9_2 = As for you... well, you're more than most. İşte senin payın.
+empress_tp9_3 = Pekala? İşine dön, öyleyse. 
+
+[directions]
+empress_dir_yellowR = Peki? Start your search at the Yellow line, kız. 
+
+empress_dir_greenR = I've heard murmurings of something shining atop the Green Clean station. Go.
+
+empress_dir_blueR = Bluefin. The underground. Don't come back empty-handed.
+
+empress_dir_pinkR = I hope your tickets are in order, küçük şey. One of my little treasures has been spotted over in Pink Paw.
+
+empress_dir_yellowM = Time to turn your search downwards, kız. Rögar Kapaklarına bak. Sarı Üstgçit.
+
+empress_dir_greenM = Take yourself to the Green line again. Another little treasure in the tunnels.
+
+empress_dir_pinkM = One more foray beneath the ground. Bu sefer, Pembe hatta.
+
+empress_dir_nothing = Hm? Kayıp mı oldun, küçük kız? Senin için yapabileceğim bir şey yok.
+
+empress_dir_blueM = Umarım klorosfobik değilsindir. Yeniden Mavi de, ama bu sefer rögara bak.
+
+empress_dir_pinkM2 = Pink Paw da ikinci bir tünel var. Bu yeri ara.
+
+[postfinale]
+empress_post_finale_0 = Pençelerime doğru yine geldin. Cesurca.
+empress_post_finale_1 = Hata yapma, çocuk. Eğer bu polisler şu anda soruşturma yapmıyor olsaydı, senin peşini ikinci bir kez bırakmazdım.
+empress_post_finale_2 = Thanks to your little stunt, the Chief wants to... renegotiate our arrangement. He thinks sending a few of his kittens down here will pressure me.
+empress_post_finale_3 = They won't find anything, of course. Onlar bu kadar aptal değil. But it does mean I need to keep things orderly for a little while. No accidents happening to anyone, you know.
+empress_post_finale_4 = This'll all blow over soon. Zeki olsaydın, koşardın.
+
+[cutscenes]
+Intro0 = Bu şeyi bana getirdiğin için teşekkür ederim.
+Intro1 = Kimin için çalışıyorsun, hiç kimseye mi?
+Intro2 = Peki...
+Intro3 = Seni etrafta dolaşmana izin veremem,
+Intro4 = kuyumculuk işime kimse engel olmamalı.
+Intro5 = Yani, şimdi benim için çalışıyorsun.
+Intro6 = Mağazama gel, konuşmamız gereken bir iş var.
+
+Midpoint0 = Beni kandırmaya mı çalışıyorsun?!
+Midpoint1 = Öyleyse niye sende kedi tüyü buldum?
+Midpoint2 = Buna izin verme... kendin ol.
+
+Finale0 = Yakalayın onu. Çabuk olun.
+Finale1 = Ödül... bir milyon.

@@ -1,14 +1,23 @@
-﻿[internal]
+[internal]
 conductor0 = Heyy... get me a Sinking Ship, oan the rocks. And make the good part a double.
+
+Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve 
+
 conductor1 = Oh, I didn't notice yer there, lassy. Out roamin', are we?
+
+
+Senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, değil mi?
+
 conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
-conductor3 = Sin yeteneklisin, eminim, ama what I'm having isnae for genç lasses.
+conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
 
 [act2]
-conductor0 = [wave].....hic....Ooh, merhaba, kızım![/wave]
-conductor1 = [wave]Nasıl, nasıl gidiyor, eh? Güzel bir tatil geçiriyor musun, kızım?[/wave]
-conductor2 = [wave]Ah, ben. Filmsiz Grooves değil. Sadece ben, ve benim iyi arkadaşım orada. Hayat budur, he?[/wave]
-conductor3 = [wave]... Botun diğer tarafının nasıl olduğunu hep merak etmişimdir...[wave]
+conductor0 = [wave].....hic....Ooh, selam, kızım![/wave]
+conductor1 = [wave]Nasıl, nasıl gidiyor, he? İyi bir tatil geçiriyor musun, kızım?[/wave]
+conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben, ve benim şuradaki küçük arkadaşlarım. Hayat budur, he?[/wave]
+conductor3 = [wave]... I wonder what the rest of the boat is like...[wave]
+
+Geminin geri kalanının nasıl olduğunu meral ediyorum...
 
 [docks]
 conductor0 = Well, if it isn't the little lass. How's stardom treating ya?
@@ -18,14 +27,14 @@ conductor1c = I'm taking some time off tae relax. Get away from that noisy [br][
 conductor2 = Anyway, I'd better go ask about the childcare on board. I love these little blighters, but I cannae bring them to the bar with me can I?
 
 [act3]
-finale0 = Bekle, kızım, nireye gidiyorsun? ONU kurtaracak mısın?
+finale0 = Bekle, kızım, nireye gidiyon? Onu kurtaracak mısın?
 finale1 = I'm not gonna hang around a sinking ship! If you don't make it back quick, we'll leave without yer!
 
-conductor0 = Lass nerede? Bu gemi batıyor, buradan ayrılmalıyız!
-conductor1 = [scream]Buraya gel, kızım! Biz SIMDI ayrılıyoruz!![/scream]
+conductor0 = O kız nerede? Bu gemi batıyor, biz şimdi buradan çıkmalıyız!
+conductor1 = [scream]Buraya gel, kızım! Şimdi ayrılıyoruz ŞİMDİ!![/scream]
 
-conductor2 = Hay hay, teşekkürler kızım. Küçükler yüzmeyi henüz öğrenemedi!
+conductor2 = Aye, teşekkürler kızım. Küçükler henüz yüzmeyi öğrenemedi!
 
-carried0 = Ah! Dikkatli ol, kız! Tüylerime dikkat!
+carried0 = Ah! Dikkatli ol, kızım! Tüylerimi düşün!
 
 [fluff]
