@@ -10,9 +10,11 @@ Plural1 = Bir
 
 TwoItemsAnd = ve
 
-GenericYarnSuffix = Yumak/ğı
+GenericYarnSuffix = Yumak
+//^HATALI playtesting /ğı
 GenericHatSuffix = Şapka
-GenericFlairSuffix = Yetenek/ği
+GenericFlairSuffix = Yetenek
+//^HATALI playtesting /ği
 
 [trigger_abilities]
 BadgeCollect0 = Örmek için [yarn][badgepoints_required] [icon:yarn]yumak[/yarn] gerekiyor; sadece [yarn][badgepoints_left][/yarn] kaldı!
