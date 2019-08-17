@@ -1,7 +1,7 @@
 [camera_unlock]
 CameraStolen0 = Oradaki bu lanetolası martı kameramı aldı!
 CameraStolen1 = Oraya [button:duck] ile belimle dalardım, ama bu bel kaymak için çok kıymetli!
-CameraRetrieved0 = Kameramı aldın mı? Vay, teşekkürler, veled! Ama yedeğimde tonlarca kamera var. İhtiyacım yok.
+CameraRetrieved0 = Kameramı aldın mı? Vay, teşekkürler, veled! Ama yedeğimde bir sürü kamera var. İhtiyacım yok.
 CameraRetrieved1 = Martılara bağırmak için bir bahane arıyordum. Saklayabilirsin.
 
 [mafia_town]
@@ -9,15 +9,16 @@ TownIsSoBig0 = Bu şehir çok büyük! Turistik yerleri oldukça havalı,[br]ama
 
 [finale]
 inside0 = Düşünüyorum ki bu zıplama[br]benim için fazla ve [br]kameram için de...
-touristexterior0 = Bak, veled, dürüst olacağım. Of all the places I've been visiting, bu sorgusuz sualsiz en kötüsü.
-touristexterior1 = You've gotta go in there and show that girl who's boss[br]so that I can get back on the moon![br]The moon was much more fun than this!
+touristexterior0 = Bak, veled, dürüst olacağım. Ziyaret ettiklerimin arasında, bu yer sorgusuz sualsiz en kötüsü.
+touristexterior1 = Oraya ulaşmalı ve bu kıza kimin patron olduğunu göstermelisin[br]böylece ay'a geri dönebilirim![br]Ay bundan daha eğlenceli olurdu!
 touristexterior2 = Sana inanıyorum, veled.
 
 [moon]
-moon0 = Ay oldukça iyi, veled. It feels great finally being here after all these years!
-moon1 = Ama işteki bu lanet Steve güneşten bana bir kartpostal gönderdi! Bunun harika olduğunu söylüyor! [br]Bu adama inanamıyorum, her zaman bir adım önüme geçmeye çalışıyor!
-^İşteki ^son cümle hatalı
+moon0 = Ay oldukça iyi, veled. Nihayet tüm bu yıllardan sonra burada olmak harika hissettiriyor!
+moon1 = Ama işteki bu lanet Steve güneşten bana bir kartpostal gönderdi! Buranın harika olduğunu söylüyor! [br]Bu adama inanamıyorum, her zaman bir adım önüme geçmeye çalışıyor!
 
 [subcon]
 touristsubcon0 = Tamamdır. Kendimi burada piknik yaparken görebiliyorum.[br]Halen, ay değil.[br]Gotta get up there so I can send a postcard to Steve from work.
-touristsubcon1 = Steve from work went to the moon last spring. O harika olduğunu söyledi.[br]Kahrolası Steve. O her zaman bir adım önde.[br] Ona aydan bir kartpostal göstereceğim!
+touristsubcon1 = İşteki Steve bu bahar ay'a gitmişti. O, bunun harika olduğunu söylemişti.[br]Kahrolası Steve. O her zaman bir adım önümde.[br] Ona aydan bir kartpostal göstereceğim!
+
+0=Oraya ulaşmalı ve böylece işteki Steve'e kartpostal göndermeliyim. //HATALI
