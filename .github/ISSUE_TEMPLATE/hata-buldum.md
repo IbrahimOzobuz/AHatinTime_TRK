@@ -3,7 +3,7 @@ name: Hata Buldum
 about: Çeviri projemizdeki hataları belirtin.
 title: ''
 labels: sorun
-assignees: Hepobur
+assignees: Hoshungen
 
 ---
 
