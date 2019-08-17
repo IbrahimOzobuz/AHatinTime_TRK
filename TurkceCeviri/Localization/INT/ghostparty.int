@@ -26,6 +26,7 @@ WaitingToStart = Diğer oyuncular bekleniyor...
 [scoreboard]
 NoConnect = Bağlanamıyor
 Connecting = Bağlanıyor...
+//^3. şahıs
 MapHub = Uzay Gemisinde
 MapTitle = Ana Ekranda
 MapGeneric = Başka Perdede
