@@ -1,13 +1,21 @@
 [general]
-playerdied0 = [shake2][wave]Sabahları [scream][big]ÖLÜM[/big][/scream]ün kokusunu severim....[/wave][/shake2]
+playerdied0 = [shake2][wave]Sabahları [scream][big]ÖLÜM[/big][/scream]ÜN kokusunu severim....[/wave][/shake2]
+//^ÖLÜM'ÜN, ÖLÜMün
 playerdied1 = [shake2]Seni öldürmek zor iştir, ama buna değiyor, HA HA HA.[/shake2]
-playerdied2 = [shake2]Oh, did that hurt? Maybe you should stop doing it then, kiddo.[/shake2]
-playerdied3 = [shake2]If you love dying so much, maybe you should marry it![/shake2]
-playerdied4 = [shake2]Oh, that's just tragic. It'd break my heart if I had one.[/shake2]
+playerdied2 = [shake2]Oh, bu incitti mi? Öyleyse bunu yapmayı bırakmalısın, ufaklık.[/shake2]
+//^%90 hatalı
+playerdied3 = [shake2]Ölmeyi çok seviyorsan, belki onunla evlenmelisin![/shake2]
+playerdied4 = [shake2]Oh, bu sadece trajik. Kalbim kırılırdı, eğer olsaydı.[/shake2]
+
 playerdied5 = [shake2]I'm gonna miss you now that you're gone. Failing over and over... What a great time we had![/shake2]
 playerdied6 = [shake2]I hope nobody else was watching you mess that up, kiddo...[/shake2]
-playerdied7 = [shake2]Live fast, die young, and leave behind a pretty corpse, huh? At least you got two out of three right.[/shake2]
-playerdied8 = [shake2]Is that all you have? Get good, kid![/shake2]
+playerdied7 = [shake2]Hızlı yaşa, genç öl ve arkanda güzelim cesedi bırak, huh? At least you got two out of three right.[/shake2]
+//^ÇEVRİLMEDİ
+
+
+
+
+playerdied8 = [shake2]Yapabileceğinin hepsi bu mu? Ayağa kalk, çocuk![/shake2]
 playerdied9 = [shake2]Hope you enjoyed that one, kiddo, because there's a lot more where that came from![/shake2]
 playerdied10 = [shake2]Oh ho ho, I hope you don't think one measly death gets you out of your contract! We're only getting started...[/shake2]
 playerdied11 = [shake2]They say you can't truly appreciate something until it's gone...[br]I'm just helping you appreciate living![/shake2]
@@ -64,19 +72,20 @@ Intro2 = [shake2][wave][scream]AHHAHAHAHA!! YES! BURN![/scream][/wave][/shake2]
 Intro3 = [shake2]If I knew setting you on fire was this easy, I would have done it ages ago![/shake2]
 Intro4 = [shake2]Hey kid, I think I see some icecream over there. [wave]Oops! It melted![/wave][/shake2]
 Intro5 = [shake2]I can smell something burning... and it isn't my forest.[/shake2]
-Intro6 = [shake2]Come on kid, this is like, what, the first contract?[/shake2]
-Intro7 = [shake2]What's cookin' kiddo? Oh! It's [scream][big]YOU![/big][/scream][/shake2]
+Intro6 = [shake2]Hadi çocuk, this is like, what, the first contract?[/shake2]
+Intro7 = [shake2]Ne pişiyor ufaklık? Oh! Bu [scream][big]SENSİN![/big][/scream][/shake2]
 Intro8 = [shake2]Getting too warm, kid? I'm sure there's someone here who can cool you off... for good.[/shake2]
 Intro9 = [shake2]It must be hard to think straight in all that heat, kiddo. There's no shame in [wave]giving up.[/wave][/shake2]
 
 [StudioMoreGuards]
-Intro0 = [shake2]I saw one of your movies once. It was in the bargain bin. Almadım.[/shake2]
+Intro0 = [shake2]Filmlerinden birini daha önce görmüştüm. It was in the bargain bin. Almadım.[/shake2]
 Intro1 = [shake2]Hey ufaklık. Just dropping by to let you know I pirated your movie. Ve bitirmedim bile.[/shake2]
 
 [PonFrenzy]
 Intro0 = [shake2]I hope you're planning to claim all these Pons on your taxes.[/shake2]
 Intro1 = [shake2]Go on, start collecting! I have to pay for all this ink somehow...[/shake2]
 Intro2 = [shake2]Paranı göster![/shake2]
+//^Çeviri hatalı olabilir
 
 [CruiseWorkingHard]
 Intro0 = [shake2]Those seals are accident-prone, and incapable of performing the most basic tasks... and yet, they'd still be better at this than you.[/shake2]
@@ -108,7 +117,7 @@ Intro7 = [shake2]Face it kid, your speedrunning career was over before it even b
 
 [CanKick]
 cans_a0 = [big][timepiece]Nice Shot![/timepiece][/big]
-cans_a1 = Gemimizi temiz tutalim!
+cans_a1 = Gemimizi temiz tutalım!
 cans_a2 = Put trash in its proper place!
 cans_b0 = Oh bak! Yine yaptın!
 cans_b1 = Not satisfied with just one, eh? I like you. You know how to have a good time.
@@ -143,12 +152,12 @@ deathwish_open7 = [shake2]Back to the old grindstone![/shake2]
 
 dw_25_complete0 = [shake2]Wow kid, look at you go! Maybe you're sturdier than you look.[/shake2]
 dw_25_complete1 = [shake2]You've got a good number of contracts under your belt, but there's plenty more where that came from![/shake2]
-dw_25_complete2 = [shake2]So get back to it, kiddo. Tick tock.[/shake2]
+dw_25_complete2 = [shake2]So get back to it, kiddo. Tik tak.[/shake2]
 
 dw_50_complete0 = [shake2]Looks like you've completed quite a few of my contracts...[/shake2]
 dw_50_complete1 = [shake2]But don't be too proud of yourself, I'm only half-finished with you![/shake2]
 dw_50_complete2 = [shake2]There's still plenty of contracts left to finish. You didn't think you could get away with just completing the main objectives, did you?[/shake2]
-dw_50_complete3 = [shake2]Now go on, back to work![/shake2]
+dw_50_complete3 = [shake2]Şimdi ilerle, işinin başına![/shake2]
 
 dw_75_complete0 = [shake2]You're really tearing through these contracts, aren't you?[/shake2]
 dw_75_complete1 = [shake2]At this rate you'll be done with them in no time![/shake2]
@@ -167,7 +176,7 @@ dw_all_complete7 = [shake2]So I guess we can't always get what we want![/shake2]
 dw_all_complete8 = [shake2]Now, there there. At least you have the feeling you achieved something. [br]You [wave]earned[/wave] it.[/shake2]
 dw_all_complete9 = [shake2]If it wasn't clear, our business is concluded. Go bother someone else, kiddo.[/shake2]
 
-deathwish_revisit0 = [shake2]You again? Why won't you leave me alone?[/shake2]
+deathwish_revisit0 = [shake2]Yine mi sen? Why won't you leave me alone?[/shake2]
 deathwish_revisit1 = [shake2]You know there aren't any more contracts, right?[/shake2]
 deathwish_revisit2 = [shake2]Want to reopen some old wounds? That's fine by me.[/shake2]
 deathwish_revisit3 = [shake2]Remember that time you almost died? I'd like to revisit that.[/shake2]
