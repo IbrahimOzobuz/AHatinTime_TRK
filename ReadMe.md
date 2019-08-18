@@ -1,7 +1,7 @@
 ## A Hat in Time - Türkçe Çeviri
 <p align="center"><img width="200" height="200" src="https://github.com/Hoshungen/AHatinTime_TRK/blob/master/TurkceCeviri/icon_TRK.png"></p>
 
-> Bu Türkçe çeviri projesi ```A Hat in Time``` adındaki Steam oyunu için yapılmıştır ve bu çeviri projesinde katkıları geçenler, bu oyunu gönüllü olarak çevirmeyi amaçlamışlardır.
+> Bu Türkçe çeviri projesi ```A Hat in Time``` adındaki Steam oyunu için yapılmıştır ve bu çeviri projesinde katkıları bulunanlar, bu oyunu gönüllü olarak çevirmeyi amaçlamışlardır.
 
 ## Nasıl Yüklenir ? (GitHub)
 > 1. Steam'dan 'A Hat in Time' oyununu seçin.
