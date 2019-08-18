@@ -1,16 +1,16 @@
 [booths]
-ticket_booth0 = Want a Metro Ticket? 
-sold_out0 = Thanks for buying!
+ticket_booth0 = Bir Metro Bileti istiyor musun? 
+sold_out0 = Satın aldığınız için teşekkürler!
 
 [helpdesk]
-help_desk0 = Hello! Do you need a Metro Guide? If you're REALLY lost, it'll show you where to go!
-help_desk1 = [name]Accessibility Option[/name][br]The Metro is a complex, open space, that can be tough to navigate! If you're not interested in exploring and want some help finding your objective, these guidelines will show you a clear path to follow instead. If you want to focus on exploring again, you can also turn them off.
-help_desk2 = Do you need assistance?
-help_desk3 = So, what do you say? Do you need a guide?
-guide_bought = Would you like Guidelines on or off?
-guide_enable = Help me find the way!
-guide_disable = I want to explore, actually!
-guide_empty = We're uh, all sold out. Sorry!
+help_desk0 = Selam! Metro Rehberine ihtiyacın var mı? Eğer GERÇEKTEN kaybolursan, nereye gideceğini gösterecektir!
+help_desk1 = [name]Erişebilirlik Seçeneği[/name][br]Metro karmaşık, açık bir alan, ve bu yüzden gezinti için zor olabilir! Eğer keşfetmekle istemiyorsan ve hedefini bulmak için biraz yardım almak istyorsan, bu yönergeler takip edebileceğin açık bir patika gösterecektir. Keşfe odaklanmak istersen, onu kapatabilirsin.
+help_desk2 = Yardıma ihtiyacın var mı?
+help_desk3 = Yani, ne diyorsun? Rehbere ihtiyacın var mı?
+guide_bought = Yönergeleri açmak veya kapatmak ister misin?
+guide_enable = Yolumu bulmamda yardımcı ol!
+guide_disable = Keşfetmek istiyorum, gerçekten!
+guide_empty = Biz uh, hepsini sattık. Üzgünüz!
 
-helpyes = Yes, I want a guide!
-helpno = No, I want to explore!
+helpyes = Evet, bir rehber istiyorum!
+helpno = Hayır, keşfetmek istiyorum!
