@@ -4,6 +4,8 @@ Act_1_1 = Mafya Şehrine Hoşgeldin
 Act_1_2 = Varil Mücadelesi
 Act_1_3 = O Uzaydan Geldi
 Act_1_4 = Down with the Mafia!
+//Özel kullanım^
+
 Act_1_5 = Adil Yarış
 Act_1_6 = Mafya Şehrini Kavurmak
 Act_1_7 = Altın Kasa
@@ -12,14 +14,14 @@ Location_MafiaHQ = Mafya Üssü
 
 Chapter1_Bonus_Secret_Sewer = Kanalizasyon
 Chapter1_Bonus_Secret_Bazaar = Pazar
-Chapter1_Bonus_Cave_Intro = Mafia of Cooks
+Chapter1_Bonus_Cave_Intro = Aşçılar Mafyası
 Chapter1_Bonus_Cave_Raccoon = Uykulu Subcon
 
 Chapter2_Subcon = Subcon Ormanı
 Act_2_1 = Sözleşme Yükümlülükleri
 Act_2_2 = Subcon Kuyusu
 Act_2_3 = Toilet of Doom
-Act_2_4 = Queen Vanessa'nın Malikanesi
+Act_2_4 = Kraliçe Vanessa'nın Malikanesi
 Act_2_5 = Posta Teslim Servisi
 Act_2_6 = Ateş Ruhlarının Ritüeli
 Act_2_7 = Sözleşmen Bitti
@@ -99,13 +101,13 @@ Population_MafiaTown = Nüfus: 379
 Population_MafiaTown_Less = Nüfus: Less than before since I made them go boom
 Population_MafiaTown_Fried = Nüfus: Bir sürü kavrulmuş Mafya
 Population_MafiaTown_Boss = Nüfus: One less soon
-Mission_RecoverTP = Görev: Düşmüş Zamana Parçasını kurtar
+Mission_RecoverTP = Görev: Düşmüş Zaman Parçasını kurtar
 Mission_Race = Görev: Adil olarak kaz- pfffft hahaha
 Mission_Safe = Görev: Bu koca kasayı aç!
 Mission_Boss =  Görev: Take down the Mafia!
 Mission_Lava = Görev: Cool things down!
 Sweating_No = Terleme: Umarım olmaz
-Sweating_Nope = Terleme: Hiç yolu yok
+Sweating_Nope = Terleme: Hiçbir yolu yok
 Sweating_Yes = Terleme: Evet, maalesef
 Sweating_Rain = Terleme: Gökyüzü terliyor gibi görünüyor
 
@@ -170,5 +172,5 @@ BellPath1 = Alacakaranlık Patikası
 LavaPath1 = Kızgın Lava Yarığı
 LavaPath2 = Ember Zirvesi
 WindmillPath1 = Rüzgarlı Geçit
-CatEasy = Kıvrımlı Kuyruk Boynuz Patikası
+CatEasy = Kıvrım Kuyruklu Boynuz Patikası
 CatHard = The Mırlanan Köy
