@@ -484,10 +484,11 @@ Options_QuitGame_InGame_A_MainMenu = Main Menu!
 Options_QuitGame_InGame_A_Desktop = Desktop!
 Options_QuitGame_InGame_A_Return = Go Back!
 
-Label_Equipment = EQUIPMENT
-Label_Badges = BADGES
-Label_Weapon = WEAPON
-Label_Contract = CONTRACT
+Label_Equipment = EKİPMAN
+Label_Badges = ROZETLER
+Label_Weapon = SİLAH
+Label_Contract = SÖZLEŞME
+//KONTROL^
 
 Options_RestartLevel_Q = Restart the act?
 Options_RestartDeathWish_Q = Restart the Death Wish?
