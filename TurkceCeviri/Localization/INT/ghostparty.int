@@ -3,7 +3,7 @@ PlayerJoin = [name][playername][/name] online partiye katıldı!
 PlayerLeave = [name][playername][/name] online partiden ayrıldı...
 EnterChapter = [name][playername][/name] adlı oyuncu [hint][actname][/hint] katıldı
 TimePieceGet = [name][playername][/name], [hint][actname][/hint] deki [icon:TimePiece]nı topladı, tebrikler!
-PlayerConnectionFailed = [name][playername][/name] bağlanamıyor. Yönlendiricinizin NAT ayarlarınızı kontrol edin.
+PlayerConnectionFailed = [name][playername][/name] bağlanılamıyor. Yönlendiricinizin NAT ayarlarınızı kontrol edin.
 PlayerPaused = Durduruldu
 
 [lobby]
@@ -24,9 +24,8 @@ JoinPrompt = Katılmak için basılı tutun
 WaitingToStart = Diğer oyuncular bekleniyor...
 
 [scoreboard]
-NoConnect = Bağlanamıyor
-Connecting = Bağlanıyor...
-//^3. şahıs
+NoConnect = Bağlanılamıyor
+Connecting = Bağlanılıyor...
 MapHub = Uzay Gemisinde
 MapTitle = Ana Ekranda
 MapGeneric = Başka Perdede
