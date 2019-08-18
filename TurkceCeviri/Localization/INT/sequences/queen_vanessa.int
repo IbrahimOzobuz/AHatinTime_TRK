@@ -4,16 +4,19 @@ Encounter1 = KİM EVİME GİRMEYE[br]CÜRET EDİYOR?
 
 [diaries]
 crowning0 = Annem geçen hafta bir kaza geçirdi, bu yüzden bugün kraliçe olarak taçlandırıldım. Şimdi prens bana prensesim diyemiyor! Hayat adil değil!
-prince_breakfast0 = Prensim kahvaltısını çok fazla sever. O lanet pastırmayı kıskanıyorum! O bunu seviyor! Bu evde bundan sonra pastırma yok!
-mom_breakfast0 = Annem benim '' olmamı ısrar edip duruyor. Genç bir kız ne isterse onu yapar!
-mom_breakfast1 = Daah bu sabah I had two cookies for breakfast. That will show her. I might even have a third.
-cellar_chains0 = Oh, ona her zaman tutamyı dilerdim! Hücrede kilitli ve zincirli! Ama sen bir adamı kelepçeleyemezsin... yoksa?
+prince_breakfast0 = Prensim kahvaltısını çok fazla sever. O lanet pastırmayı kıskanıyorum! O pastırmayı seviyor! Bu evde bundan sonra pastırma yok!
+mom_breakfast0 = Annem benim 'uyumlu' olmamda ısrar edip duruyor. Genç bir kız ne isterse onu yapar!
+//^HATALI olabilir
+mom_breakfast1 = Daha bu sabah Kahvaltı için iki kurabiye vardı. Bu ona gösterecektir. I might even have a third.
+// Belki üçüncüsüne bile sahip olabilirim. //UZUYOR
+cellar_chains0 = Oh, ona her zaman tutmayı dilerdim! Hücrede kilitli ve zincirli! Ama sen bir adamı kelepçeleyemezsin... yoksa?
 prince_hair0 = Saçın için üzgünüm, prensim. Sadece uzunluğunun uyuşmasını istemiştim! ...ve rengi... ve kıvrımları... sen harika gözüküyorsun!
 princeletter0 = Benim En sevgili Vanessa'm,[br]Seni son gördüğümden beri çok gün geçti, ama bana aylar gibi geldi.
 princeletter1 = Akademide zaman zor, ama ben çabuk gelişiyorum. Hukuk olduğu zaman burada çalışacak çok şey var, 
-ama buradaki kütüphane iyi donatılmış.
+ama buradaki kütüphane iyi donanımlı.
 //^HATALI
-princeletter2 = Öğretmenlerimiz bu ülkenin en iyileri, ve onlara yardımlarından dolayı minnettarım. I have been attending private study with one, deneyimli bir practitioner of law by the name of Lady.
+princeletter2 = Öğretmenlerimiz bu ülkenin en iyileri ve onlara yardımlarından dolayı minnettarım. I have been attending private study with one, deneyimli bir practitioner of law by the name of Lady.
+//özel derslere
 
 princeletter3 = Mektubun geri kalanı harap ve yırtık.
 diary0 = Eski, harap bir günlük. Birçok sayfası yırtılmış.
