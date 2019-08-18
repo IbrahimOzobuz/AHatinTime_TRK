@@ -170,7 +170,7 @@ SkinDesc_Outfit0 = Giysinizi değiştirin!
 MaterialSkin_Desc0 = Kendini boyaya daldır!
 WhiteRedSkinName = Büyük Patron
 RedWhiteSkinName = Kanlı Ay
-GreenOrangeSkinName = The Nutcracker
+GreenOrangeSkinName = Fındıkkıran
 BlueYellowSkinName = Böğürtlenli Pasta
 BlackSkinName = Dul
 CaptainName = Denizin Kaptanı
@@ -208,7 +208,7 @@ WireframeShop = Bitmemiş gibi duruyor, ama bugünlerde moda!
 
 BeeSkinName = Meşgul Arı
 FlamesSkinName = Too Hot to Handle
-PizzaSkinName = Pizza Zamanı
+PizzaSkinName = Pizza Time
 AnarchySkinName = Anarşi
 BattlementsSkinName = Battlements
 FortressSkinName = Fortress
@@ -348,14 +348,14 @@ Geniş kapsamlı
 
 
 TripleScoopName = Üç Kepçe
-TripleScoopDesc = Uygun bir sıcaklıkta donmuş vanilya kreması ve top şeklinde, sonra da külaha koyuluyor. Külahındaki toplar, sunuşuyla dondurması olmayan ziyaretçilerini etkileyecektir.
+TripleScoopDesc = Uygun bir sıcaklıkta dondurulmuş vanilya kreması ve top şeklinde, bunlar sonra da külaha koyuluyor. Külahındaki toplar, sunuşuyla dondurması olmayan ziyaretçilerini etkiliyor.
 //^HATALI
 
 IceCreamSandwichName = Dondurmalı Sandviç
 IceCreamSandwichDesc = Dondurma gofret veya iki bisküvi arasında servis edilir. Sandviç sadece adıdır, bu tatlı kılık değiştirmede doktora yapmış.
 
 FishName = Balık
-FishDesc = Ezilmiş and kızarmış balık, genellikle sazan or morinaya. Çoğu kedi love being able to buy it fried, since there's no fishtanks in the metro to steal from.
+FishDesc = Ezilmiş ve kızartılmış balık, genellikle sazan or morinaya. Çoğu kedi love being able to buy it fried, since there's no fishtanks in the metro to steal from.
 
 
 
@@ -372,12 +372,7 @@ TheMetroSpecialDesc = Koca bir kase pilav, kızartılmış balık, yumurta, ve p
 
 
 
-
-
 Her şeyin yemeği, lezzetli sonuçlar almak için
-
-
-
 
 MeatballsName = Köfteler
 MeatballsDesc = Kıyma küçük toplar biçiminde. To reach true enlightenment you must understand that as meatballs go in, hairballs go out.
@@ -389,33 +384,16 @@ ShoyuRamenName = Shoyu Eriştesi
 ShoyuRamenDesc = A warm chicken and vegetable broth, served with toppings of your choice. The perfect comfort food for the cold night after you miss the last train of the day.
 
 KatsuCurryName = Katsu Körisi
-KatsuCurryDesc = A tasty pork cutlet cut into strips, served with a rich flavourful curry, and usually rice. While the pun is irresistible given that you're in a cat metro, it will not be appreciated.
-
-
-
-
-
-
- Şeritler halinde kesilmiş leziz bir domuz külbastısı, yanında zengin tadıyla körüyle ve genellikle pilavla servis edilir.
-
-
-
+KatsuCurryDesc = Şeritler halinde kesilmiş leziz bir domuz külbastısı, yanında zengin körü tadıyla ve genellikle pilavla servis edilir. While the pun is irresistible given that you're in a cat metro, it will not be appreciated.
 
 RiceName = Pilav
 RiceDesc = Pilav dünyadaki en çok tüketilen besinlerden birisidir. Hazırlaması kolay ve ucuz; ve ıslanmış cep telefonlarının kurtarıcısıdır.
 
 CookiesName = Kurabiyeler
-CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolata kaplıdır, üzümle, ya da başka şeylerle. Atıştırmak için harikadır ve ayrıca kırıntılarını her yere dökemk için de.
+CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolata kaplıdır, üzümle, ya da başka şeylerle. Atıştırmak için harikadır ve ayrıca kırıntılarını her yere dökmek için de.
 
 JuiceBoxName = Meyve Suyu
 JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Premium juice often features chunky pulp, showing the hypocrisy in mankind's unwillingness to drink spoiled milk.
-
-
-
-
-
-
-
 
 PizzaSliceName = Pizza Dilimi
 PizzaSliceDesc = Ana malzemesi yuvarlak hamur; domates, peynir ve malzemelerle süslenmiş. Çoğu aşçı, bu üçgen güzellikle karşılaştıklarında gözyaşlarına hakim olamaz.
