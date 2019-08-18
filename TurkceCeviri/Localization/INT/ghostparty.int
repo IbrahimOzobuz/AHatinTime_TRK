@@ -14,7 +14,7 @@ PublicInfo = Girilirse, sadece partideki diğer oyuncuları göreceksiniz.[br]Bo
 
 Tutorial0 = [wave][hint]Online Parti[/hint][/wave]ye Hoşgeldiniz! Collapse dimensions together ve arkadaşlarınızı görün!
 Tutorial1 = Bunu açarak maceraya atılın bunun yanısıra diğer dünyalardan oyuncularla oynayın!
-Tutorial2 = Ya da parti adı girerek sadece arkadaşlarınızla oynayın!
+Tutorial2 = Veya parti adı girerek sadece arkadaşlarınızla oynayın!
 
 OpenConv0 = [wave][hint]Online Parti[/hint][/wave] ayarlarını değiştirmek istiyor musunuz?
 
@@ -44,12 +44,12 @@ MurderClue = [name][playername][/name] vakayı çözmeye bir adım daha yakın!
 
 [emotes]
 PingName = Gecikme
-OverHereName = Over here!
-HiName = Hi!
+OverHereName = Buraya!
+HiName = Selam!
 ByeName = Bye!
-WatchOutName = Watch out!
-NopeName = Nope!
-ThanksName = Thanks!
+WatchOutName = Dikkat et!
+NopeName = Hayur!
+ThanksName = Teşekkürler!
 BoopName = Boop!
 PeckName = Peck!
-SorryName = Sorry!
+SorryName = Üzgünüm!
