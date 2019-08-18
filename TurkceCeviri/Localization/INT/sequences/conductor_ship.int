@@ -1,13 +1,6 @@
 [internal]
-conductor0 = Heyy... get me a Sinking Ship, oan the rocks. And make the good part a double.
-
-Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve 
-
-conductor1 = Oh, I didn't notice yer there, lassy. Out roamin', are we?
-
-
-Senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, değil mi?
-
+conductor0 = Heyy... Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve make the good part a double.
+conductor1 = Oh, senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, are değil mi?
 conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
 conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
 
@@ -15,9 +8,7 @@ conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses
 conductor0 = [wave].....hic....Ooh, selam, kızım![/wave]
 conductor1 = [wave]Nasıl, nasıl gidiyor, he? İyi bir tatil geçiriyor musun, kızım?[/wave]
 conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben, ve benim şuradaki küçük arkadaşlarım. Hayat budur, he?[/wave]
-conductor3 = [wave]... I wonder what the rest of the boat is like...[wave]
-
-Geminin geri kalanının nasıl olduğunu meral ediyorum...
+conductor3 = [wave]... Geminin kalanının nasıl olduğunu merak ediyorum...[wave]
 
 [docks]
 conductor0 = Well, if it isn't the little lass. How's stardom treating ya?
@@ -33,7 +24,7 @@ finale1 = I'm not gonna hang around a sinking ship! If you don't make it back qu
 conductor0 = O kız nerede? Bu gemi batıyor, biz şimdi buradan çıkmalıyız!
 conductor1 = [scream]Buraya gel, kızım! Şimdi ayrılıyoruz ŞİMDİ!![/scream]
 
-conductor2 = Aye, teşekkürler kızım. Küçükler henüz yüzmeyi öğrenemedi!
+conductor2 = Hayhay, teşekkürler kızım. Küçükler henüz yüzmeyi öğrenemedi!
 
 carried0 = Ah! Dikkatli ol, kızım! Tüylerimi düşün!
 
