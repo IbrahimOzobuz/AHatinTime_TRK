@@ -1,17 +1,18 @@
 [fluff]
 ticketcrow0 = Selam, yolcu dostum. Seninle tanışmak güzel. İlk sefer de olsa.
 ticketcrow1 = Biz kargalar biletlerimizi piyangodan kazandık. Hepimiz. İnanılmaz şanslıydık.
-ticketcrow2 = Bileti yasal yollarla almış olmalısınız. Bütünüyle gündelik nedenlerle, ne kadar [icon:pon] ödediniz?
+ticketcrow2 = Bileti yasal yollarla almış olmalısınız. Tamamen gündelik nedenlerle, ne kadar [icon:pon] ödediniz?
 ticketcrow3 = İlginç. [TicketPrice] [icon:pon] gemi seferi biletleri için normal bir fiyat gibi görünüyor.
-ticketcrow4 = Normal, ve uyumsuz olmayan tüm hesap özetinizle beraber.
+ticketcrow4 = Normal ve uyumsuz olmayan tüm hesap özetinizle beraber.
+//^HATALI "uyumsuz olmayan"
 
 destinationcrow0 = İyi akşamlar, yolcu dostum. Yolculuğunuz umarım keyifli geçiyordur.
-destinationcrow1 = Bu geminin nereye gideceğini biliyor musun? Biletletimizin tümünde yazıyordu, ama yazı lekelendi.
-destinationcrow2 = Tümünde. Bu çok olası bir kazaydı. Gideceğimiz zaman bize hatırlatabilir misin?
+destinationcrow1 = Bu geminin nereye gideceğini biliyor musun? Biletletimizin üzerinde yazıyordu, ama yazı lekelendi.
+destinationcrow2 = Hepsinin üzerinde. Bu çok olası bir kazaydı. Gideceğimiz zaman bize hatırlatabilir misin?
 destinationcrow3 = Oh, tabii ki, [Destination]. Şimdi hatırladım, daha önce yazdığını görmüştüm. Biletimde.
 
 familycrow0 = [Destination]'da ailem var.. Bunun nereye varacağından çok umutluyum.
-familycrow1 = Bu gemi yolcuğunu yapma nedenim bu işte, tabii.
+familycrow1 = Gemi yolcuğunu yapma nedenim bu işte, elbette.
 
 reviewcrow0 = Rezervasyonda adımız yok derken ne demek istiyorsun?
 reviewcrow1 = Biz biletlere tamı tamına [TicketPrice] [icon:pon] ödedik, tıpkı tüm diğer gerçek yolcular gibi.
