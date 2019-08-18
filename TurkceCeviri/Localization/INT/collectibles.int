@@ -348,31 +348,20 @@ Geniş kapsamlı
 
 
 TripleScoopName = Üç Kepçe
-TripleScoopDesc = Uygun bir sıcaklıkta dondurulmuş vanilya kreması ve top şeklinde, bunlar sonra da külaha koyuluyor. Külahındaki toplar, sunuşuyla dondurması olmayan ziyaretçilerini etkiliyor.
+TripleScoopDesc = Uygun bir sıcaklıkta top şeklindeki donmuş vanilya kreması, bunlar da külaha koyuluyor. Külahındaki toplar, sunuşuyla dondurması olmayan ziyaretçilerini etkileyecektir.
 //^HATALI
 
 IceCreamSandwichName = Dondurmalı Sandviç
 IceCreamSandwichDesc = Dondurma gofret veya iki bisküvi arasında servis edilir. Sandviç sadece adıdır, bu tatlı kılık değiştirmede doktora yapmış.
 
 FishName = Balık
-FishDesc = Ezilmiş ve kızartılmış balık, genellikle sazan or morinaya. Çoğu kedi love being able to buy it fried, since there's no fishtanks in the metro to steal from.
-
-
-
-
- kızartılmış olanını alabildiği için seviniyor, çalınacak akvaryum olmadığı için.
+FishDesc = Ezilmiş ve kızartılmış balık, genellikle sazan or morinaya. Çoğu kedi kızartılmış olanını alabildiği için seviniyor, metroda çalınacak akvaryum olmadığı için.
 //HATALI^
-
-
-
-
 
 TheMetroSpecialName = Metro Spesyali
 TheMetroSpecialDesc = Koca bir kase pilav, kızartılmış balık, yumurta, ve patates kızartması bileşimi. A meal of everything, proving that even little care can have delicious results.
 
-
-
-Her şeyin yemeği, lezzetli sonuçlar almak için
+Her şeyin öğünü/yemeği, lezzetli sonuçlar almak için
 
 MeatballsName = Köfteler
 MeatballsDesc = Kıyma küçük toplar biçiminde. To reach true enlightenment you must understand that as meatballs go in, hairballs go out.
@@ -394,6 +383,14 @@ CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolata kaplıdır, �
 
 JuiceBoxName = Meyve Suyu
 JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Premium juice often features chunky pulp, showing the hypocrisy in mankind's unwillingness to drink spoiled milk.
+
+
+Kaliteli sıvı sıklıkla
+
+
+
+
+
 
 PizzaSliceName = Pizza Dilimi
 PizzaSliceDesc = Ana malzemesi yuvarlak hamur; domates, peynir ve malzemelerle süslenmiş. Çoğu aşçı, bu üçgen güzellikle karşılaştıklarında gözyaşlarına hakim olamaz.
