@@ -7,4 +7,6 @@
 
 > ```A Hat in Time - Modding Tools açılırsa eklenecektir. Son kısma şunları ekleyin: İıŞşĞğ```
 
+> Font Boyutu: 32 veya 44
+
 > NOT: Lisans şartları dolayısıyla font'un silinme olasılığı vardır.
