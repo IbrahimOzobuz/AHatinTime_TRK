@@ -2,6 +2,7 @@
 > Bu Türkçe çeviri modu ```A Hat in Time``` adındaki Steam oyunu için yapılmıştır.
 
 > Proje Durumu: **Durdurulmuş (19.08.2019)**
+
 > Proje İlerlemesi: **%65**
 
 ## Nasıl Yüklenir ? (GitHub)
