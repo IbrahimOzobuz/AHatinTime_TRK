@@ -1,28 +1,37 @@
 [basement]
 mail_0 = Çoğu ödenmemiş fatura gibi gözüküyor.
-mail_1 = Mantıklı - you don't recall seeing many cinemas on this planet, and destroying trains probably gets pricey after a few takes.
-mail_2 = This looks to be a mix of fan mail (mostly from penguins) and hate mail (entirely from the [icon:Conductor][name]Conductor[/name]).
-blocked_0 = Looks like you're not allowed past this point. Very subtle.
-reels_0 = These shelves are full of movies you've never heard of.
-reels_1 = The amount of bird puns in their titles is staggering.
+mail_1 = Aslında mantıklı - bu gezegendeki sinemaları hatırlamıyorsun ve trenleri patlatmak bir sonraki çekimlerde belki de ciddi meblalara neden oluyordur.
+mail_2 = Görünen o ki burası hayran mektubu (çoğu penguenlerden) ve nefret mektupları (tamamı [icon:Conductor][name]Kondüktör[/name]den) dolu. 
+blocked_0 = Görünen o ki bu noktaya girmene izin yok. Çok zekice.
+reels_0 = Bu raflardaki filmlerin tamamı, ismini bile duymadığın filmlerle dolu.
+reels_1 = Kuşlar hakkındaki bu kadar cinaslı film başlıkları olması şaşırtıcı.
 box_0 = Etikette 'MacGuffins' yazıyor.
 box_1 = Etikette 'Chekhovs Guns' yazıyor.
 box_2 = Etikette 'Red Herrings'. Bu kutu kötü kokuyor.
 box_3 = Etikette 'Framing Devices' yazıyor.
 box_4 = Etikette 'Ticking Clocks' yazıyor. You think of one being advanced, and shiver.
-box_5 = Etikette 'Jonbar Hinges' yazıyor. All you can see through the cracks is a magnet and a pebble, though.
+
+Birinin gelişmiş olduğunu düşün, ve parçalandığını.
+^ YANLIŞ_KISIM 1
+
+
+box_5 = Etikette 'Jonbar Hinges' yazıyor. Ama, çatlak arasından gördüğün şey mıknatıs ve çakıl.
+
+
+
+
+
 gold_0 = It strikes you that this might be the gaudiest, most excessive thing you've ever seen.
 gold_1 = It doesn't look like there's an easy way to take it with you, either. Shame.
 whiteboard_0 = Beyaz tahtadaki şey sana hiçbir anlam ifade etmiyor.
-whiteboard_1 = In fact, it mostly just looks like ramblings of someone very close to running out of movie ideas.
+whiteboard_1 = Cidden, çoğunluğu birisinin film fikirlerinin bitmeye yakın olduğu anlamsız karalamalar gibi görünüyor.
 whiteboard_2 = There are no less than seven instances of the word 'reboot'.
-posters_0 = Çıkan posterler oldukça harika!
-posters_1 = Ama, aklına gelen, resmini onlara ticareten kullanmana asla izin vermediğin.
-
-posters_2 = Gerçekten, you don't recall signing a contract for anything here. Or even giving them any of your details.
-posters_3 = ... it's possible you aren't getting paid for these movies.
+posters_0 = Yayımlanan posterler oldukça güzel!
+posters_1 = Ama, aklına gelen, resminin onlara marketing amacıyla kullanmana asla izin vermediğin.
+posters_2 = Gerçekten, burada imzaladığın sözleşme için hiçbir şey hatırlamıyorsun. Veya onlara hakkında bilgi bile vermemiştin.
+posters_3 = ... senin bu filmlerde ödeme bile alamaman mümkün.
 
 [rift]
 manifest_0 = There's a piece of paper pinned to this crate. It's a receipt for a bunch of prop supplies!
-manifest_1 = Tuhaf - seems like someone snuck a copy of 'Corgi Quest 7' on to this order, but it doesn't seem to have been delivered properly.
-manifest_2 = Onlar onun yerine balık sandığı almış gözüküyor. Ne.
+manifest_1 = Tuhaf - birileri 'Corgi Quest 7' kopyasını bu siparişin içine nakletmiş gibi görünüyor, ama görülen o ki teslimatı düzgün bir şekilde yapılmamış.
+manifest_2 = Onlar bunun yerine balık sandığı almış gibi gözüküyor. Hö.
