@@ -505,17 +505,17 @@ Coop_Disable_Deny = Geri Dön
 Backpack_Level_Collectables = Bölüm Eşyaları
 
 [MainMenu]
-FileSelect_File = File
-FileSelect_Progress_Completed = Complete
-FileSelect_New = Create New File
+FileSelect_File = Dosya
+FileSelect_Progress_Completed = 'si Bitti
+FileSelect_New = Yeni Dosya Oluştur
 
-Action_Delete = Delete Save
+Action_Delete = Kaydı Sil
 Action_Delete_Q = Are you sure you want to[br]delete save [id]?
 
-Action_NewGame = Start New Game
-Action_NewGame_Q = Start a New Game?
+Action_NewGame = Yeni Oyun
+Action_NewGame_Q = Yeni bir Oyuna Başla?
 
-Action_SwitchUser = Switch User
+Action_SwitchUser = Kullanıcı Değiştir
 
 YarnBall = Yumak Topu
 YarnBall_multiple = Yumak Topları
