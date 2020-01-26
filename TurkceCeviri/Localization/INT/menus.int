@@ -506,7 +506,7 @@ Backpack_Level_Collectables = Bölüm Eşyaları
 
 [MainMenu]
 FileSelect_File = Dosya
-FileSelect_Progress_Completed = 'si Bitti
+FileSelect_Progress_Completed = oranı Bitti
 FileSelect_New = Yeni Dosya Oluştur
 
 Action_Delete = Kaydı Sil
