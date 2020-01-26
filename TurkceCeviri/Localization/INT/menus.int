@@ -427,7 +427,7 @@ Item_HoldBackToCancelDive_Title = Hold Backwards To Cancel Diving
 Item_HoldBackToCancelDive_Desc = Hold backwards while performing a jump dive to cancel it.
 
 [systemsettings.controller]
-Header_Controller = Bağlanmıs Oyun Kolları
+Header_Controller = Bağlanmış Oyun Kolları
 Item_NewController_Title = Yeni Oyun Kolu
 Item_NewController_Desc = Configure a new custom controller!
 Item_NewController_Item_New = Yeni
@@ -670,7 +670,7 @@ RestartToLastCheckpoint = Yeniden
 DeathWish = Son İstek
 GhostParty = Çevrimiçi Lobi
 DLC1Title = Seal the Deal
-DLC2Title = Miyakuza Metro
+DLC2Title = Nyakuza Metro
 BonusItems = Bonus
 //Bonus Items
 Soundtracks = Müzikler
