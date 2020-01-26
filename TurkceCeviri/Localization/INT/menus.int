@@ -163,14 +163,14 @@ Item_CameraDistance_Item_VeryFar = Çok Uzak
 Item_CameraZoomRestore_Title = Auto-Restore Camera Speed
 Item_CameraZoomRestore_Desc = When you've moved around for a bit, the camera will return to its default camera distance. This setting controls how fast that happens.
 
-Header_Game_Misc = Misc
+Header_Game_Misc = Diğer
 Item_CameraUpscaling_Title = Instant Camera Picture Resolution
 Item_CameraUpscaling_Desc = The game item "Instant Camera" can take pictures at higher resolution than the game is in. Change this option to set at how high a resolution pictures should be taken (at the cost of pictures taking longer to capture).
 Item_CameraUpscaling_Item_0 = Oyunla Aynı
 
 Header_System = Sistem Ayarları
 Item_NoSaving_Title = Kaydetme
-Item_NoSaving_Desc = Oyun kayıt ilerlemenizi kaydetmeyecektir. Bu speedrun yapıyorsanız önerilir ve kayıt ilerlemenizin korunmasını istiyorsanız önerilmez.
+Item_NoSaving_Desc = Oyun kayıt ilerlemenizi kaydetmeyecektir. Bu speedrun yapıyorsanız önerilir ve kayıt ilerlemenizin saklanmasını istiyorsanız önerilmez.
 
 Item_DevConsole_Title = Geliştirici Konsolu
 Item_DevConsole_Desc = Geliştirici konsoluna erişim izin verir. Açmak için TAB'a basın.
@@ -191,10 +191,10 @@ Item_SoundEffectVolume_Title = Ses Efekti Düzeyi
 Item_SoundEffectVolume_Desc = Ses efektleri seviyesini ayarlar. %100 önerilen değerdir, ama sesi bundan bağımsız da arttırabilirsiniz.
 
 Item_VAVolume_Title = Diyalog Düzeyi
-Item_VAVolume_Desc = Adjusts the volume of spoken dialogue, including mumble. %100 önerilen değerdir, ama sesi bundan bağımsız da arttırabilirsiniz.
+Item_VAVolume_Desc = Mırıltılar dahil, konuşulan diyaloğun ses düzeyini ayarlar. %100 önerilen değerdir, ama sesi bundan bağımsız da arttırabilirsiniz.
 
 Item_MasterVolume_Title = Ana Ses Düzeyi
-Item_MasterVolume_Desc = Adjusts the volume of the entire game. %100 önerilen değerdir, ama sesi bundan bağımsız da arttırabilirsiniz.
+Item_MasterVolume_Desc = Tüm oyunun ses düzeyini ayarlar. %100 önerilen değerdir, ama sesi bundan bağımsız da arttırabilirsiniz.
 
 Item_VolumeOnFocusLost_Title = Arka Plan Ses Düzeyi
 Item_VolumeOnFocusLost_Desc = Oyunun aktif olmadığı andaki ses düzeyini ayarlar.
@@ -212,21 +212,7 @@ Header_Window = Pencere
 Header_Visuals = Görseller
 
 Item_DisplayResolution_Title = Çözünürlük
-Item_DisplayResolution_Desc = Determines how many pixels are rendered horizontally and vertically. Yüksek çözünürlük, yüksek kaliteyle sonuçlanacaktır, ama performansı azaltacaktır.
-Ne kadar piksellerin yatay ve dikey olarak belirler.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Item_DisplayResolution_Desc = Dikey ve yatay olarak işlenecek piksel sayısını belirler. Yüksek çözünürlük, yüksek kaliteyle sonuçlanacaktır, ama performansı azaltacaktır.
 
 Item_WindowType_Title = Pencere Tipi
 Item_WindowType_Desc = [[option:Item_WindowType_Item_Fullscreen]]: Oyun tüm monitörü kaplar.[newline][[option:Item_WindowType_Item_Windowed]]: Oyun normal bir pencereyle gösterilecektir.[newline][[option:Item_WindowType_Item_Borderless_Window]]: Pencereyle aynıdır, ama çerçeve ve başlık olmadan görüntülenecektir.
