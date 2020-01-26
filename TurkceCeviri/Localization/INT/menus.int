@@ -751,7 +751,7 @@ newgamebowkid_bullet1 = Yeni maceranıza ana karakter Bow Kid
 newgamebowkid_bullet2 = olarak başlayabilirsiniz!
 
 [Splash]
-Splash_Close = Kapak
+Splash_Close = Kapat
 Splash_Next = Sonraki
 Splash_ViewStorePage = Mağazada Görüntüle
 Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
