@@ -21,7 +21,7 @@ GameSettings_Icon_Camera = Kamera
 GraphicsSettings_Title = Grafik Ayarları
 GraphicsSettings_Title_Console = Görsel Ayarlar
 GraphicsSettings_Desc = Oyunun görsel ve performansına etki edecek Grafik ayarlarmaları yapın.
-GraphicsSettings_Desc_Console = Oyunun görselliğini ayarlayın.
+GraphicsSettings_Desc_Console = Oyunun görsellerini ayarlayın.
 GraphicsSettings_Icon_Performance = Performans
 GraphicsSettings_Icon_Rendering = İşleme
 GraphicsSettings_Icon_Effects = Efektler
@@ -41,9 +41,11 @@ InputSettings_Desc_Console = Kontrol ile alakalı ayarları düzenleyin.
 
 InputSettings_Icon_KeyBinds = Girdi Yardımı
 InputSettings_Icon_Controllers = Kontroller
+//Hatalı olabilir
 InputSettings_Icon_Controllers_PS4 = Wireless controller
 InputSettings_Icon_Controllers_XBOX = Controller
 InputSettings_Icon_InvertAxis = Ters Kontroller
+//Tersine
 
 [systemsettings.game]
 Header_Singleplayer = Tek Oyunculu
@@ -58,7 +60,7 @@ Item_Language_Title = Dil
 Item_Language_Desc = Yazılarda gözükecek dili ayarlar. Seslendirmeyi değiştirmez (ses ayarlarından Seslendirmeyi ayarlayabilirsiniz).
 
 Item_SkipCinematics_Title = Otomatik Atlanabilir Sahneleri Atlama
-Item_SkipCinematics_Desc = Aceleniz varsa, onları zaten görmüşseniz, bu seçeneği etkinleştirerek oyun içi tüm atlanabilir sahneleri atlayabilirsiniz. Aklınızda olsun, bu ayar olmadan da sinematikleri atlayabilirsiniz.
+Item_SkipCinematics_Desc = Aceleniz varsa, onları zaten görmüşseniz, bu seçeneği etkinleştirerek oyun içi tüm atlanabilir sahneleri atlayabilirsiniz. Unutmayın, bu ayar olmadan da sinematikleri atlayabilirsiniz.
 
 Header_Accessibility = Erişebilirlik
 
@@ -134,11 +136,11 @@ Item_CameraSmoothRotation_Item_Medium = Orta
 Item_CameraSmoothRotation_Item_Fast = Hızlı
 Item_CameraSmoothRotation_Item_VeryFast = Çok Hızlı
 Item_CameraSmoothRotation_Item_Off = Kapalı
-Item_CameraSmoothRotation_Item_Instant = Anında
+Item_CameraSmoothRotation_Item_Instant = Hemen
 
 Item_CameraFocusDuration_Title = Kamera Snap Hızı
-Item_CameraFocusDuration_Desc = Kameranın snap tuşuna bastığınızda, arkanızdan kamera hareket eder. Bu ayar hareketin ne kadar hızlı olduğunu ayarlar.
-
+Item_CameraFocusDuration_Desc = Kameranın deklanşör tuşuna bastığınızda, arkanızdan kamera hareket eder. Bu ayar hareketin ne kadar hızlı olduğunu ayarlar.
+//snap=deklanşör
 
 
 
@@ -612,24 +614,24 @@ PayCost = Onar:
 
 [DeadBirdBills]
 Bill_WalkOnSet = Stüdyo Kayıtlarını Bozmak
-Bill_DestroyProp = Mülkiyete Zarar
-Bill_EnterStudio = Haneye Tecavüz
-Bill_Spotted_Owl = Baykuşa Rahatsızlık vermek
-Bill_Spotted_Penguin = Penguene Rahatsızlık vermek
+Bill_DestroyProp = Mülkiyete Zarar Vermek
+Bill_EnterStudio = Haneye Tecavüz Etmek
+Bill_Spotted_Owl = Baykuşlara Rahatsızlık vermek
+Bill_Spotted_Penguin = Penguenlere  Rahatsızlık vermek
 Bill_Power_Outage = Elektronikleri Bozmak
 Bill_Started_Fire = Kundaklama
-Bill_Cactus = Kaktüs e suikast girisimi
+Bill_Cactus = Kaktüse suikast girişimi
 Bill_TeePee = Teepee T-KO
 
 [MovieCredits]
-Author_Condutor = DIRECTED BY CONDUCTOR
-Author_DJ = DIRECTED BY DJ GROOVES
-Starring = STARRING
-Highscore = THE REVIEWS ARE IN...
+Author_Condutor = KONDÜKTÖR YÖNETTİ
+Author_DJ = DJ GROOVES YÖNETTİ
+Starring = BAŞROL
+Highscore = İNCELEMELER...
 
 [PlayTesting]
 PlayTestRate_0 = Az önce oynadığınızı puanlayın!
-PlayTestRate_1 = Çok iyi!ydi
+PlayTestRate_1 = Çok iyiydi
 PlayTestRate_2 = Fena değildi.
 PlayTestRate_3 = Sıkıcıydı...
 PlayTestRate_4 = O kadar iyi değildi!
@@ -639,9 +641,10 @@ PleaseRate_0 = Help determine the rating of this mod on
 PleaseRate_1 = the Steam Workshop by providing your feedback!
 
 HowToComment = To leave a comment, view this mod in the Steam Workshop.
-BackToHub = Exit to Spaceship
-NextMap = Next Map
-BrowseTheWorkshop = BROWSE THE WORKSHOP
+BackToHub = Uzay Gemisine
+//QC gereyor
+NextMap = Sonraki Harita
+BrowseTheWorkshop = ATÖLYEYİ GÖRÜNTÜLE
 NoMods_Steam = You have no mods installed! Try grabbing a few from the workshop.
 NoMods = You have no mods installed! Place them in the HatInTimeGame/Mods folder to install.
 
@@ -681,8 +684,9 @@ RestartToLastCheckpoint = Yeniden
 DeathWish = Son İstek
 GhostParty = Çevrimiçi Lobi
 DLC1Title = Seal the Deal
-DLC2Title = Nyakuza Metro
-BonusItems = Bonus Items
+DLC2Title = Miyakuza Metro
+BonusItems = Bonus
+//Bonus Items
 Soundtracks = Müzikler
 
 [Cinematics]
@@ -706,9 +710,10 @@ PrizeBadge = Yeni Rozet
 PrizeBadgeFlair = Rozet Yeteneği
 
 [DLC1Splash]
-cruise = Tamamen Yeni Bölüm: Buz Gibi Yolculuk!
+cruise = Tamamen Yeni bir Bölüm: Buz Gibi Yolculuk!
 deathwish = Yeni Rekabet Modu: Son İstek!
-cruise_acts = Seyahatte 3 yeni perde!
+cruise_acts = 3 yeni Seyahat bölümü!
+//Bölüm=Act?=Perde
 
 rifts = Altı yeni Zaman Yarığı!
 unlocks0 = Tonlarca açılabilir giysiler, yetenekler,
@@ -723,6 +728,11 @@ coop_bullet2 = in split-screen shenanigans!
 
 
 Tüm bu macerayı
+bölünmüş ekran saçmalıklarında
+
+
+
+
 birbirinize hayatta kalmak için
 yardım edebilirsiniz!
 
@@ -735,10 +745,10 @@ Tüm macerayı bölünmüş ekran saçmalıklarında kendinize hayatta kalmak i�
 
 
 
-dlc2_title = Yeni: Nyakuza Metrosu
+dlc2_title = Yeni: Miyakuza Metro
 dlc2_bullet0 = İmparatoriçe'nin kontrolündeki
 dlc2_bullet1 = tehlikeli metro tünellerindeki
-dlc2_bullet2 = hepsi yeni Zaman Parçalarını toplayın!
+dlc2_bullet2 = tamamı yeni Zaman Parçalarını toplayın!
 
 ghostparty_title = Yeni: Çevrimiçi Lobi
 ghostparty_bullet0 = Yabancılarla veya
@@ -746,7 +756,7 @@ ghostparty_bullet1 = 50 arkadaşınıza kadar
 ghostparty_bullet2 = yeni çevrimiçi modu oynayın!
 
 newgamebowkid_title = Teşekkür ederiz!
-newgamebowkid_bullet0 = Fanatik olduğunuz için teşekkür ederiz!
+newgamebowkid_bullet0 = Hayranımız olduğunuz için teşekkür ederiz!
 newgamebowkid_bullet1 = Yeni maceranıza ana karakter Bow Kid
 newgamebowkid_bullet2 = olarak başlayabilirsiniz!
 
@@ -804,7 +814,7 @@ Help_ChangeFilter = Filtreyi Değiştir
 Help_ChangeDoF = Alan Derinliğini Değiştir
 Help_EnableDoF = Alan Derinliğini Aktif
 Help_DisableDoF = Alan Derinliğini Deaktif
-Help_Exit = Exit
+Help_Exit = Çık
 
 Msg_Filter = Filtre
 Msg_DoF = Alan Derinliği
@@ -841,7 +851,7 @@ Expression_4 = Hurtin'
 Expression_5 = Sinirli
 Expression_6 = Bleph
 Expression_7 = Nostaljik
-Expression_8 = Hewwo
+Expression_8 = Mehhaba
 Expression_9 = Usanmış
 
 Item_CameraType = Camera Type
@@ -859,7 +869,7 @@ Item_ScreenshotFolder_View = Aç...
 UndiscoveredCombo = Keşfedilmemiş bir kombo şimdi uygun, onu bulabilecek misin?
 
 [Stickers]
-NewRareSticker = A rare sticker has appeared in [location] - go find it!
+NewRareSticker = Nadir bir sticker has appeared in [location] - go find it!
 NewRareStickerUnknownLocation = A rare sticker has appeared somewhere - go find it!
 MachineNoRareSticker = The machine is detecting no anomalies right now, maybe it will pick up a signal later.
 MachineRareSticker = The machine has detected a rare signal, the signal says...[br][stickerloc]
