@@ -1,196 +1,209 @@
 [chapter1act1]
-doublejump0 = Did fellow Mafia watch TV last night? Confusing science owl say small people can [hint]jump double in air[/hint].
-doublejump1 = I saw. This makes Mafia uncomfortable with body. Must go work out.
-doublejump2 = Did fellow Mafia see Crazy Cat Cooking Show?
-doublejump3 = No. What he cook?
-doublejump4 = He cook pasta... with brussels sprouts.
-doublejump5 = Gross! Even thinking of combination make Mafia want to vomit!
+doublejump0 = Mafyanın dostu geçen gece TV izledi mi? Şaşırtıcı bilim baykuşu küçük insanların [hint]havada iki kere zıplayabileceğini[/hint] söyledi.
+doublejump1 = Gördüm. Bu Mafyanın bedenini rahatız etti. Çalışmaya gitmeliyiz.
+doublejump2 = Mafyanın dostu Çılgın Kedinin Yemek Programını gördü mü?
+doublejump3 = Hayır. Ne yaptı?
+doublejump4 = Makarna yaptı... brüksel lahanasıyla.
+doublejump5 = Tanrım! Bu ikiliyi düşünmek bile mafyanın midesini bulandırıyor!
 
-punch0 = Today I punch barrel dressed as old lady. It makes people scared of Mafia.
-punch1 = Life of Mafia is good.
-punch2 = Sometimes Mafia forget if he supposed to punch barrel or old lady. So he do both.
+punch0 = Bugün yaşlı kadın kılığındaki varile vurdum. Bu milleti Mafyadan korkuttu.
+punch1 = Mafyanın hayatı iyi.
+punch2 = Bazen Mafya yaşlı kadına mı yoksa varile mi vuracağını unutuyor. O yüzden ikisini de yaptı.
 
-seagull0 = Seagull eat fish, but fish belongs to Mafia. We punch seagull for not respecting Mafia.
-seagull1 = Seagull say, "No punch, I have child!" Mafia punch seagull with child.
-seagull2 = Stupid seagulls. All they do is stand around. Just like Mafia! Copycats.
+seagull0 = Martı balık yer, ama balık Mafyaya aittir. Martıyı Mafyaya saygı göstermediği için vurduk.
+seagull1 = Martı dedi ki, "Vurma, yavrularım var!" Mafya yavrusu olan martıya vurdu.
+seagull2 = Aptal martılar. Yaptıkları tek şey etrafta durmak. Sadece Mafya gibi! Kopyacılar.
 
-road0 = All roads lead to Mafia. Not good, big immigration problems.
-road1 = We fix this by moving to island. Now no road lead to Mafia.
-road2 = Downside of living on distant island: stuff take forever when order online.
-road3 = It come by small boat, but every time it come, we shoot. After while, boat stop coming.
-road4 = Sometimes Mafia want to try something other than fish, but everything far away.
-road5 = Mafia starting to question why Mafia move here.
-road6 = Mafia not even like fish.
+road0 = Tüm yollar Mafyaya gider. İyi degil, büyük göç problemleri.
+road1 = Bunu adaya taşınarak çözdük. Şimdi hiçbir yol Mafyaya gitmiyor.
+road2 = Uzak bir adada yaşamanın eksisi: stuff take forever when order online.
 
-geyser0 = We build base on giant geyser. You ask, "How this done?" but we not tell.
-geyser1 = If we tell, you try to build base like us, but base turns out puny.
-geyser2 = By not telling, you avoid miserable fate. Mafia does you a favor. Now you owe Mafia favor.
-geyser3 = Child with hat better remember that she owe Mafia. If she forget... he he he... Mafia make sure she remember.
 
-steal0 = Yesterday I saw family. I say to family, "I take everything now."
-steal1 = Family beg for Mafia not to take everything. Mafia say it is joke. Mafia funny.
-steal2 = But real joke is Mafia take everything anyway.
-steal3 = Mafia not cruel. Mafia give good replacement for old family home.
-steal4 = Small raft on sea! Is close to water. Has good view. Not even need to go to market when fish below.
 
-hardwork0 = Life of Mafia is hard work. People no appreciate dedication to job.
-hardwork1 = Yesterday, Mafia wake up not feeling like punching. See? Even Mafia job is hard.
+road3 = Küçük bir bot ile geldiler, ama her geldiğinde, vurduk. Bir süre sonra, bot gelmemeye başladı.
+road4 = Bazen Mafya balıktan başka şeyler de yemek istiyor, ama her şey çok uzakta.
+road5 = Mafya neden buraya taşındı sorusunu soruyor.
+road6 = Mafya balıklar gibi değil.
 
-submarine0 = Mafia try to build city underwater, but Mafia cannot hold breath for more than minute.
-submarine1 = We make Mafia submarine to build water city, but is boring. More fun to eat people with submarine.
+geyser0 = Dev gayzerin üzerine üs inşa ettik. "Nasıl yapıldı?" diye sorarsan, söylemeyeceğiz.
+geyser1 = Söylersek, sen de bizim gibi bir üs kurmayı denersin, ama üs ufak olur.
+geyser2 = Demezsek, sefil kaderinden kaçarsın. Mafya sana iyilik yapıyor. Şimdi Mafyaya iyilik borçlusun.
+geyser3 = Şapkalı çocuk borçlu olduğunu hatırlasa iyi olur. Eğer unutursan... he he he... Mafya sana hatırlatır.
 
-sonstrong0 = I tell son, "You punch people when big and strong." But Mafia know son never become big and strong.
-sonstrong1 = Mafia heart is broken.
+steal0 = Dün ailemi gördüm. Aileme dedim, "Şimdi her şeyi alıyorum."
+steal1 = Aile Mafyaya her şeyi almaması için yalvardı. Mafya şaka olduğunu söyledi. Mafya komik.
+steal2 = Ama asıl şaka Mafyanın her şeylerini alıp götürmesiydi.
+steal3 = Mafya zalim değil. Mafya onlara barınak yerine geçecek eski bir aile evi verdi.
+steal4 = Denizde küçük bir sal! Denize yakın. Manzaralı. Aşağıda balık varken markete gitmeye bile gerek yok.
 
-scienceowl0 = Mafia see owl with science coat. Mafia ask, "You make science?" Owl say words Mafia no understand.
-scienceowl1 = Mafia punch confusing owl.
+hardwork0 = Mafyanın hayatı zordur. İnsanlar işine adanmışlığı takdir etmiyor.
+hardwork1 = Dün, Mafya yumruk atmamayı hissetmesiyle uyandı. Anladın? Mafyacılık bile zor.
+
+submarine0 = Mafya sualtına şehir kurmayı denedi, ama Mafya nefesini bir dakikadan fazla tutamadı.
+submarine1 = Sualtı şehri kurmak için Mafya denizaltısı yaptık, ama sıkıcıydı. İnsanları denizaltıyla yemek daha eğlenceliydi.
+
+sonstrong0 = Oğluma dedim, "Büyük ve güçlü olduğunda insanları vuracaksın." Ama Mafya oğlunun asla büyük ve güçlü olmayacağını biliyor.
+sonstrong1 = Mafyanın kalbi kırıldı.
+
+scienceowl0 = Mafia beyaz önlüklü baykuşu gördü. Mafya sordu, "Bilim mi yapıyorsun?" Baykuş Mafyanın anlayamacağı şeyler söyledi.
+scienceowl1 = Mafya şaşırtıcı baykuşu vurdu.
 
 drunksleep0 = ZZZZZZZZZZZZZZZZZZZZ....
-drunksleep1 = N-no... it about to rain... Mafia no umbrella...
-drunksleep2 = Mafia hate water... n-no... zzzZZZZZzz...
+drunksleep1 = H-hayır... yağmur yağacak... Şemsiyesiz Mafya...
+drunksleep2 = Mafya sudan nefret eder... h-hayır... zzzZZZZZzz...
 
-livethousand0 = Mafia live here for thousand years. Mafia no remember what place look like before Mafia.
-livethousand1 = Mafia not remember what happened to old island people. Only thing Mafia remember is they make good cannon balls for town cannons.
+livethousand0 = Mafya burada bin yıldır yaşıyor. Mafya, Mafyadan önce buranın nasıl gözüktüğünü hatırlamıyor.
+livethousand1 = Mafya eski ada insanlarına ne olduğunu hatırlamıyor. Mafyanın hatırladığı tek şey, onların şehir için iyi topları yapması.
 
-dumb0 = People say Mafia stupid, but Mafia not stupid! Mafia graduate university. Mafia has PhD in Mafia!
+dumb0 = İnsanlar Mafyanın aptal olduğunu söylüyor, ama Mafya aptal değil! Mafya üniversiteden mezun. Mafya Mafyalıkta doktora yaptı!
 
-secretitem0 = Little girl see thing over there?
-secretitem1 = Mafia wonder if there is way to get... but Mafia no time to search for entrance if Mafia need to stare.
-secretitem2 = Little girl got item? But... but how? You must tell Mafia!
-secretitem3 = Mafia need to know. Spot perfect for hide-and-punch.
+secretitem0 = Küçük kız oradaki şeyi görüyor mu?
+secretitem1 = Mafya oraya nasıl varacağını merak ediyor... ama Mafya giriş aramaya koyulursa, dik dik bakmaya zamanı olmaz.
+secretitem2 = Küçük kız eşyayı aldı mı? Ama... ama nasıl? Mafyaya söylemek zorundasın!
+secretitem3 = Mafya bilmeli. Spot perfect for hide-and-punch.
 
 
-eatfood0 = Mafia cook food for all of city, not just Mafia. We help everyone.
-eatfood1 = [scream]Ha![/scream][waitlong] Mafia funny. Is joke. We eat all.
 
-mugirl0 = Mafia see girl in red. Girl say Mafia bad and try attack, but Mafia throw her into ocean.
-mugirl1 = Mafia laugh at angry wet girl.
 
-clock0 = Mafia take clock tower from distant island.
+eatfood0 = Mafya şehirdeki herkes için yemek pişiriyor, sadece Mafyaya değil. Herkese yardımcı oluyoruz.
+eatfood1 = [scream]Ha![/scream][waitlong] Mafya şakacı. Şakaydı. Hepsini yedik.
+
+mugirl0 = Mafya kırmızılı kızı gördü. O kız Mafyaya kötü dedi ve saldırmayı denedi, ama Mafya onu okyanusa attı.
+mugirl1 = Mafya kızgın ıslak kıza güldü.
+
+clock0 = Mafya uzak adadan saat kulesini almalı.
 // Below needs voice acting
-clock1 = But Mafia not actually care about time, so tower is useless!
+clock1 = Ama Mafya zamanı gerçekten çok önemsemez, yani kule kullanışsız!
 
-goldtie0 = Mafia buy golden tie from bazaar. Very proud.
-goldtie1 = Mafia work hard for 20 years! Earn money to buy golden tie!
+goldtie0 = Mafya pazardan altın kravat aldı. Çok gururlu.
+goldtie1 = Mafya 20 yıldır sıkı bir şekilde çalıştı! Altın kravatı almak için para kazandı!
 
-vaults0 = Vaults around city belong to Mafia. No touch!
-vaults1 = Ha ha! Mafia joking. Child can't open vault. Vaults secure with code.
-vaults2 = [small]Wait... Mafia code not in pocket... uhm...[/small]
-vaults3 = [small]...where did Mafia put vault code...[/small]
+vaults0 = Şehirdeki kasalar Mafyaya aittir. Dokunma!
+vaults1 = Ha ha! Mafya şakacı. Çocuk kasayı açamaz. Kasa kod ile güvende.
+vaults2 = [small]Bekle... Kod Mafyanın cebinde kod değil... uhm...[/small]
+vaults3 = [small]...Mafya kasa kodunu nereye koydu...[/small]
 
-boatride0 = Little girl want to ride boat? Hah! Hop on, boat ride very safe! [small]*cough*[/small]
+boatride0 = Küçük kız bot ile gezinti mi istiyor? Hah! Atla, bot turu çok güvenli! [small]*öhöm*[/small]
 
-cave_restricted0 = Cave off limits. Boss orders.
-cave_restricted1 = Child can't enter cave. Boss orders.
-cave_restricted2 = No one allowed into cave.
+cave_restricted0 = Mağara sınırları kapalı. Patronun emri.
+cave_restricted1 = Çocuk mağaraya giremez. Patronun emirleri.
+cave_restricted2 = Kimse mağaraya giremez.
 
-cave_restricted_lazy0 = Just... don't enter cave. Please.
-cave_restricted_lazy1 = Leave Mafia alone and stay away from cave. Don't make Mafia have to get up.
-cave_restricted_lazy2 = Keep distance to cave, ma'am. Don't even think about it.
+cave_restricted_lazy0 = Sadece... mağaraya girme. Lütfen.
+cave_restricted_lazy1 = Mafyayı yalnız bırak ve mağaradan uzak dur. Mafyayı uyandırmak zorunda bırakma.
+cave_restricted_lazy2 = Mağaradan uzak dur, madam. Aklından bile geçirme.
 
 [chapter1combat]
-intro0 = Hey! Child! Shoo! Mafia can't have child witness when Mafia teaching lesson. 
-intro1 = This awkward for Mafia! Mafia not sure what to do.
-intro2 = Boss, what do we do with eyewitness?
-boss_intro0 = Teach her lesson, boys!
-wake0 = Come to papa Mafia!
-wake1 = Why you little...
-wake2 = I'm gonna take you down!
-wake3 = No child will be in the way of Mafia!
-boss_wake0 = [scream]ENOUGH![/scream]
-boss_wake1 = Mafia won't bow to little girl! Prepare to feel Mafia's wrath!!
+intro0 = Hey! Çocuk! Şu! Mafya ders verirken çocuk görgü tanığı olamaz.
+intro1 = Bu Mafya için tuhaf! Mafya ne yapacağından emin değil.
+intro2 = Patron, bu görgü tanığına ne yapalım?
+boss_intro0 = Haddini bildirin, çocuklar!
+wake0 = Mafya babaya gel!
+wake1 = Seni gidi ufaklık...
+wake2 = İşini bitireceğim!
+wake3 = Hiçbir çocuk Mafyanın karşısına çıkamaz!
 
-barrelthrow0 = See if girl can[br]handle this barrel!
-barrelthrow1 = Heads up,[br]little punk!
-barrelthrow2 = Stand still!
-barrelthrow3 = Do not think[br]about avoiding[br]barrels!
+boss_wake0 = [scream]YETER![/scream]
+boss_wake1 = Mafya küçük kıza boyun eğmeyecek! Mafyanın gazabını hissetmeye hazır ol!!
 
-boss_godown0 = This lead nowhere! Mafia need take care of this Mafia style.
-boss_godown1 = Prepare to feel what Mafia do to old ladies!
+barrelthrow0 = Kızın varille nasıl[br] başa çıktığını görelim!
+//^ yanlış
+barrelthrow1 = Kafanı kaldır,[br]küçük serseri!
+barrelthrow2 = Kıpırdama!
+barrelthrow3 = Varillerden[br]kaçabileceğini[br]düşünme!
+
+boss_godown0 = Bu yolun sonu yok! Mafya, Mafya tarzıyla icabına bakacak.
+boss_godown1 = Mafyanın yaşlı kadınlara ne yaptığını hissetmeye hazırlan!
 
 [chapter1bullying]
-scream0 = Eat dirt!
-scream1 = Bow to Mafia!
+scream0 = Tozumu yut!
+scream1 = Mafyaya boyun eğ!
 scream2 = Ha ha!
-scream3 = Take this! And this!
-scream4 = Take this! And that!
-scream5 = Feel the pain? Good!
-scream6 = Mafia just help you build character!
+scream3 = Al bunu! Ve bunu!
+scream4 = Al bunu! Ve bunu da!
+scream5 = Acı hissediyor musun? İyi!
+scream6 = Mafya karakter sahibi olmana yardımcı oluyor!
 
 [bazaar]
-generic_shop_notopen0 = Mafia still setting up shop, not open. Even when open, child not welcome!
+generic_shop_notopen0 = Mafia dükkanı hazırlıyor, açık değil. Açıldığında bile, çocuk hoş gelmemiştir!
 
-tunnel_block0 = Mafia say, keep eye out for tunnel. Maybe something interesting appear later?
-tunnel_block1 = Hah! Mafia just kidding. Nothing interesting ever happen here.
+tunnel_block0 = Mafya dedi, gözünü tünelde tut. Belki de ilginç bir şeyler gerçekleşir?
+tunnel_block1 = Hah! Mafya şaka yapıyor. Burada ilginç hiçbir şey olmaz.
 
 [shops]
-fruitbar0 = This? Fruit bar. Or is it? [wave]He he he[/wave].
-fruitbar1 = Fruit bar will not sell to you. Only sell to... certain people.
+fruitbar0 = Bu mu? Fruit bar. Yoksa öyle mi? [wave]He he he[/wave].
+fruitbar1 = Fruit bar sana satılmayacak. Sadece... belli insanlara satılır.
 
-boat_ticket_island0 = Mafia sell tickets for boats to faraway island.
-boat_ticket_island1 = But... tickets out of stock. Come back later.
-boat_ticket_island2 = Mafia already tell child that tickets out of stock. Scram!
+boat_ticket_island0 = Mafya uzaktaki adaya bot bileti satıyor.
+boat_ticket_island1 = Ama... biletler tükendi. Daha sonra yine gel.
+boat_ticket_island2 = Mafya çocuğa zaten biletlerin tükendiğini söyledi. Defol!
 
 [blackmarket]
-guard0 = Halt! Childs not allowed in black market.
-guard1 = Black market is Mafia exclusive!
+guard0 = Dur! Çocuklar kara borsaya girmeye izinli değildir.
+guard1 = Kara borsa Mafyaya özeldir!
 
 [hq]
-rude_jeer0 = Little girl shoo! This is Mafia base!
-rude_jeer1 = Mafia take not kindly to intruders!
-rude_jeer2 = Go home with you!
-lobby0 = You should leave! This no place for little girl.
-lobby1 = Most places not for child, but especially here.
-lobby2 = If small child get gambling problem it her own fault.
-lobby3 = These roulette tables purely for looks. No gambling here.
-lobby4 = Mafia only tell the good truth. No illegal things happening at all.
-bar0 = What's troubling you, little girl? Mafia not know what child drink.
-bar1 = Whatever problem is, Mafia sure you can deal with it.
-bar2 = You look like tenacious type, not leave problem alone.
-bar3 = Other little girl run into kitchen, if you are looking for her. 
-bar4 = She look like unruly type. Keep eye on her. 
+rude_jeer0 = Küçük kız şu! Burası Mafyanın üssü!
+rude_jeer1 = Mafya davetsiz misafirleri hoş karşılamaz!
+rude_jeer2 = Evine git!
+lobby0 = Ayrılmalısın! Burası küçük kız için değil!
+lobby1 = Çoğu yer çocuklar için değil, ama özellikle burası.
+lobby2 = Eğer küçük çocuk kumar bağımlısı olursa bu kendi hatasıdır.
+lobby3 = Bu rulet masaları tam da gözüktüğü gibi. Burada kumar yok.
+lobby4 = Mafya sadece doğruları söyler. Yasadışı hiçbir şey burada gerçekleştirilmez.
 
+bar0 = Derdin ne, küçük kız? Mafya çocuğun ne içeceğini bilmiyor.
+bar1 = Sorun her neyse, Mafya icabına bakacağından emin.
+bar2 = Sorunların üstesinden gelebilen, mücadeleci birisine benziyorsun.
+bar3 = Diğer küçük kız mutfağa gitti, ona bakıyorsan.
+bar4 = O kız asi gibi duruyor. Gözünü ondan ayırma. 
 
 [spaceship]
-flyingboat0 = What is this, flying boat?
-flyingboat1 = All boats need to[br]pay toll in[br][name]Mafia Town[/name].
-flyingboat2 = ...even[br]in space!
-flyingboat3 = Mafia come in[br]to collect.
+flyingboat0 = Bu da ne, uçan bot mu?
+flyingboat1 = Tüm botlar[br][name]Mafya Şehri[/name]ne[br]vergi ödemelidir.
+flyingboat2 = ...uzayda [br]olsa bile!
+flyingboat3 = Mafya[br]vergi kesmeye[br]geldi.
 
 [cheating_race]
-intro0 = Haha! Rockets are fast, and if Mafia on rocket, Mafia is fast! Fastest man alive!
-intro1 = Little child want to race fastest man alive? Mafia stole [icon:timepiece][timepiece]Time Piece[/timepiece] from HQ. If you win, Mafia give it to you.
-intro2 = Little child sure? You look very slow, maybe come back later when child can travel faster?
-intro3 = It is on! Mafia not sure Mafia survive this, but at least Mafia die as fastest man alive!
-intro_a = Race me, chicken!
-intro_b = Bye, loser!
-intro_c = Race me already!
+intro0 = Haha! Roketler hızlıdır, ve Mafya roketin üstündeyse, Mafya hızlıdır! Dünyanın en hızlı adamı!
+intro1 = Küçük çocuk dünyanın en hızlı adamıyla yarışmak mı istiyor? Mafya [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nı Mafyanın üssünden çaldı. Kazanırsan, Mafya onu sana verecek.
+intro2 = Küçük çocuk bundan emin mi? Çok yavaş gözüküyorsun, maybe come back later when child can travel faster?
+belki çocuk daha sonra gelip
+
+intro3 = It is on! Mafya bundan kurtulacağından emin değil, ama en azından Mafya dünyanın en hızlı adamı olarak ölecek!
+intro_a = Yarış benimle, ödlek!
+intro_b = Hoşçakal, ezik!
+intro_c = Benimle yarış!
 
 [cave_dreams]
-rules_explained0 = Hello, little child. This is Mafia time rift. [timepiece][icon:timepiece]Time Piece[/timepiece] hit Mafia in head, and now time rift filled with Mafia thoughts and dreams.
-rules_explained1 = This time rift is simple. Simple like Mafia, just how Mafia like it.
-rules_explained2 = Rules of time rift: If you die, you start over. You need [treasure][icon:treasure]Rift Pons[/treasure] to go deeper.
-rules_explained3 = That is all the rules. Please tread carefully in Mafia time rift. Mafia like to experience past.
+rules_explained0 = Merhaba, küçük çocuk. Burası Mafya zaman yarığıdır. [timepiece][icon:timepiece]Zaman Parçası[/timepiece] Mafyanın kafasına çarptı, ve şimdi zaman yarığı Mafyanın düşünce ve hayalleriyle doldu.
+rules_explained1 = Bu zaman yarığı basit. Mafya kadar basit, tam da Mafyanın istediği gibi.
+rules_explained2 = Zaman yarığının Kuralları: Ölürsen, yeniden başlarsın. Daha derine gitmelisin. Derinlere gitmek için [treasure][icon:treasure]Yarık Pon[/treasure]larına ihtiyacın var
+rules_explained3 = Tüm kurallar bunlar. Please tread carefully in Mafia time rift. Mafya geçmişi yaşamayı sever.
 
 orbs_preserved0 = Has little girl noticed that unspent [treasure][icon:treasure]Rift Pons[/treasure] are kept each floor? No need to get every single pon.
-orbs_preserved1 = Good luck! Mafia has [hint]opened entrance to next floor[/hint] for you!
+orbs_preserved1 = İyi şanslar! Mafia has [hint]opened entrance to next floor[/hint] for you!
 
 [finale]
-outside0 = This just like time island [br]covered in lava. Only, [br]different.
+outside0 = This just like time island [br]covered in lava. Sadece, [br]farklı.
 outside1 = Mafia do nothing to deserve this! Mafia relax and live on island time. It 5 o'clock there, always.
 outside2 = Mafia not like to be [br]judged. Make anxious. [br]Sweat through suit.
 outside3 = Not sure if being [br]judged on crime or [br]cooking. Not sure [br]which is scarier.
 plea0 = I didn't punch old man for like, 2 days straight that one time!
-group_counter0 = [scream]SHE CAN GET LOST![/scream]
-group_counter1 = Mustached girl is not welcome here. Mafia say, get lost!
-mafiaball0 = Little hat kid can't even hit evil mustached girl! We have to help!
 
-suicide0 = Oh... when Mafia explode, Mafia drop [icon:health][name]Pons[/name]... this gives Mafia an idea!
-suicide1 = Little hat girl need help to turn back time. If Mafia explode, little hat girl get useful [icon:health][name]Pons[/name]. Mafia has to explode to save world!
-suicide2 = What?! Plan is crazy!
-suicide3 = Fellow Mafia no worry. If little girl succeed, Mafia come back when time rewinds! Now... punch me with all your might, fellow Mafia! No hesitation!
-suicide4 = [scream]Red-hooded[br]girl...[br]GET LOST![/scream]
-suicide5 = Hat girl, here! Take these!
+
+
+
+group_counter0 = [scream]O KIZ KAYBOLSUN![/scream]
+group_counter1 = Bıyıklı kız buraya hoşgelmedi. Mafya defol diyor!
+mafiaball0 = Küçük şapkalı kız, şeytani bıyıklı kıza bir kez bile vuramadı! Ona yardımcı olmalıyız!
+
+suicide0 = Oh... Mafya patladığında, Mafya [icon:health][name]Pon[/name]ları bıraktı... bu Mafyaya bir fikir verdi!
+suicide1 = Küçük şapkalı kız zamanda geri dönmesine yardımcı olmalı. Mafya patlarsa, şapkalı küçük kız kullanışlı [icon:health][name]Pon[/name]ları alır. Mafya dünyayı kurtarmak için patlamalı!
+suicide2 = Ne?! Bu plan çılgınca!
+suicide3 = Mafyanın dostu endişelenmesin. Küçük kız başarırsa, Mafya zaman geri sarıldığında geri gelecek! Şimdi... beni tüm gücünle yumrukla, Mafyanın dostu! Çekinme!
+suicide4 = [scream]Kırmızı-kapşonlu[br]kız...[br]KAYBOL![/scream]
+suicide5 = Şapkalı kız, burada! Al şunu!
 
 [ending]
-hang0 = Don't leave us!
+hang0 = Bizi terketme!
