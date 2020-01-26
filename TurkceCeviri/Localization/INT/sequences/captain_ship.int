@@ -18,16 +18,22 @@ leftshard2 = Neye benziyorum, doktora mı? [hint]Öp[/hint]mek onu kendine getir
 captainAttention0 = Dikkat... Kaptanınız konuşuyor.
 captain0 = O da ne, delikanlı? [br]Yardım mı etmek istiyorsun?
 captain1 = Hmph. Elbette. Belki something will get done around this mess of a boat for once. Bu ilk olurdu.
-captain2 = Tamamdır. Senin içecekleri, yiyecekleri, ve başka şeyleri teslim etmen gerecek. Ve bunları hızlı yap, delikanlı.
-captain3 = Oh, and there are some other jobs that'll need doing. So pay attention. Are you ready to start?
+captain2 = Tamamdır. İçecekleri, yiyecekleri, ve başka şeyleri de teslim etmen gerecek. Ve bunları hızlıca yap, delikanlı.
+//de eki gereksiz? Hızlıca ekstra""
+captain3 = Oh, Oh, ve burada yapılması gereken başka şeyler olacak... Bu yüzden gözünü ayırma. Başlamaya hazır mısın?
 captain4 = Well, come back when you are. This ship isn't going to clean itself up.
-captain5 = Good. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
-captainFail0 = Just like the seals... bu iyi değil. You just made more of a mess, delikanlı. Tekrar dene. Ya da etme, boşver.
-captainDone0 = Şimdi durabilirsin, delikanlı. Come back to Control, bence.
-captainDone1 = Well... looks like you actually cleaned up more mess than you made, delikanlı. That's more than most of the crew can manage.
+
+
+
+
+
+Bu gemi ke kendini temizlemeyecek.
+
+captain5 = Güzel. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
+captainFail0 = Tıpkı foklar gibi... bu iyi değil. Sadece daha fazla kargaşa yarattın, delikanlı. Tekrar dene. Ya da etme, boşver.
+captainDone0 = Şimdi durabilirsin, delikanlı. Dümene geri gel, bence.
+captainDone1 = Güzel... looks like you actually cleaned up more mess than you made, delikanlı. That's more than most of the crew can manage.
 captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
-
-
 
 yes = Evvet!
 no = Hayıııııır!
