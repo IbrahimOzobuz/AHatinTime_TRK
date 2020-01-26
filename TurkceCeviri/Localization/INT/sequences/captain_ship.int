@@ -48,42 +48,36 @@ captain4 = They can't even make a straight walkway. Surprised the whole thing do
 
 [act3]
 captainbar0 = Meşgul gibi görünmüyor muyum delikanlı? Git başka yerde oyna.
-captainbar1 = Yaşlı kaptan rahatlasın. The seals can handle things for a minute.
-captainbar2 = Hopefully, they've learned not to mess with [hint]the steering wheel[/hint] by now...
+captainbar1 = Yaşlı kaptan rahatlasın. Foklar gemiyi bir süreliğine idare edebilir.
+captainbar2 = Umarım onlar [hint]dümeni kırmamayı[/hint] öğrenmişlerdir...
 
-loudspeaker0 = Mehhaba! Kapdan has a messa-
-loudspeaker1 = Hand me that microphone! [scream]Dümende kim var??![/scream]
-loudspeaker2 = [scream]We're headed straight for an iceberg! [br]All hands on deck![/scream]
 
-start0 = It's all going down, delikanlı. I never thought I'd see the day.
+loudspeaker0 = Mehhaba! Kapdandan bir mesaj-
+loudspeaker1 = Mikrofonu bana ver! [scream]Dümende kim var??![/scream]
+loudspeaker2 = [scream]Buzula çarptık! [br]Hepiniz güverteye![/scream]
+//burası hatalı olmalı
+
+start0 = It's all going down, delikanlı. Bu günleri görmeyi aklımın ucundan bile geçirmiyorsum.
+
+
+
 start1 = Her maiden voyage, too. Won't take more than a few minutes for all of this to hit the sea floor, I think.
-start2 = Well, you might want to get to a lifeboat, delikanlı. Akıllıca olurdu.
+start2 = Güzel, belki kendine lifeboat alman isteyebilirsin delikanlı. Bu akıllıca olurdu.
 
 loudspeaker3 = Beni bekleme, delikanlı. Filikaya bin ve çek git.
 loudspeaker4 = Bu lanet gemi benim, ve onunla beraber batacağım.
 
 carried0 = Beni yere bırak, delikanlı!
 carried1 = Bırak beni! Bırak beni, delikanlı ol!
-carried2 = Nasıl bu kadar güçlüsün?!
+carried2 = Ne kadar da güçlüsün?!
 carried3 = Beni. Yere. Bırak!
 carried4 = Gemimle batmama izin ver!
-carried5 = Sadece boğulmama izin ver, delikanlı!
+carried5 = Boğulmama izin ver, delikanlı!
 
-captain0 = *Sigh* delikanlı, neden sadece gemimle batmama izin vermedin?? Ben boğulmam, ama en azından I could pretend for a bit.
+captain0 = *Sigh* delikanlı, neden gemimle batıp gitmeme izin vermedin?? Ben boğulmam, ama en azından I could pretend for a bit.
 captain1 = Hmph, although without me, this crew'll never be able to get the lifeboats to shore. Güzel. Mürettebat, haydi eve gidelim.
-ben olmadan da, bu mürettebat asla filikalar kıyıya gidemez.
+//ben olmadan da, bu mürettebat asla filikalarla kıyıya gidemez.
 
 captain2 = Umarım sigorta bunu karşılar...
-captain3 = Neyse,iade yok, ama buzuldaki parlak şey de nedir öyle? Funny how our ship crashed right next to it.
-Şaka bi yana
-
-
-
-Gemimiz nasıl bunun yanına düştüğü komik.
-
-//Anlamsız
-
-
-
-
+captain3 = Neyse,iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması tam bir komedi.
 captain4 = Hepsi senindir, delikanlı.
