@@ -2,9 +2,9 @@
 mail_0 = Çoğu ödenmemiş fatura gibi gözüküyor.
 mail_1 = Aslında mantıklı - bu gezegendeki sinemaları hatırlamıyorsun ve trenleri patlatmak bir sonraki çekimlerde belki de ciddi meblalara neden oluyordur.
 mail_2 = Görünen o ki burası hayran mektubu (çoğu penguenlerden) ve nefret mektupları (tamamı [icon:Conductor][name]Kondüktör[/name]den) ile dolu.
-blocked_0 = Görünen o ki bu noktaya girmene izin yok. Çok zekice.
+blocked_0 = Görünen o ki bu noktaya girmene izin yok. Çok akıllıca.
 reels_0 = Bu raflardaki filmlerin tamamı, ismini bile duymadığın filmlerle dolu.
-reels_1 = Kuşlar hakkındaki bu kadar cinaslı film başlıkları olması şaşırtıcı.
+reels_1 = Kuşlar hakkındaki bu kadar cinaslı film başlığının olması şaşırtıcı.
 box_0 = Etikette 'MacGuffins' yazıyor.
 box_1 = Etikette 'Chekhovs Guns' yazıyor.
 box_2 = Etikette 'Red Herrings'. Bu kutu kötü kokuyor.
@@ -12,19 +12,20 @@ box_3 = Etikette 'Framing Devices' yazıyor.
 box_4 = Etikette 'Ticking Clocks' yazıyor. Birinin çalıştığını düşünüyorsun ve parçalandığını.
 box_5 = Etikette 'Jonbar Hinges' yazıyor. Ama, çatlak arasından gördüğün şey mıknatıs ve çakıl.
 //Etiket mizah içeriyor
-gold_0 = Seni sarsan bu şey belki de en gösterişli, en aşırı şey bu olabilir.
+gold_0 = Seni sarsan bu şey, belki de en gösterişli, en aşırı şey bu olabilir.
 gold_1 = Bu şey kolaylıkla yanına alıp gidebileceğin bir şey gibi de durmuyor. Üzücü.
 ^ HATALI OLABİLİR
 whiteboard_0 = Beyaz tahtadaki şey sana hiçbir anlam ifade etmiyor.
-whiteboard_1 = Cidden, çoğunluğu birisinin film fikirlerinin bitmeye yakın olduğu anlamsız karalamalar gibi görünüyor.
+whiteboard_1 = Cidden, çoğunluğu birisinin film fikirlerinin bitmesine yakın olduğu anlamsız karalamalar gibi görünüyor.
 whiteboard_2 = Burada 'Reboot' kelimesinin 7 kelimeden eksik yanı yok.
-^ HATALI OLMASI MUHTEMEL
+//^ HATALI OLMASI MUHTEMEL
 posters_0 = Yayımlanan posterler çok güzel!
 posters_1 = Ama, aklına gelen, kendi fotoğrafının onlara pazarlama amacıyla kullanılmasına asla izin vermediğin.
 posters_2 = Gerçekten, burada imzaladığın sözleşme için hiçbir şey hatırlamıyorsun. Veya onlara hakkında bilgi bile vermemiştin.
-posters_3 = ... senin bu filmlerden tek kuruş bile alamaman mümkün.
+posters_3 = ... senin bu filmlerden tek kuruş alamaman bile mümkün.
 
 [rift]
 manifest_0 = Bu kutu üzerinde bir kağıt parçası var. Bu sahne dekorları için bir makbuz!
-manifest_1 = Tuhaf - birileri 'Corgi Quest 7' kopyasını bu siparişin içine nakletmiş gibi görünüyor, ama görülen o ki teslimatı düzgün bir şekilde yapılmamış.
+manifest_1 = Tuhaf - birileri 'Corgi Quest 7' kopyasını bu siparişin içine nakletmiş gibi görünüyor, ama görünen o ki teslimatı düzgün bir şekilde yapılmamış.
 manifest_2 = Onlar bunun yerine balık sandığı almış gibi gözüküyor. Hö.
+//balık dolu bir sandık" daha uyumlu oluyor
