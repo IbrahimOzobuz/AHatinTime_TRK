@@ -1,20 +1,20 @@
 [AlpsHUB]
-TimePieceDirection0 = Gökyüzündeki yanıp sönen parlak ışıkları farkettin mi?
+TimePieceDirection0 = Gökyüzündeki yanıp sönen bu parlak ışıkları farkettin mi?
 TimePieceDirection1 = Onlar bazı [icon:timepiece][timepiece]tuhaf kum saatleri[/timepiece] gökten düşmeye başladıktan sonra gözükmeye başladı. Onlar ne olabilir?
-TimePieceDirection2 = Ne olursa olsun, gerçekten çok parlak olmamasını isterdim. Bu ışık kör edici!
+TimePieceDirection2 = Ne olursa olsun, gerçekten çok parlak olmamalarını isterdim. Bunlar göz kamaştırıcı!
 
 [finale]
-finale0 = Bu bitti... mi? Hava yeniden berrak!
-finale1 = Ve bu keçilerin hisleri yerine gelmiş gibi görünüyor. Gerçekten bunu anlamadım, ama sana teşekkür etmeliyiz!
-finale2 = We found this in a cluster of those flowers after they wilted again. You were pretty insistent in going after the others, so I guess it belongs to you?
-finale3 = Bize yardımcı olduğun için teşekkürler!
+finale0 = Artık geçti... mi? Hava yeniden berrak!
+finale1 = Ve görünüşe göre keçilerin hisleri yerine gelmiş. Bunu gerçekten anlamadım, ama sana teşekkür ettiğimizi farzet!
+finale2 = Çiçekler solduktan sonra saklımlarında bunu bulduk. Sen diğerleri için ısrarcıydın, yani sanırım bu sana ait?
+finale3 = Bize yardım ettiğin için teşekkür ederiz!
 
 [Guides]
 guide_lavacake0 = Bu yol[br] [name]Lava Keki[/name]ne gidiyor!
 guide_lavacake1 = Bu sıcaklık bir harika! [br]Burası [hint]sağ[/hint]dan bile daha sıcak!
 //^Oyunda test edilmeli
 guide_lavacake2 = Burası [br][name]Lava Keki[/name]!
-guide_lavacake3 = How'd a place end up [br]like this, anyway?
+guide_lavacake3 = O değil de, bu yer nasıl [br]bu hale gelebilir?
 guide_windmill0 = [name]Eski Yel Değirmeni[/name][br]bu tarafta!
 guide_windmill1 = Bu yer kocaman! [hint]Tepe[/hint]ye tırmanmak zor olmalı.
 //^Oyunda test edilmeli
@@ -24,19 +24,31 @@ guide_twilight2 = Şu şeye bak![br]Keşke ona yetişebilseydim.
 guide_birdhouse0 = [br][name]Kuşevi[/name]ndeki kuşlar[br]parlak şeyleri çalar!
 guide_birdhouse1 = [name]Kuşevi[/name] bu yolda!
 guide_birdhouse2 = [name]Kuşevi[/name]ne[br]yakınsın!
-guide_horn0 = Yeni yerleri[br]açmak için[br]boruları üfle!
+guide_horn0 = Yeni yerleri[br]açmak için[br]borulara üfle!
 guide_horn1 = Yukarıda bir[br][hint]boru[/hint] var!
 guide_binocs0 = Bu teleskoplar [br]uzaktaki yerlere[br]bakmanı sağlayabilir!!
 guide_deadend0 = Hey! Bu yol hiçbir [br][hint]zirve[/hint]ye gitmiyor.
-guide_deadend1 = I think this one leads to a [hint]horn[/hint]. [br]Görebilirsin bile!
+guide_deadend1 = IBence burası [/hint]boru[/hint]ya gidiyor. [br]Şuradan görebilirsin bile!
+
+
 guide_deadend2 = I think I spy [br]some [hint]treasure[/hint]!
+
+
+//Bence ben [hint]hazine[/hint]
+
+
+
+
 guide_deadend3 = Ben herhangi bir [br][hint]zaman parçaları[/hint]nın [br]bu tarafa düştüğünü düşünmüyorum.
-guide_zipline0 = Make sure you swing [br][hint]towards[/hint] the path [br]you want!
+guide_zipline0 = İstediğin [hint]taraf[/hint]a doğru eğim verdiğinden emin ol!
 guide_bridge0 = Dikkat! Bu [hint]köprüler[/hint]den bazıları eski.
-guide_cats0 = Dikkatli ol, çocuk. I went up ahead and was [br]scratched slightly!
+guide_cats0 = Dikkatli ol, çocuk. Yukarı çıkmıştım ve [br]kendimi çizdirmiştim!
 guide_cats1 = I'd hold onto that [br][icon:hat] of yours here!
 guide_eggs0 = There's something [br]strange about some [br]of those eggs!
-guide_danger0 = Selam! This is clearly a [br]safe place for a [br]child to be.
+//:::: Burada bazı yumurtalar hakkında tuhaf şeyler var.
+
+guide_danger0 = Selam! Burası açıkça [br]bir çocuğun olmak isteyeceği [br]güvenli bir alan.
+//DANGER diyor kontrol edilmeli.
 
 [PeakSize]
 size0 = Bu zirvede gerçekten bir sürü kocaman yapı var.
@@ -45,7 +57,7 @@ size2 = ... Kuşlar kuşevini yapmamıştır, değil mi?
 
 [Flowers]
 flowers0 = Etrafta mor çiçeklerin büyüdüğünü gördün mü?
-flowers1 = Ben olsam uzak dururdum. Something seems weird about them to me.
+flowers1 = Ben olsam uzak dururdum. Bir şeyler benim için tuhaf duruyor.
 
 [Horns]
 explanation0 = Neden borulara kendimiz üflemiyoruz?
@@ -53,6 +65,5 @@ explanation1 = Bu yükseklikte, hava gerçekten incedir! Bizim için derin nefes
 explanation2 = Ama senin için öyle gözükmüyor.
 
 [Goats]
-goats0 = I don't know much about the goats up here, but we try to give them a wide berth.
+goats0 = Burada ne kadar keçi olduğu hakkında bilgim yok, ama onlardan uzak durmayı denedik.
 goats1 = Yollarına çıkarsan, birazcık saldırgan olma eğilimindedirler.
-//HATALI^0ama biz onlara geniş bir yatak vermeyi denedik.//SAÇMA OLUYOR
