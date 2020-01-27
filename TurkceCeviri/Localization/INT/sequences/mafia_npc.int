@@ -1,5 +1,5 @@
 [chapter1act1]
-doublejump0 = Mafyanın dostu geçen gece TV izledi mi? Şaşırtıcı bilim baykuşu küçük insanların [hint]havada iki kere zıplayabileceğini[/hint] söyledi.
+doublejump0 = Mafyanın dostu geçen gece televizyon izledi mi? Şaşırtıcı bilim baykuşu küçük insanların [hint]havada iki kere zıplayabileceğini[/hint] söyledi.
 doublejump1 = Gördüm. Bu Mafyanın bedenini rahatız etti. Çalışmaya gitmeliyiz.
 doublejump2 = Mafyanın dostu Çılgın Kedinin Yemek Programını gördü mü?
 doublejump3 = Hayır. Ne yaptı?
@@ -58,18 +58,18 @@ livethousand1 = Mafya eski ada insanlarına ne olduğunu hatırlamıyor. Mafyan�
 dumb0 = İnsanlar Mafyanın aptal olduğunu söylüyor, ama Mafya aptal değil! Mafya üniversiteden mezun. Mafya Mafyalıkta doktora yaptı!
 
 secretitem0 = Küçük kız oradaki şeyi görüyor mu?
-secretitem1 = Mafya oraya nasıl varacağını merak ediyor... ama Mafya giriş aramaya koyulursa, dik dik bakmaya zamanı olmaz.
-secretitem2 = Küçük kız eşyayı aldı mı? Ama... ama nasıl? Mafyaya söylemek zorundasın!
+secretitem1 = Mafya oraya nasıl varacağını merak ediyor... ama Mafya girişi aramaya koyulursa, dik dik bakmaya zamanı olmaz.
+secretitem2 = Küçük kız şeyi aldı mı? Ama... ama nasıl? Mafyaya söylemek zorundasın!
 secretitem3 = Mafya bilmeli. Spot perfect for hide-and-punch.
 
 
 
 
 eatfood0 = Mafya şehirdeki herkes için yemek pişiriyor, sadece Mafyaya değil. Herkese yardımcı oluyoruz.
-eatfood1 = [scream]Ha![/scream][waitlong] Mafya şakacı. Şakaydı. Hepsini yedik.
+eatfood1 = [scream]Ha![/scream][waitlong] Mafya komik. Şakaydı. Hepsini yedik.
 
 mugirl0 = Mafya kırmızılı kızı gördü. O kız Mafyaya kötü dedi ve saldırmayı denedi, ama Mafya onu okyanusa attı.
-mugirl1 = Mafya kızgın ıslak kıza güldü.
+mugirl1 = Mafya ıslanmış kızgın kıza güldü.
 
 clock0 = Mafya uzak adadan saat kulesini almalı.
 // Below needs voice acting
@@ -121,18 +121,18 @@ scream1 = Mafyaya boyun eğ!
 scream2 = Ha ha!
 scream3 = Al bunu! Ve bunu!
 scream4 = Al bunu! Ve bunu da!
-scream5 = Acı hissediyor musun? İyi!
+scream5 = Acıyı hissediyor musun? İyi!
 scream6 = Mafya karakter sahibi olmana yardımcı oluyor!
 
 [bazaar]
-generic_shop_notopen0 = Mafia dükkanı hazırlıyor, açık değil. Açıldığında bile, çocuk hoş gelmemiştir!
+generic_shop_notopen0 = Mafia dükkanı hazırlıyor, açık değil. Açıldığında bile, çocuk hoşgelmemiştir!
 
 tunnel_block0 = Mafya dedi, gözünü tünelde tut. Belki de ilginç bir şeyler gerçekleşir?
 tunnel_block1 = Hah! Mafya şaka yapıyor. Burada ilginç hiçbir şey olmaz.
 
 [shops]
-fruitbar0 = Bu mu? Fruit bar. Yoksa öyle mi? [wave]He he he[/wave].
-fruitbar1 = Fruit bar sana satılmayacak. Sadece... belli insanlara satılır.
+fruitbar0 = Bu mu? Meyveli bar. Yoksa öyle mi? [wave]He he he[/wave].
+fruitbar1 = Meyveli bar sana satılmayacak. Sadece... belli insanlara satılır.
 
 boat_ticket_island0 = Mafya uzaktaki adaya bot bileti satıyor.
 boat_ticket_island1 = Ama... biletler tükendi. Daha sonra yine gel.
@@ -168,9 +168,11 @@ flyingboat3 = Mafya[br]vergi kesmeye[br]geldi.
 intro0 = Haha! Roketler hızlıdır, ve Mafya roketin üstündeyse, Mafya hızlıdır! Dünyanın en hızlı adamı!
 intro1 = Küçük çocuk dünyanın en hızlı adamıyla yarışmak mı istiyor? Mafya [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nı Mafyanın üssünden çaldı. Kazanırsan, Mafya onu sana verecek.
 intro2 = Küçük çocuk bundan emin mi? Çok yavaş gözüküyorsun, maybe come back later when child can travel faster?
+//belki çocuk hızlandığında daha sonrayeniden gel?
 belki çocuk daha sonra gelip
 
-intro3 = It is on! Mafya bundan kurtulacağından emin değil, ama en azından Mafya dünyanın en hızlı adamı olarak ölecek!
+intro3 = İşte bu! Mafya bundan kurtulacağından emin değil, ama en azından Mafya dünyanın en hızlı adamı olarak ölecek!
+//It is on! 1. kısım yanlış.
 intro_a = Yarış benimle, ödlek!
 intro_b = Hoşçakal, ezik!
 intro_c = Benimle yarış!
@@ -182,16 +184,17 @@ rules_explained2 = Zaman yarığının Kuralları: Ölürsen, yeniden başlarsı
 rules_explained3 = Tüm kurallar bunlar. Please tread carefully in Mafia time rift. Mafya geçmişi yaşamayı sever.
 
 orbs_preserved0 = Has little girl noticed that unspent [treasure][icon:treasure]Rift Pons[/treasure] are kept each floor? No need to get every single pon.
-orbs_preserved1 = İyi şanslar! Mafia has [hint]opened entrance to next floor[/hint] for you!
+orbs_preserved1 = İyi şanslar! Mafya senin için [hint]sonraki katın giriş kapısını[/hint] açtı!
 
 [finale]
 outside0 = This just like time island [br]covered in lava. Sadece, [br]farklı.
-outside1 = Mafia do nothing to deserve this! Mafia relax and live on island time. It 5 o'clock there, always.
-outside2 = Mafia not like to be [br]judged. Make anxious. [br]Sweat through suit.
+outside1 = Mafya bunu hakedecek bir şey yapmadı! Mafia relax and live on island time. Burada saat 5, her zaman.
+outside2 = Mafya yargılanmayı [br]sevmedi. Endişelendi. [br]Terler boşanıyor.
+//HATA
 outside3 = Not sure if being [br]judged on crime or [br]cooking. Not sure [br]which is scarier.
 plea0 = I didn't punch old man for like, 2 days straight that one time!
 
-
+Ben yaşlı adama 1 kez,,, 2 günden beridir vurmadım.
 
 
 group_counter0 = [scream]O KIZ KAYBOLSUN![/scream]
