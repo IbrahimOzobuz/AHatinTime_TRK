@@ -1,10 +1,11 @@
+//%95 (27/01//2020)
 [levels]
 Chapter1_MafiaTown = Mafya Şehri
 Act_1_1 = Mafya Şehrine Hoşgeldin
 Act_1_2 = Varil Mücadelesi
 Act_1_3 = O Uzaydan Geldi
-Act_1_4 = Down with the Mafia!
-//Özel kullanım^
+Act_1_4 = Mafyayla Savaş!
+//Özel kullanım^Down with the mafia, sloganımsı
 
 Act_1_5 = Adil Yarış
 Act_1_6 = Mafya Şehrini Kavurmak
@@ -36,7 +37,8 @@ Chapter2_Bonus_Cave = Pipe
 Chapter3_Trainwreck = Kuşların Mücadelesi
 Act_3_1 = Dead Bird Stüdyosu
 Act_3_2 = Baykuş Ekspresindeki Katil
-Act_3_3 = Picture Perfect
+Act_3_3 = Kusursuz Resim
+//^Picture Perfect, hatalı olması muhtemel
 Act_3_4 = Tam Zamanında
 Act_3_5 = Geçit Töreni
 Act_3_6 = Ödül Töreni
@@ -46,11 +48,12 @@ TimeRift_Water_TWreck_Panels = Baykuş Ekspresi
 TimeRift_Water_TWreck_Parade = Ay
 TimeRift_Cave_TWreck_Basement = Dead Bird Stüdyosu
 
-Chapter4_Sand = Alpin Silüeti
+Chapter4_Sand = Alpinlerin Silüeti
 alpine_finale = Hastalık Yayıldı
 Chapter4_Bonus_Cats = Kıvrımlı Kuyruk Patikası
 TimeRift_Water_Alp_Goats = Alacakaranlık Çanı
-TimeRift_Cave_Alps = Alpin Silüeti
+TimeRift_Cave_Alps = Alpinlerin Silüeti
+//Alpinlerin Silüeti hatalı
 
 Chapter5_Finale = Zamanın Sonu
 act_5_1 = Son
@@ -78,6 +81,7 @@ NiceWish = Hoş İstek
 Community = Topluluk Haritası
 
 TimeRift_Cave_RhythmJumpStudio = Ritmik Adım Stüdyosu
+//Özel ad, çevrilmemesi daha uygun olur
 TimeRift_Cave_TwilightTravels = Alacakaranlık Gezileri
 TimeRift_Cave_MountainRift = Dağ Yarığı
 
@@ -99,17 +103,17 @@ Metro_CaveRift_RumbiFactory = Rumbi Fabrikası
 
 [ActInfoBoxDetails]
 Population_MafiaTown = Nüfus: 379
-Population_MafiaTown_Less = Nüfus: Öncesinden az since I made them go boom
+Population_MafiaTown_Less = Nüfus: HATALI Öncesinden az since I made them go boom
 //Korkuttuğumdan beri Azaldı MANTIKSIZ
 Population_MafiaTown_Fried = Nüfus: Bir sürü kavrulmuş Mafya
-Population_MafiaTown_Boss = Nüfus: One less soon
+Population_MafiaTown_Boss = Nüfus: Bir daha azaldı
 Mission_RecoverTP = Görev: Düşmüş Zaman Parçasını kurtar
-Mission_Race = Görev: Adil olarak kaza- pfffft hahaha
+Mission_Race = Görev: Adil olarak kazanı- pfffft hahaha
 Mission_Safe = Görev: Bu koca kasayı aç!
-Mission_Boss =  Görev: Take down the Mafia!
+Mission_Boss =  Görev: Mafyayı alt et!
 Mission_Lava = Görev: Söndürmece!
 Sweating_No = Terleme: Umarım yoktur
-Sweating_Nope = Terleme: Hiçbir yolu yok
+Sweating_Nope = Terleme: Hiç yolu yok
 Sweating_Yes = Terleme: Evet, maalesef
 Sweating_Rain = Terleme: Gökyüzü terliyor gibi görünüyor
 
@@ -118,7 +122,7 @@ Mission_Award = Görev: Kutlayabilirsin! Başardın!
 Mission_Uncanny = Burada garip bir şeyler mi dönüyor?
 ReviewScore = İnceleme: "2 1/2 Yıldız, Aktörlerin Hepsi Berbat"
 ReviewScore2 = İnceleme "5 Yıldız, Yeni Aktris Harika"
-Legality_No = Yasal Durum: Girmeme Tamamen İzin Yok
+Legality_No = Yasal Durum: Girmeme İzin Yok
 Legality_Yes = Yasal Durum: Hiçbir Uygunsuzluk Yok, Kesinlikle
 MovieStars_Starring = Başroller...
 MovieStars_Conductor = KONDÜKTÖR, BİLGİLİ TREN KONDÜKTÖRÜ olarak
