@@ -1,15 +1,15 @@
 [ambient]
 metrocat_2p_missing_0 = Geçen hafta birilerinin kaybolduğunu duydun mu? [br]Demişlerdi ki-
-metrocat_2p_missing_1 = Şşşt! Ne dediklerine dikkat et.
+metrocat_2p_missing_1 = Şşşt! Ne dediğine dikkat et.
 
 metrocat_1p_helpdesk_0 = Kayıp mı oldun, çocuk? Eğer bir şeye bakıyorsan, [hint]danışma[/hint]ya[br]sormalısın.
-metrocat_1p_waiting_0 = Beni yalnız bırakabilir misin, lütfen? Trenimi bekliyorum.
-metrocat_2p_stuck_0 = Arkadaşımdan bahsetmiş miydim? [br]O [hint]metro kartı[/hint]nı kaybeti ve Pembe Pati İstasyonunda mahsur kaldı.
+metrocat_1p_waiting_0 = Beni yalnız bırakabilir misin lütfen? Trenimi bekliyorum.
+metrocat_2p_stuck_0 = Arkadaşımdan bahsetmiş miydim? [br]O [hint]metro kartı[/hint]nı kaybetmişti ve Pembe Pati İstasyonunda mahsur kalmıştı.
 metrocat_2p_stuck_1 = Ha, umarım o kendine yeni bir bilet alabilir. Bu bilet [hint]bilet gişe[/hint]leri çok kısıtlayıcı!
 //^HATALI
 
-metrocat_2p_sushi_0 = Yukarıdaki suşi lokantasına gittin mi, hı?
-metrocat_2p_sushi_1 = Henüz değil. Yeşil Hattan işe giderken her zaman onları görüyorum., ve bu da beni acıktırıyor.
+metrocat_2p_sushi_0 = Yukarıdaki suşi lokantasına gittin mi, he?
+metrocat_2p_sushi_1 = Henüz değil. Yeşil Hattan işe giderken her zaman onları görüyorum ve bu da beni acıktırıyor.
 metrocat_2p_sushi_2 = Bazen, I wish I could leap straight across to it.
 
 metrocat_2p_stolen_0 = Did I tell you I had to buy a new [hint]metro pass[/hint]? Benimkisi çalındı galbia.
@@ -27,22 +27,22 @@ metrocat_2p_knocking_1 = Uh, belki de sen gaipten sesler duyuyorsundur. [br]Kims
 
 metrocat_2p_shortcuts_0 = Benden duyma ama, uh, ama bu rögar kapaklarını biliyor musun? Onlar gerçek değil.
 metrocat_2p_shortcuts_1 = Ne? Boyanmışlar mı?
-metrocat_2p_shortcuts_2 = Hayır, öyle değil. Onların lağımla alakası yok. Arkadaşım, onlar metronun diğer bölgelerinin kısayolları olduğunu söylemişti.
+metrocat_2p_shortcuts_2 = Hayır, öyle değil. Onların lağımla alakası yok. Bir arkadaşım, onlar metronun diğer bölgelerinin kısayolları olduğunu söylemişti.
 
 metrocat_2p_badcrowd_0 = Etrafta koşan küçük çocuğu gördün mü?
-metrocat_2p_badcrowd_1 = Çocuklar yalnız bırakılmamalı! Umarım o, kötü niyetli bir kalabalığına rastlamaz.
+metrocat_2p_badcrowd_1 = Çocuklar yalnız bırakılmamalı! Umarım o, kötü niyetli bir kalabalığa rastlamaz.
 
 metrocat_2p_chase_0 = Temizlik robotları arkadaş canlısı ve zıpır gibi duruyor.
 metrocat_2p_chase_1 = Arkadaş Canlısı mı? Üzerine çamur bulaşırsa seni kovalamaya başlıyorlar! Bu korkunç.
 
-metrocat_2p_jewellery_0 = Buradaki şık ve büyük kuyumcuda tuhaf bir şeyler olduğunu hiç düşündün mü?
+metrocat_2p_jewellery_0 = Buradaki büyük ve şık kuyumcuda tuhaf bir şeyler olduğunu hiç düşündün mü?
 metrocat_2p_jewellery_1 = Ne demek istiyorsun?
 metrocat_2p_jewellery_2 = Demek istediğim, kim metroya kolye almaya gelir ki? Burada, bu yerde şüpheli bir şeyler dönüyor.
 metrocat_2p_jewellery_3 = Hm, neyden bahsettiğini bilmiyorum.
 metrocat_2p_jewellery_4 = Ne? Burada garip bir şeylerin döndüğünü düşünmüyor musun?
-metrocat_2p_jewellery_5 = Şşşt, zaten! Bu mekanda her şeye burnunu sokma, tamam mı?
+metrocat_2p_jewellery_5 = Şşşt, öyle zaten! Bu mekanda her şeye burnunu sokma, tamam mı?
 
-metrocat_1p_watchstep_0 = Adım attığın yere dikkat et, çocuk. Rögar kapaklarını bazıları çok sert basarsan hareket eder.
+metrocat_1p_watchstep_0 = Adım attığın yere dikkat et, çocuk. Rögar kapaklarının bazılarına çok sert basarsan hareket eder.
 metrocat_1p_weirdgates_0 = Burada kurulan geçitler oldukça tuhaf.
 metrocat_1p_weirdgates_1 = oraya gidebilmek için [hint]Mavi[/hint] VE [hint]Sarı[/hint] biletlere ihtiyacın olacak!
 
@@ -51,15 +51,15 @@ metrocat_2p_delayed_1 = Yine mi!? Aaaah, bu berbat. Geç kalacağım.
 metrocat_2p_delayed_2 = Belki farklı bir trene binebilirsin?
 metrocat_2p_delayed_3 = B-ben farklı bir trene binemem! Ya kaybolursam?
 
-metrocat_2p_rightmeow_0 = Ugh... eğer trenim şu anda gelmezse, Geç kalırım!
+metrocat_2p_rightmeow_0 = Ugh... eğer trenim şu an gelmezse, Geç kalırım!
 metrocat_2p_rightmeow_1 = Ben onun hakkında bir şey- bekle, ne dedin...?
 metrocat_2p_rightmeow_2 = Ne dedin?
 metrocat_2p_rightmeow_3 = Boşver. Yanlış duymuş olmalıyım.
 
 metrocat_2p_outoftown_0 = Duyduğuma göre 'kuyumcu' 'gerçekten kocaman bir kolyeyi' şehrin dışına çıkarmayı planlıyormuş.
 metrocat_2p_outoftown_1 = Bu şeyi nereden duydun?
-metrocat_2p_outoftown_2 = Hiçbir şey duymadım. Ne hakkında konuştuğunu bilmiyorum, adamım.
-metrocat_2p_outoftown_3 = Emin misin? Ben muhabire benziyor muyum.
+metrocat_2p_outoftown_2 = Hiçbir şey duymadım. Ne hakkında konuştuğunu bilmiyorum adamım.
+metrocat_2p_outoftown_3 = Emin misin? Ben muhabire mi benziyorum.
 //HATALI^
 metrocat_2p_outoftown_4 = Ben... oldukça eminim, evet.
 
@@ -73,7 +73,7 @@ metrocat_2p_missingvan_1 = Hmmm... doesn't that spot just down the street do bur
 
 
 
-metrocat_2p_missingvan_2 = Sure, but... ama kamyon tam da buradaydı, biliyor musun?
+metrocat_2p_missingvan_2 = Evet, ama... ama kamyon tam da buradaydı, biliyor musun?
 metrocat_2p_missingvan_3 = Tch. Çok tembelsin.
 
 metrocat_3p_needmoney_0 = I hope I can get some more hours at work.
