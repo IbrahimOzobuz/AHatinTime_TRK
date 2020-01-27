@@ -27,8 +27,9 @@ ending3 = Tamamdır burada, sevdiğin şu [icon:timepiece][timepiece]şeyimsiler
 intro0 = Bu film stüdyosu ikimiz için de çok büyük, [icon:djgrooves][name]DJ Grooves[/name]! Bu film GERÇEK kuşlarla yapılmalı!
 intro1 = Siz [name]Ay Penguenleri[/name] sadece gürültülü, rahatsız edici saçmalıklar yazacaksınız! If I wanted a bunch of peck necks to dance around while on bird seed, torunlarımı ziyaret ederdim!
 intro2 = NE?! Hayır yapmadık, seni soytarı!
-intro3 = Oh evet?
-intro4 = Well, this time around, we're ALSO spicing it up with our newest film butaforu/prop!
+intro3 = Ah evet?
+intro4 = Well, this time around, we're ALSO spicing it up with our newest film butaforuprop!
+//HATALI ^
 intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsileri[/timepiece] will be the grand jewel in our train heist western!
 intro6 = .......
 intro7 = [scream][big]NEEEEEEEEE?![/big][/scream]
@@ -37,14 +38,14 @@ intro8 = You no-good dirty peck necks! Siz bizim butaforumuzu kopyalamışsını
 intro9 = That does it! Get outta here with ye, I've got a movie to record!
 intro10 = Oh yeah?! Let's see how well ye do when you can't get into the reception! [wave]GWAHAHAHAHA![/wave]
 intro11 = Oh wait, shutting the peck necks inside the studio will force them to work harder.
-intro12 = Alright, time to go, owls! Let's make our killer movie!!
-intro13 = Oh, and receptionist, can yer PLEASE close off that vent already? I don't want the smell of penguin to come anywhere near my crew!
+intro12 = Alright, gitme zamanı baykuşlar! Vurucu filmimizi yapalım!!
+intro13 = Oh ve danışman, can yer PLEASE close off that vent already? I don't want the smell of penguin to come anywhere near my crew!
 
 outro0 = [scream][big]HEY! SEN NE YAPTIĞINI ZANIYORSUN?!?![/big][/scream]
 outro1 = Yer can't just jump in and fiddle with the [icon:trophy][trophy]yıllık kuş film ödülleri[/trophy]! Bu dolandırıcılık! SAHTEKARLIK! Hey millet, BURADA bir SAHTEKAR VAR!
 outro2 = ...
 outro3 = BAYKUŞ KORUMALARIM NEREDE?! Neden bu lanet baykuşlar çok kullanışsız?!
-outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan, ve seni hapse atamam, öyleyse sen skoruma rağmen yardım edeceksin!
+outro5 = Tamamdır, dinle beni, kızım! Başın büyük belada. Eğer sen çarpık [icon:djgrooves][name]DJ Grooves[/name]'a ödülü kazanması için yardım ediyorsan //EKSİK// seni hapse atamam, öyleyse sen _skoruma_HATALI rağmen yardım edeceksin!
 outro6 = Bu doğru, sen benim filmlerimde de yıldız olacaksın!
 outro7 = Here, hold our [icon:timepiece][timepiece]newest prop[/timepiece], practice showing it off, ve bunu film stüdyoma yarın getir! Anladın mı? Geç kalma!
 
@@ -67,6 +68,7 @@ mission_end0 = Öyleyse, kim yapdı?!
 mission_end1 = Ne! So you've done peck all to solve the case?!
 mission_end2 = Katil kim? Hanginiz yaptı?!
 
+
 suspect_crows0 = Kargalar mı yaptı?!
 suspect_sciowls0 = The Ekspres Baykuşları mı yaptı?!
 suspect_mothermaiden0 = Hepsini Bayan [MotherMaidenName] yaptı?!
@@ -76,16 +78,17 @@ suspect_victim1 = Bekle, intihar mı etti?
 suspect_generic0 = Ama... neden? Neden Express Owl'ların birini katletsin?
 suspect_generic1 = Nöy ne? KAUÇUK bıçak?!
 
-suspect_ending0 = Neyse, bu cinayeti çözdüğün için teşekkürler, küçük kız.
-suspect_ending1 = Not only did you reveal the murderer, you also revealed that the victim was never harmed
+suspect_ending0 = Neyse, bu cinayeti çözdüğün için teşekkürler küçük kız.
+suspect_ending1 = Yalnızca katili değil, ayrıca kurbanın zarar görmediğini de ortaya çıkarttın ///Noktalama
+
 suspect_ending2 = ... and you gave us intense footage for the movie!
 suspect_ending3 = What? You think I'd let a murder happen on MY Owl Express? Think again! It was all just a setup for my newest Owl Express movie:[br][name]Murder on the Owl Express![/name]
 suspect_ending4 = You think [icon:djgrooves][name]DJ Peck Neck[/name] will make a movie that's even remotely as good? I think not!
 suspect_ending5 = Here, take this [icon:timepiece][timepiece]thingamajig[/timepiece] and get outta here!
 suspect_ending6 = ... And yer better not star in any of [icon:djgrooves][name]DJ Grooves[/name]' movies! His movies are FOUL HAGGIS ON A GIANT PILE OF PIG DROPPINGS![br]Also we've got an exclusivity deal, ya?
 
-suspect_conductor0 = ... BEN?!
-suspect_conductor1 = Katil olamam, Ben Kondüktörüm!
+suspect_conductor0 = ... BEN Mİ?!
+suspect_conductor1 = Ben katil olamam, ben Kondüktörüm!
 suspect_conductor2 = Ne?
 suspect_conductor3 = Cidden, ne?
 suspect_conductor4 = O ben değildim!
