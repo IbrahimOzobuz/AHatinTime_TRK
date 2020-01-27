@@ -8,7 +8,7 @@ speaker4 = [wave]Ding! Dong! Ding! Dong![/wave]
 
 captain0 = Meşgulüm, delikanlı. Bu gemi kendi kendini sürmüyor.
 captain1 = Meşgulüm dedim delikanlı.
-captain2 = Yapacak daha iyi bir işin yok mu?
+captain2 = Yapacak başka bir işin yok mu?
 captain3 = Bana bunun için yeterince ödeme yapmıyorlar...
 
 leftshard1 = ...Ne istiyorsun delikanlı? Mürettebattan biri kendini yeniden mi incitti?
@@ -17,16 +17,23 @@ leftshard2 = Neye benziyorum, doktora mı? [hint]Öp[/hint]mek onu kendine getir
 [act2]
 captainAttention0 = Dikkat... Kaptanınız konuşuyor.
 captain0 = O da ne delikanlı? [br]Yardım mı etmek istiyorsun?
-captain1 = Hmph. Elbette. Belki something will get done around this mess of a boat for once. Bu bir ilk olurdu.
+captain1 = Hmph. Elbette. Belki bu gemide bir kez olsun bir şeyler yoluna girerdi. Bu bir ilk olurdu.
 captain2 = Tamamdır. İçecekleri, yiyecekleri, ve bambaşka şeyleri de teslim etmen gerecek. Ve bunları hızla yap delikanlı.
-captain3 = Oh, Oh, ve burada yapılması gereken başka şeyler olacak... Bu yüzden gözünü ayırma. Başlamaya hazır mısın?
+captain3 = Oh, Oh, ve burada yapılması gereken başka şeyler de olacak... Bu yüzden gözünü ayırma. Başlamaya hazır mısın?
 captain4 = Well, come back when you are. Bu gemi kendi kendini temizlemeyecek.
 
-captain5 = Güzel. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
-captainFail0 = Tıpkı foklar gibi... bu iyi değil. Sadece daha fazla kargaşa yarattın, delikanlı. Tekrar dene. Ya da etme, boşver.
-captainDone0 = Şimdi durabilirsin, delikanlı. Dümene geri gel, bence.
-captainDone1 = Güzel... looks like you actually cleaned up more mess than you made, delikanlı. That's more than most of the crew can manage.
-captainDone2 = Help yourself to something Kayıp Eşya kutusundan $$. Nobody ever comes back for that stuff anyway.
+captain5 = Güzel. Benim için bu kutulardan kurtulmaya başlayabilirsin. It's starting to get messy in here...
+
+//Burası kirletmeye başlamıştı
+
+
+captainFail0 = Tıpkı foklar gibi... bu iyi değil. Sadece daha fazla kargaşa yarattın delikanlı. Tekrar dene. Ya da etme, boşver.
+captainDone0 = Şimdi durabilirsin delikanlı. Dümene geri gel bence.
+captainDone1 = Güzel... looks like you actually cleaned up more mess than you made,,, delikanlı. Bu çoğu mürettebatın becerebileceğindem fazla.
+
+
+captainDone2 = Help yourself to something Kayıp Eşya kutusundan $$. Kimse bu tür şeyler için geri dönmüyor.
+
 
 yes = Evvet!
 no = Hayıııııır!
@@ -63,10 +70,9 @@ carried3 = Beni. Yere. Bırak!
 carried4 = Gemimle batmama izin ver!
 carried5 = Boğulmama izin ver, delikanlı!
 
-captain0 = *Sigh* delikanlı, neden gemimle batıp gitmeme izin vermedin?? Ben boğulmam, ama en azından I could pretend for a bit.
-captain1 = Hmph, ben olmadan, bu mürettebat filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
-//
-
+captain0 = *İç çeker* delikanlı, neden gemimle batıp gitmeme izin vermedin?? Ben boğulmam, ama en azından öyle olmadığıma inanırdım.
+//^ HATALI OLABİLİR
+captain1 = Hmph, ben olmadan bu mürettebat filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
 captain2 = Umarım sigorta bunu karşılar...
 captain3 = Neyse, iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması tam bir komedi.
 captain4 = Hepsi senindir, delikanlı.
