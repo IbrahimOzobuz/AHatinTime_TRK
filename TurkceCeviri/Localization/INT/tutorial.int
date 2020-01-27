@@ -1,7 +1,8 @@
+//%99 (27/01//2020)
 [buttonhelp]
 jumpdive = basarak havada uzağa zıpla
 doublejump = basarak havada iki defa zıpla
-crawl = basarak ayakta dururken emekle
+crawl = basarak ayaktayken emekle
 watersubmerge = Dal
 caught_struggle = Mücadele Et
 first_person_goal = [icon:hat]nı kullanarak hedefini bul!
