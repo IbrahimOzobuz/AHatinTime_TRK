@@ -22,12 +22,12 @@ Act_2_1 = Sözleşme Yükümlülükleri
 Act_2_2 = Subcon Kuyusu
 Act_2_3 = Toilet of Doom
 Act_2_4 = Kraliçe Vanessa'nın Malikanesi
-Act_2_5 = Posta Teslim Servisi
+Act_2_5 = Posta Teslimat Servisi
 Act_2_6 = Ateş Ruhlarının Ritüeli
 Act_2_7 = Sözleşmen Bitti
 Location_Subcon = Subcon Ormanı
 Location_SubconCave = Subcon Mağarası
-Location_VanessaManor = Vanessa's Malikanesi
+Location_VanessaManor = Vanessa'nın Malikanesi
 Location_SubconVillage = Subcon Köyü
 
 Chapter2_Bonus_Vanessa = Köy
@@ -46,11 +46,11 @@ TimeRift_Water_TWreck_Panels = Baykuş Ekspresi
 TimeRift_Water_TWreck_Parade = Ay
 TimeRift_Cave_TWreck_Basement = Dead Bird Stüdyosu
 
-Chapter4_Sand = Alpine Skyline
+Chapter4_Sand = Alpin Silüeti
 alpine_finale = Hastalık Yayıldı
 Chapter4_Bonus_Cats = Kıvrımlı Kuyruk Patikası
 TimeRift_Water_Alp_Goats = Alacakaranlık Çanı
-TimeRift_Cave_Alps = Alpine Skyline
+TimeRift_Cave_Alps = Alpin Silüeti
 
 Chapter5_Finale = Zamanın Sonu
 act_5_1 = Son
@@ -77,11 +77,12 @@ DeathWish = Son İstek
 NiceWish = Hoş İstek
 Community = Topluluk Haritası
 
-TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Stüdyosu
+TimeRift_Cave_RhythmJumpStudio = Ritmik Adım Stüdyosu
 TimeRift_Cave_TwilightTravels = Alacakaranlık Gezileri
 TimeRift_Cave_MountainRift = Dağ Yarığı
 
 secretlevel_beta_space = Beta Hero's Challenge
+//çevrilmemeli, eski
 
 Chapter7_Metro = Nyakuza Metro
 Location_Metro_HUB = Ana İstasyon
@@ -98,15 +99,16 @@ Metro_CaveRift_RumbiFactory = Rumbi Fabrikası
 
 [ActInfoBoxDetails]
 Population_MafiaTown = Nüfus: 379
-Population_MafiaTown_Less = Nüfus: Less than before since I made them go boom
+Population_MafiaTown_Less = Nüfus: Öncesinden az since I made them go boom
+//Korkuttuğumdan beri Azaldı MANTIKSIZ
 Population_MafiaTown_Fried = Nüfus: Bir sürü kavrulmuş Mafya
 Population_MafiaTown_Boss = Nüfus: One less soon
 Mission_RecoverTP = Görev: Düşmüş Zaman Parçasını kurtar
-Mission_Race = Görev: Adil olarak kaz- pfffft hahaha
+Mission_Race = Görev: Adil olarak kaza- pfffft hahaha
 Mission_Safe = Görev: Bu koca kasayı aç!
 Mission_Boss =  Görev: Take down the Mafia!
-Mission_Lava = Görev: Cool things down!
-Sweating_No = Terleme: Umarım olmaz
+Mission_Lava = Görev: Söndürmece!
+Sweating_No = Terleme: Umarım yoktur
 Sweating_Nope = Terleme: Hiçbir yolu yok
 Sweating_Yes = Terleme: Evet, maalesef
 Sweating_Rain = Terleme: Gökyüzü terliyor gibi görünüyor
@@ -167,10 +169,10 @@ Mini2 = Keçi Rafinerisi
 OwlBrewMountain = Sarı Kuşak Tepeleri
 SnatcherTeleportMountain = Esrarengiz Zaman Mesa Ovası
 BirdPathHorn = Serpentine Bird Borusu
-BirdPath1 = Bird Pass Fork
+BirdPath1 = Kuş Geçiş Çatalı
 BellPath1 = Alacakaranlık Patikası
 LavaPath1 = Kızgın Lava Yarığı
 LavaPath2 = Ember Zirvesi
 WindmillPath1 = Rüzgarlı Geçit
-CatEasy = Kıvrım Kuyruklu Boynuz Patikası
-CatHard = The Mırlanan Köy
+CatEasy = Kıvrımlı Kuyruk Boynuzu Patikası
+CatHard = The Mırlanmış Köy
