@@ -2,38 +2,31 @@
 captainAttention0 = Dikkat... Kaptanınız konuşuyor.
 speaker0 = Bu şey açık mı? Öhöm...
 speaker1 = Tüm yolcular, lütfen resepsiyondan kayıt yaptırın! Birazdan güvertede olacağım...
-speaker2 = Dikkat, yolcular. Ve 'mürettebat'.
-speaker3 = Gemi limandan ayrılıyor. Lütfen düşmemeye çalışın.
-speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
+speaker2 = Dikkat yolcular ve 'mürettebat'.
+speaker3 = Gemi limandan ayrılıyor. Lütfen sıkı tutunun.
+speaker4 = [wave]Ding! Dong! Ding! Dong![/wave]
 
 captain0 = Meşgulüm, delikanlı. Bu gemi kendi kendini sürmüyor.
-captain1 = Meşgulüm dedim, delikanlı.
+captain1 = Meşgulüm dedim delikanlı.
 captain2 = Yapacak daha iyi bir işin yok mu?
 captain3 = Bana bunun için yeterince ödeme yapmıyorlar...
 
-leftshard1 = ...Ne istiyorsun, delikanlı? Mürettebattan biri kendini yeniden mi incitti?
+leftshard1 = ...Ne istiyorsun delikanlı? Mürettebattan biri kendini yeniden mi incitti?
 leftshard2 = Neye benziyorum, doktora mı? [hint]Öp[/hint]mek onu kendine getirir.
 
 [act2]
 captainAttention0 = Dikkat... Kaptanınız konuşuyor.
-captain0 = O da ne, delikanlı? [br]Yardım mı etmek istiyorsun?
-captain1 = Hmph. Elbette. Belki something will get done around this mess of a boat for once. Bu ilk olurdu.
-captain2 = Tamamdır. İçecekleri, yiyecekleri, ve başka şeyleri de teslim etmen gerecek. Ve bunları hızlıca yap, delikanlı.
-//de eki gereksiz? Hızlıca ekstra""
+captain0 = O da ne delikanlı? [br]Yardım mı etmek istiyorsun?
+captain1 = Hmph. Elbette. Belki something will get done around this mess of a boat for once. Bu bir ilk olurdu.
+captain2 = Tamamdır. İçecekleri, yiyecekleri, ve bambaşka şeyleri de teslim etmen gerecek. Ve bunları hızla yap delikanlı.
 captain3 = Oh, Oh, ve burada yapılması gereken başka şeyler olacak... Bu yüzden gözünü ayırma. Başlamaya hazır mısın?
-captain4 = Well, come back when you are. This ship isn't going to clean itself up.
-
-
-
-
-
-Bu gemi ke kendini temizlemeyecek.
+captain4 = Well, come back when you are. Bu gemi kendi kendini temizlemeyecek.
 
 captain5 = Güzel. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
 captainFail0 = Tıpkı foklar gibi... bu iyi değil. Sadece daha fazla kargaşa yarattın, delikanlı. Tekrar dene. Ya da etme, boşver.
 captainDone0 = Şimdi durabilirsin, delikanlı. Dümene geri gel, bence.
 captainDone1 = Güzel... looks like you actually cleaned up more mess than you made, delikanlı. That's more than most of the crew can manage.
-captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
+captainDone2 = Help yourself to something Kayıp Eşya kutusundan $$. Nobody ever comes back for that stuff anyway.
 
 yes = Evvet!
 no = Hayıııııır!
@@ -41,8 +34,7 @@ no = Hayıııııır!
 [docks]
 captain0 = Uh... you look a little young to be sailing alone, delikanlı.
 captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
-captain2 = See the walkway, delikanlı? What a mess...
-		   Koridoru gördün mü?
+captain2 = Koridoru gördün mü delikanlı? Ne kargaşa ama...
 captain3 = How is anyone supposed to get up that thing?
 captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
 
@@ -57,15 +49,12 @@ loudspeaker1 = Mikrofonu bana ver! [scream]Dümende kim var??![/scream]
 loudspeaker2 = [scream]Buzula çarptık! [br]Hepiniz güverteye![/scream]
 //burası hatalı olmalı
 
-start0 = It's all going down, delikanlı. Bu günleri görmeyi aklımın ucundan bile geçirmiyorsum.
-
-
-
-start1 = Her maiden voyage, too. Won't take more than a few minutes for all of this to hit the sea floor, I think.
-start2 = Güzel, belki kendine lifeboat alman isteyebilirsin delikanlı. Bu akıllıca olurdu.
+start0 = It's all going down, delikanlı. Bu günleri görmeyi aklımın ucundan bile geçirmiyordum.
+start1 = Bu gemi de öyle. Won't take more than a few minutes for all of this to hit the sea floor, I think.
+start2 = Güzel, belki kendine filika almak isteyebilirsin delikanlı. Bu akıllıca olurdu.
 
 loudspeaker3 = Beni bekleme, delikanlı. Filikaya bin ve çek git.
-loudspeaker4 = Bu lanet gemi benim, ve onunla beraber batacağım.
+loudspeaker4 = Bu lanet gemi benim ve onunla beraber batacağım.
 
 carried0 = Beni yere bırak, delikanlı!
 carried1 = Bırak beni! Bırak beni, delikanlı ol!
@@ -75,9 +64,9 @@ carried4 = Gemimle batmama izin ver!
 carried5 = Boğulmama izin ver, delikanlı!
 
 captain0 = *Sigh* delikanlı, neden gemimle batıp gitmeme izin vermedin?? Ben boğulmam, ama en azından I could pretend for a bit.
-captain1 = Hmph, although without me, this crew'll never be able to get the lifeboats to shore. Güzel. Mürettebat, haydi eve gidelim.
-//ben olmadan da, bu mürettebat asla filikalarla kıyıya gidemez.
+captain1 = Hmph, ben olmadan, bu mürettebat filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
+//
 
 captain2 = Umarım sigorta bunu karşılar...
-captain3 = Neyse,iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması tam bir komedi.
+captain3 = Neyse, iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması tam bir komedi.
 captain4 = Hepsi senindir, delikanlı.
