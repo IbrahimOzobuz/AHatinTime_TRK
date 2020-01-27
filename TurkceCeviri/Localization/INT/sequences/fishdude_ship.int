@@ -1,21 +1,26 @@
 [docks]
-fishdude0 = Hey selam, adamım. Madamım, Demek istedim. I'm like, ready for a nice cruise, aren't you? [br]Hopefully there's nothing fishy about this ship, y'know.
+fishdude0 = Hey selam, adamım. Madamım, Demek istedim. Ben güzel bir yolculuk için hazırım gibi, peki ya sen? [br]Hopefully there's nothing fishy about this ship, bilirsin.
 fishdude1 = I got ripped off on a dodgy vacation last year. It was like, not rad at all.
 
+//Konuşma pattern'i: Ben gibi=It's like
+
+
 [internal]
-fishdude2 = Oh, hey madamım. Dinleniyordum, biliyorsun, ve etrafta bu kırılmış camı farkettim. Tuhaf, değil mi?
-fishdude3 = ... Sana mı ait? Ah, havalı, şahsen. Buna karışamam, biliyorsun. 
+fishdude2 = Oh, hey madamım. Dinleniyordum, bilirsin ve etrafta bu kırılmış camı farkettim. Tuhaf, değil mi?
+fishdude3 = ... Sana mı ait? Ah, havalı bence. Buna karışamam, bilirsin. 
 fishdude4 = Pretty gnarly picking that stuff up with your bare hands, but like, whatever floats your boat, y'know?
 
 [act3]
 fishdude0 = Like, teşekkürler madamım. Bunu beklemiyordum.
 
-fishdude1 = Nasıl gidiyor, madamım? The view up here is like, ıssız, huh.
+fishdude1 = Nasıl gidiyor, madamım? Buranın manzarası, ıssız gibi, hö.
 fishdude2 = Those icebergs are pretty big, ama endişelenme. Bu geminin broşürünü okudum, bu gemi, gibi, batamaz. Asla.
-fishdude3 = Like the one in that movie, bileyun mu? Bunun gibi bir gemi, batmayan. Never did see the end of that one.
+fishdude3 = Filmlerde olanlar gibi, bileyun mu? Bunun gibi bir gemi, batmayan. Sonunun böyle olmadığını asla görmedim.
+//İRONİ VAR, KONTROL, 3 CONJ KULLANILMAMALI
 
-carried0 = Oh! Oldukça güçlü gibisin, değil mi?
+carried0 = Oh! Oldukça güçlü gibisin değil mi?
 
 [fluff]
-fishdude0 = Hey, Madamım. N'aber? I'm just checking out this, like, bütünüyle sakin bahçe. Burada çiçekler ve çöp gibi şeyler var.
-fishdude1 = It's like, a pretty nice view from your balcony, bileyun mu?
+fishdude0 = Hey, Madamım. N'aber? Şuna bakıyordum, tamamen sakin bir bahçeye. Burada çiçekler ve çöp gibi şeyler var.
+//FAZLA KELİME KULLANDIM KONTROL
+fishdude1 = Buradaki balkonun güzel bir manzarası var gibi, bileyun mu?
