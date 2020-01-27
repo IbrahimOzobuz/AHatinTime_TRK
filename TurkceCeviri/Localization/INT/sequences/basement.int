@@ -1,3 +1,4 @@
+//%90
 [basement]
 mail_0 = Çoğu ödenmemiş fatura gibi gözüküyor.
 mail_1 = Aslında mantıklı - bu gezegendeki sinemaları hatırlamıyorsun ve trenleri patlatmak bir sonraki çekimlerde belki de ciddi meblalara neden oluyordur.
@@ -27,5 +28,4 @@ posters_3 = ... senin bu filmlerden tek kuruş alamaman bile mümkün.
 [rift]
 manifest_0 = Bu kutu üzerinde bir kağıt parçası var. Bu sahne dekorları için bir makbuz!
 manifest_1 = Tuhaf - birileri 'Corgi Quest 7' kopyasını bu siparişin içine nakletmiş gibi görünüyor, ama görünen o ki teslimatı düzgün bir şekilde yapılmamış.
-manifest_2 = Onlar bunun yerine balık sandığı almış gibi gözüküyor. Hö.
-//balık dolu bir sandık" daha uyumlu oluyor
+manifest_2 = Onlar bunun yerine balıkla dolu bir sandık almış gibi gözüküyor. Hö.
