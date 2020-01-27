@@ -11,7 +11,7 @@
 > 3. HatinTimeGame/Mods dizinine gelin, dosyanın içerisindeki **TurkceCeviri** klasörünü bu klasör dizinine yapıştırın.
 
 ## Notlar
-### Çevirenin Notları
+### Çevirmen Notları
 > Çeviriye kaldığım yerden devam ediyorum. Çevirisine başladığımdan beri tek başıma çeviriyorum. Keşke motivasyonumu kaybetmeseydim, çeviri belki çok daha önceden bitebilirdi.
 
 > Destek olmanız, ilerlemeye katkı sağlayacaktır.
