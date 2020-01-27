@@ -20,10 +20,10 @@ Title = Pon Hayranı
 Objective = 20 Pon Topla
 50Pons = 50 Pon Topla
 100Pons 100 Pon Topla
-Tip0 = [icon:money] [name]Ponların[/name] ne olduğunu biliyorsun, değil mi? hani şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Ponların[/name] ne olduğunu söyle bana.
+Tip0 = [icon:money] [name]Pon[/name]ların ne olduğunu biliyorsun değil mi? Hani şu küçük yeşil şeyler?[br]Her yerdeler. Lütfen [icon:money] [name]Pon[/name]ların ne olduğunu söyle bana.
 
 [Hat_SnatcherContract_DeathWish_DifficultParade]
-Title = The Great Big Hootenanny
+Title = Koskocaman Büsbüyük Müzik Konseri
 Objective = Geçit Törenini Tamamla
 AllTokens = DJ Grooves jetonlarının bitmesine izin verme
 NoHit = Ekspres Bandosuna çarpma
@@ -35,16 +35,16 @@ Title = Kendini Yoketmeye 10 saniye
 Objective = Tam Zamanındayı tamamla
 NoHat = Şapka yetenekleri yok, One-Hit Hero equipped
 Tokens = Kondüktör jetonlarını topla
-Condition = Baykuş Ekpsresi seferinin gerisinde
+Condition = Baykuş Ekspresi seferinin gerisinde
 //^ olmamış çeviri
-Tip0 = Ne zaman 10 saniye dersem, ciddiyimdir! Çok hızlı olmalısın, ufaklık!
+Tip0 = Ne zaman 10 saniye dersem, ciddiyimdir! Çok hızlı olmalısın ufaklık!
 
 [Hat_SnatcherContract_DeathWish_DeadBirdStudioMoreGuards]
 Title = Güvenlik Zafiyeti
 Objective = Dead Bird Stüdyosunu Tamamla
 NoCaught = Yakalanmadan tamamla
 NoFees = 200,000den daha az bir ceza ile tamamla
-NoFees_Easy = 600,000den daha az bir ceza ile tamamla
+NoFees_Easy = 600,000den daha az bir cezayla tamamla
 Condition = Güvenlik Arttırılmış, belli
 Tip0 = Bu en zor görevin olacak: [name]Baş belası olmamak![/name]
 
@@ -54,9 +54,8 @@ Objective = Tüm Lav musluklarını kapat
 AvoidLava = Ateşlenme!
 MinWater = Kendini 2 kereden fazla soğutma
 Condition = Hava normalden daha sıcak, kendini serinlet!
-Tip0 = Aynı anda yapman gereken görevlerin hakkında endişelenme. [name]Daha sonra gelip[/name] tamamlayabilirsin bile, bunu önemsemem! Gerçekten![br][shake][scream]İHTİYACIN OLDUĞU HER ZAMAN.[/scream][/shake]
-EasyTip = Take a dip after every faucet!
-^ÇEVRİLMEMİŞ!
+Tip0 = Aynı anda yapman gereken görevler hakkında endişelenme. [name]Daha sonra gelip[/name] tamamlayabilirsin bile, bunu önemsemem! Gerçekten![br][shake][scream]İHTİYACIN OLDUĞU HER ZAMAN.[/scream][/shake]
+EasyTip = Her musluktan sonra suya dal!
 
 [Hat_SnatcherContract_DeathWish_NoAPresses]
 Title = Hiç Zıplama
@@ -68,18 +67,18 @@ Tip0 = Ufak bir dokunuşla, şapkan olan [icon:icehat] zıplamaya gerek kalmadan
 
 [Hat_SnatcherContract_DeathWish_FastWindmill]
 Title = Wound-Up Windmill
-Objective = Reach the top of The Windmill
-OneHit = No hat abilities, One-Hit Hero equipped
-TimeLimit = Reach the end in 4 minutes
-TimeLimit_Easy = Reach the end in 10 minutes
-Condition = The Windmill is operating at "peak" performance
+Objective = Yel Değirmeninin zirvesine ulaş
+OneHit = Şapka yeteneği yok, One-Hit Hero equipped
+TimeLimit = Bitişe 4 dakikada ulaş
+TimeLimit_Easy = Bitişe 10 dakikada ulaş
+Condition = Yel Değirmeni "zirve" performansında çalışıyor
 Tip0 = Having trouble with speedy platforms? Try not jumping so high, you'll land sooner. Then try using the platform's [name]momentum[/name] to your advantage![br]Remember kid, [name]timing is everything[/name]!
 
 [Hat_SnatcherContract_DeathWish_SecretVault]
-Title = Secret Vault
-Objective = Open the Golden Vault
-Condition = The Vault Codes have been scattered
-Condition2 = The Vault only partially points to the codes
+Title = Gizli Kasa
+Objective = Altın Kasayı Aç
+Condition = Kasa Kodları etrafa saçılmış
+Condition2 = Kasa sadece only partially points to the codes
 
 [Hat_SnatcherContract_DeathWish_BossRush]
 Title = Boss Rush
