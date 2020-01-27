@@ -1,3 +1,4 @@
+//%90 (27/01//2020)
 [ghostparty]
 PlayerJoin = [name][playername][/name] online partiye katıldı!
 PlayerLeave = [name][playername][/name] online partiden ayrıldı...
