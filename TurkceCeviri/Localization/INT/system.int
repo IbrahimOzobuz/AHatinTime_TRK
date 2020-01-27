@@ -1,5 +1,6 @@
 [Input]
 NewAutoController = Yeni GirdiĞŞğşİı:
+//^ Türkçe Fontu kontrol eder
 ControllerDisconnect = Oyun kolunun bağlantısı kesildi. devam etmek için oyun kolunu yeniden bağlayın.
 
 [levels]
