@@ -22,42 +22,40 @@ captain2 = Tamamdır. İçecekleri, yiyecekleri, ve bambaşka şeyleri de teslim
 captain3 = Oh, Oh, ve burada yapılması gereken başka şeyler de olacak... Bu yüzden gözünü ayırma. Başlamaya hazır mısın?
 captain4 = Well, come back when you are. Bu gemi kendi kendini temizlemeyecek.
 
-captain5 = Güzel. Benim için bu kutulardan kurtulmaya başlayabilirsin. It's starting to get messy in here...
-
-//Burası kirletmeye başlamıştı
-
+captain5 = Güzel. Benim için bu kutulardan kurtulmaya başlayabilirsin. Burada tozlanmaya başlamışlardı...
+//HATALI OLABİLİR 2. kısım
 
 captainFail0 = Tıpkı foklar gibi... bu iyi değil. Sadece daha fazla kargaşa yarattın delikanlı. Tekrar dene. Ya da etme, boşver.
 captainDone0 = Şimdi durabilirsin delikanlı. Dümene geri gel bence.
-captainDone1 = Güzel... looks like you actually cleaned up more mess than you made,,, delikanlı. Bu çoğu mürettebatın becerebileceğindem fazla.
-
-
-captainDone2 = Help yourself to something Kayıp Eşya kutusundan $$. Kimse bu tür şeyler için geri dönmüyor.
-
+captainDone1 = Güzel... görünüşe göre gerçekten yaptığın karmaşayı bile temizledin delikanlı. Bu çoğu mürettebatın becerebileceğindem fazla.
+//Anlam bütünlüğü için karşıtlık çıkartıldı
+captainDone2 = Kayıp Eşya kutusundan alabilirsin. Kimse bu tür şeyler için geri dönmüyor.
+//Anlamı tam vermiyor
 
 yes = Evvet!
 no = Hayıııııır!
 
 [docks]
-captain0 = Uh... you look a little young to be sailing alone, delikanlı.
-captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
+captain0 = Uh... Kendi başına açılmak için fazla genç görünüyorsun delikanlı.
+captain1 = Neyse. Birisinin karşısına çıkma sadece. 'Mürettebat' bunu yeterince yapıyor.
+//^ORTA CÜMLE HATALI
 captain2 = Koridoru gördün mü delikanlı? Ne kargaşa ama...
 captain3 = How is anyone supposed to get up that thing?
-captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
+//^ Nasıl hiç kimse onu gelip alamadı?
+captain4 = Dümdüz yol bile yapamıyorlar. Tamamen ortadan ikiye ayrılmaması şaşırtıcı.
 
 [act3]
 captainbar0 = Meşgul gibi görünmüyor muyum delikanlı? Git başka yerde oyna.
 captainbar1 = Yaşlı kaptan rahatlasın. Foklar gemiyi bir süreliğine idare edebilir.
 captainbar2 = Umarım onlar [hint]dümeni kırmamayı[/hint] öğrenmişlerdir...
 
-
 loudspeaker0 = Mehhaba! Kapdandan bir mesaj-
 loudspeaker1 = Mikrofonu bana ver! [scream]Dümende kim var??![/scream]
-loudspeaker2 = [scream]Buzula çarptık! [br]Hepiniz güverteye![/scream]
+loudspeaker2 = [scream]Buzula çarptık! [br]Herkes güverteye![/scream]
 //burası hatalı olmalı
 
-start0 = It's all going down, delikanlı. Bu günleri görmeyi aklımın ucundan bile geçirmiyordum.
-start1 = Bu gemi de öyle. Won't take more than a few minutes for all of this to hit the sea floor, I think.
+start0 = Her şey kötü gidiyor delikanlı. Bu günleri görmeyi aklımın ucundan bile geçirmiyordum.
+start1 = Bu gemi de öyle. Hepimizin deniz zeminine boylaması birkaç dakikadan fazla uzun sürmez bence.
 start2 = Güzel, belki kendine filika almak isteyebilirsin delikanlı. Bu akıllıca olurdu.
 
 loudspeaker3 = Beni bekleme, delikanlı. Filikaya bin ve çek git.
@@ -72,7 +70,7 @@ carried5 = Boğulmama izin ver, delikanlı!
 
 captain0 = *İç çeker* delikanlı, neden gemimle batıp gitmeme izin vermedin?? Ben boğulmam, ama en azından öyle olmadığıma inanırdım.
 //^ HATALI OLABİLİR
-captain1 = Hmph, ben olmadan bu mürettebat filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
+captain1 = Hmph, ben olmadan bu mürettebat, filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
 captain2 = Umarım sigorta bunu karşılar...
 captain3 = Neyse, iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması tam bir komedi.
 captain4 = Hepsi senindir, delikanlı.
