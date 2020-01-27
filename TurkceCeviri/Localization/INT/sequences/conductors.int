@@ -1,18 +1,20 @@
 [chapter3act1]
 sketch0 = Ehhhh ba ba bab![waitlong] Nireye gittiğini sanıyorsun, kızım?
-sketch1 = Sin artık bir film yıldızısın, kızım! Senin çirkin suratına ihtiyacımız var, böylece bu dünyadaki tüm kuşlar filmimi izlemeye gelcek!
-sketch2 = İşte, şu kalem ve kağıdı al, ve film posterimi yapmaya başla! Kendini sert göster ve yumruk yumruğa kavgaya hazırlan!
-sketch3 = Make sure to give yerself an outfit as well! Her şey nasıl göründüğüne bağlı!
+sketch1 = Sin artık bir film yıldızısın kızım! Senin çirkin suratına ihtiyacımız var, böylece bu dünyadaki tüm kuşlar filmimi izlemeye gelcek!
+sketch2 = İşte, şu kağıt ve kalemi al ve film posterimi yapmaya başla! Kendini sert göster ve yumruk yumruğa kavgaya hazırlan!
+sketch3 = Kendi kostümünü de hazırla! Her şey nasıl göründüğüne bağlı!
 
-sketch_done0 = Eh he he! Elinden gelen her şey bu mu, öyleyse? Tamam, I'll put these up!
+sketch_done0 = Eh he he! Elinden gelenin hepsi bu mu? Tamam, bunları azırlayacağım!
+//2. kısım hatalı olabilir
 sketch_done1 = İçeri geç. Kuş Tarihindeki EN BÜYÜK aksiyon filminin çekimine hazırlanıyoruz!
 sketch_done2 = Bu film BOMBA olacak!! [wave]GWAHAHAHAHA[/wave]!
 sketch_done3 = ... Ve bombayı iyi anlamda demek istedim, peck neck!
 
 trigger_detonation0 = Tamamdır kızım, dinle. Kötü haberlerim var!
-trigger_detonation1 = Az önceki çektigin lövye... trenin kendini yoketme aşamasını başlattı, ve bu şaka değil. Treni havaya uçuracak!
+trigger_detonation1 = Az önceki çektigin lövye... trenin kendini yoketme aşamasını başlattı ve bu şaka değil. Treni havaya uçuracak!
 trigger_detonation2 = I need a movie with some REAL intense action, so that's what we're gonna do! Tren birkaç dakika içinde patlayacak!
 trigger_detonation3 = Ama hepimizi sen kurtarabilirsin, kızım! Get to the switch at the front of the train to turn it off!
+
 trigger_detonation4 = VE SEN ZAMANINDA YAPIYORSUN TAMAM MI ? Baykuşları veya seni umursamıyorum, ama gerçekte trenimi patlatmaya CÜRET ETME! Bu benim bebeğim!
 trigger_detonation5 = The cameras are gonna be rollin' kızım, şimdi acele et! Hadi! Bitti gitti!
 
