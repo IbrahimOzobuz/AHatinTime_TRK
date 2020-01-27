@@ -1,7 +1,9 @@
+//%99 (27/01//2020)
 [Info]
 ActsAvailable0 = Bahsi geçen fırka
 ActsAvailable1 = ormanda uygun olacak:
 Contract = Sözlesme
+//Bilerek yapıldı, Font desteklemiyor (Farklı Font)
 Hostage0 = Şunu rehine olarak tutacağım:
 Hostage1 = ... ama yolda bulduğun her şeyi sakla!
 
