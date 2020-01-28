@@ -1,26 +1,25 @@
 [docks]
-fishdude0 = Hey selam, adamım. Madamım, Demek istedim. Ben güzel bir yolculuk için hazırım gibi, peki ya sen? [br]Hopefully there's nothing fishy about this ship, bilirsin.
-fishdude1 = I got ripped off on a dodgy vacation last year. It was like, not rad at all.
+fishdude0 = Hey selam, adamım. Madamım, Kastettiğim. Ben güzel bir yolculuk için hazırım gibi, peki ya sen? [br]Umarım bu gemide bit yeniği yoktur, bilirsin.
+fishdude1 = I got ripped off on a dodgy vacation last year. It was like, not rad at all. 
 
 //Konuşma pattern'i: Ben gibi=It's like
-
 
 [internal]
 fishdude2 = Oh, hey madamım. Dinleniyordum, bilirsin ve etrafta bu kırılmış camı farkettim. Tuhaf, değil mi?
 fishdude3 = ... Sana mı ait? Ah, havalı bence. Buna karışamam, bilirsin. 
-fishdude4 = Pretty gnarly picking that stuff up with your bare hands, but like, whatever floats your boat, y'know?
+fishdude4 = Çıplak ellerinle tuttuğun şeyler gerçekten harika, ama şey, yine de sen bilirsin, bileyun mu?
+//Yanlış algılanabilir  + Çeviri %90 hatalı
 
 [act3]
-fishdude0 = Like, teşekkürler madamım. Bunu beklemiyordum.
-
+fishdude0 = Şey, teşekkürler madamım. Bunu beklemiyordum.
 fishdude1 = Nasıl gidiyor, madamım? Buranın manzarası, ıssız gibi, hö.
-fishdude2 = Those icebergs are pretty big, ama endişelenme. Bu geminin broşürünü okudum, bu gemi, gibi, batamaz. Asla.
-fishdude3 = Filmlerde olanlar gibi, bileyun mu? Bunun gibi bir gemi, batmayan. Sonunun böyle olmadığını asla görmedim.
-//İRONİ VAR, KONTROL, 3 CONJ KULLANILMAMALI
+fishdude2 = Bu buzullarr oldukça büyük, ama endişelenme. Bu geminin broşürünü okudum, bu gemi, şey, batamaz. Asla.
+fishdude3 = Filmlerde olanlar gibi, bileyun mu? Bunun gibi bir gemi, batmayan. Sonunun böyle olduğunu hiç görmemiştim.
+//İRONİ VAR, KONTROL, Yerelleştirme var
 
-carried0 = Oh! Oldukça güçlü gibisin değil mi?
+carried0 = Oh! Oldukça güçlüymüşsün gibi değil mi?
 
 [fluff]
-fishdude0 = Hey, Madamım. N'aber? Şuna bakıyordum, tamamen sakin bir bahçeye. Burada çiçekler ve çöp gibi şeyler var.
-//FAZLA KELİME KULLANDIM KONTROL
+fishdude0 = Hey, Madamım. N'aber? Şuna bakıyordum, şey, fazlasıyla sakin bir bahçeye. Burada çiçekler ve çöp gibi şeyler var.
+//FAZLA KELİME KULLANDIM KONTROL, tamamen=fazlasıyla diye çevrildi
 fishdude1 = Buradaki balkonun güzel bir manzarası var gibi, bileyun mu?
