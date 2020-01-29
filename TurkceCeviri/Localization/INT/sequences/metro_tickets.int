@@ -1,10 +1,11 @@
+//%99 (29/01//2020)
 [booths]
 ticket_booth0 = Bir Metro Bileti istiyor musun? 
 sold_out0 = Satın aldığınız için teşekkürler!
 
 [helpdesk]
 help_desk0 = Selam! Metro Rehberine ihtiyacın var mı? Eğer GERÇEKTEN kaybolursan, nereye gideceğini gösterecektir!
-help_desk1 = [name]Erişebilirlik Seçeneği[/name][br]Metro karmaşık, açık bir alan, ve bu yüzden gezinti için zor olabilir! Eğer keşfetmekle istemiyorsan ve hedefini bulmak için biraz yardım almak istyorsan, bu yönergeler takip edebileceğin açık bir patika gösterecektir. Keşfe odaklanmak istersen, onu kapatabilirsin.
+help_desk1 = [name]Erişebilirlik Seçeneği[/name][br]Metro büyük ve karmakarışık bir alan ve bu yüzden gezinti için zor olabilir! Eğer keşfetmek istemiyorsan ve hedefini bulmak için biraz yardım almak istyorsan, bu yönergeler takip edebileceğin açık bir patika gösterecektir. Keşfe odaklanmak isterseniz bunu kapatabilirsin.
 help_desk2 = Yardıma ihtiyacın var mı?
 help_desk3 = Yani, ne diyorsun? Rehbere ihtiyacın var mı?
 guide_bought = Yönergeleri açmak veya kapatmak ister misin?
