@@ -39,34 +39,39 @@ empress_tp3_2 = Şimdi, be a worthwhile little investment ve başkasını bul. [
 empress_tp3_3 = Kedilerim ve ben onları... işimiz için kullanıyorum. Bastığın yere dikkat et.
 
 [timepiece4]
-empress_tp4_0 = Tebrikler. Örgütüm her zaman senin gibi daha çok insan kullanabilir.
-empress_tp4_1 = Burada senin için bir yerim var, uğratma beni... hayal kırıklığına.
+empress_tp4_0 = Tebrikler. Örgütüm her zaman senin gibi daha çok insanı kullanabilir.
+empress_tp4_1 = Burada senin için bir yerim var, şuna uğratma beni... hayal kırıklığına.
 empress_tp4_2 = Halen, küçük koleksiyonumun henüz tamamlanmadığını duyuyorum. Bu yüzden, işine geri dön.
 empress_tp4_3 = Ve mükemmel ol. Aranmadık yeri bırakma, duydun mu?
 
 [timepiece5]
 empress_tp5_0 = Beşinci mi? Beni şaşırtmaya devam ediyorsun.
-empress_tp5_1 = Metromda keyifli vakti geçiriyor musun? There's people from all over here.
-empress_tp5_2 = Bu yer yalan söylemek için mükemmeldir. Biraz da hile... biraz da çalıntı.
+empress_tp5_1 = Metromda keyifli vakti geçiriyor musun? Burada her türden kişi var.
+empress_tp5_2 = Bu yer yalan söylemek için mükemmeldir. Biraz da hile... biraz da hurda.
+//Çalıntı -> hurda
 empress_tp5_3 = You've almost earned yourself a real cut of the action here. Neredeyse.
 
 Sen neredeyse x kazandın
 
-
 [timepiece6]
 empress_tp6_0 = Bir başkası? Fazla bir şey kalmış olmamalı.
 empress_tp6_1 = Başarıyla durduğum bir operasyon geliyor. Bir taşıma işi.
-empress_tp6_2 = Bana daha fazlasını getir ve there won't be a cat in this city with more scratch than me.
+//^HATALI
+empress_tp6_2 = Bana daha fazlasını getir ve burada benden daha zengin bir kedi olmayacak.
 
 [timepiece7]
-empress_tp7_0 = Yedi. Bazıları için bu şanslı bir sayıdır, bilirsin.
-empress_tp7_1 = Beklentin mi var, çocuk? Büyüyünce yapmak istediğin şeyler mi?
-empress_tp7_2 = Kullanışlı olmaya devam et, ve dışarıda ulaşamayacağından daha fazla şey olmayacak.
+empress_tp7_0 = Yedi. Bazılarının şanslı sayısıdır, bilirsin.
+empress_tp7_1 = Neyi bekliyorsun çocuk? Büyüyünce yapmak istediğin şeyler mi var?
+//^Ekstra cümle
+empress_tp7_2 = İşe yarar olmaya devam et, ve dışarıda ulaşamayacağından daha fazla şey olmayacak.
+//^Anlam karmaşası
 
 [timepiece8]
 empress_tp8_0 = Sekinci? Hm... bu güzel.
-empress_tp8_1 = Senin için, daha fazla para demek. Sana, seni zengin yapabilirim demiştim ve ben sahip olduklarıma yalan söylemem.
+empress_tp8_1 = Senin için daha fazla para demek. Sana seni zengin yapabilirim demiştim ve ben sahip olduklarıma yalan söylemem.
+//^HATALI OLABİLİR Sahip olduklarıma?
 empress_tp8_2 = Şimdi, benim için... peki, bu BENİM işim. Yeteneklerine ihtiyacım olduğunda seni yeniden çağıracağım, çocuk.
+//^1. cümle hatalı
 empress_tp8_3 = Şimdilik, kazandıklarını keyfini çıkar. Gitmem gereken yerler ve hazırlanmam gerekenler var.
 
 [timepiece9]
