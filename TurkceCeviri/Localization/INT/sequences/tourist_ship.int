@@ -1,7 +1,8 @@
 [docks]
-tourist0 = Hey çocuk! Bugünlerde güneş bulmanın ne kadar zor olduğunu biliyor musun? Bu lanet Steve, her zaman bir adım önde...
-tourist1 = Neyse, I thought I'd take some time off to relax! Bu işler tıkırında olmalı değil mi, hı?
+tourist0 = Hey veled! Bugünlerde güneş bulmanın ne kadar zor olduğunu biliyor musun? Bu lanet Steve, her zaman bir adım önde...
+tourist1 = Neyse, biraz da olsam işlerden kaytarmak isterdim! İşler tıkırında olmalı değil mi?
+//^HATALI olması çok yüksek
 
 [fluff]
-tourist0 = Kinda hoping we pass close by an island or something soon. Resim çekecek bir şey bulmalıyım!
-adaya ya da x geçeceğimizi umuyorum.
+tourist0 = Umarım ada veya benzeri şeylerin yakınlarından geçeriz. Resim çekecek bir şey bulmam lazım!
+^1. ÇEVİRİ UNNATURAL
