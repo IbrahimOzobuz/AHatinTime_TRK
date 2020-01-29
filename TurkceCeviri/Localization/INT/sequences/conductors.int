@@ -1,3 +1,4 @@
+//%70 (29/01//2020)
 [chapter3act1]
 sketch0 = Ehhhh ba ba bab![waitlong] Nireye gittiğini sanıyorsun, kızım?
 sketch1 = Sin artık bir film yıldızısın kızım! Senin çirkin suratına ihtiyacımız var, böylece bu dünyadaki tüm kuşlar filmimi izlemeye gelcek!
@@ -8,7 +9,7 @@ sketch_done0 = Eh he he! Elinden gelenin hepsi bu mu? Tamam, bunları azırlayac
 //2. kısım hatalı olabilir
 sketch_done1 = İçeri geç. Kuş Tarihindeki EN BÜYÜK aksiyon filminin çekimine hazırlanıyoruz!
 sketch_done2 = Bu film BOMBA olacak!! [wave]GWAHAHAHAHA[/wave]!
-sketch_done3 = ... Ve bombayı iyi anlamda demek istedim, peck neck!
+sketch_done3 = ... Ve bombayı iyi anlamda demek istedim, gaga kafa!
 
 trigger_detonation0 = Tamamdır kızım, dinle. Kötü haberlerim var!
 trigger_detonation1 = Az önceki çektigin lövye... trenin kendini yoketme aşamasını başlattı ve bu şaka değil. Treni havaya uçuracak!
@@ -33,17 +34,10 @@ Eğer ben gaga kafalıların
 intro2 = NE?! Hayır yapmadık, seni soytarı!
 intro3 = Ah evet?
 intro4 = Well, bu zaman zarfında, we're ALSO spicing it up with our newest film butaforuprop!
-
-
-
 biz AYRICA
 
 //HATALI ^
-intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsileri[/timepiece] will be the grand jewel in our train heist western!
-
-
-tren soyhg
-
+intro5 = Bu [icon:timepiece][timepiece]kum saati şeyimsileri[/timepiece]ni tren soygunumuzda en kıymetli şeyler olacak!
 intro6 = .......
 intro7 = [scream][big]NEEEEEEEEE?![/big][/scream]
 intro8 = Siz berbat kokuşmuş gaga kafalılar! Siz bizim butaforumuzu kopyalamışsınız!
