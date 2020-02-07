@@ -1,83 +1,38 @@
+//Aşçı/Şef Kedi çevrilmedi= Cooking Cat olarak kaldı
 [mafia_hq]
-intro0 = Mafya yemek yapmada berbat![br]Ama korkma, [name]Cooking Cat[/name] burada!
+intro0 = Mafya yemek yapmakta berbat![br]Ama korkma, [name]Cooking Cat[/name] burada!
 intro1 = Gerçek yemeği burada hazırlıyorum ve Mafyanın pişirdiği yemeği kimse yemeden değiştiriyorum.
 intro2 = Bundan kesinlikle eminim ki, birisi Mafyanın hazırladığı yemeği yeseydi ölürdü!
 
 [spaceship]
-firstdecoration0 = Ne kadar güzel bir uzay gemin varmış! İzinsizce girdiğim için özür dilerim, I just really wanted to see what an alien spaceship is like.
+firstdecoration0 = Ne kadar güzel bir uzay gemin varmış! İzinsizce girdiğim için özür dilerim, bir uzaylı uzay gemisinin nasıl göründüğünü gerçekten görmek istemiştim.
+firstdecoration1 = Bilirsin, ben uzaylıların daha yeşil ve kana susamış olmasını beklerdim. Ama siz uzaylıların şekli şemalı farklı olsa gerek, değil mi?
+firstdecoration2 = Hey, eğer gezegenimizi keşfetmeyi düşünüyorsan, ilk önce şunu anlaman gerekiyor. Yoksa çime veya bataklıkta bastığını bilemezsin!
+firstdecoration3 = Sen [icon:relic][name]kalıntılar[/name]ı nasıl tanıyacağını bilmiyor musun? Korkma, [name]Cooking Cat[/name] burada!
+firstdecoration4 = Sana bu [name]Burger minderi[/name] kalıntısını bedavaya vereceğim!
+firstdecoration5 = Bu [icon:relic][name]kalıntı[/name]yı podyumlarda tanımlayabilirsin! Podyumlara doğru sırayla yerleştirirsen, belki bir anlam ifade edebilir.
+//^ yanlış olabilir son cümle. --- 6. sense yok
+firstdecoration7 = Bir [icon:relic][name]kalıntı[/name]yı tanımlayabilirsen,[br]güzel bir şeyler olabilir! Kim bilir? Bu yüzden kalıntılara karşı gözün açık olsun.
+//^Ünlem cümlesi, soruya dönüştürüldü
+firstdecoration8 = Kalıntılar hakkında bildiğim her şeyi sana öğrettim!
 
-Uzaylı uzay gemisinin nasıl göründüğünü gerçekten görmek istemiştim.
-
-
-
-
-
-
-firstdecoration1 = You know, I expected aliens to be more green and probably with a thirst for flesh. But I guess you aliens come in all shapes and sizes, huh?
-firstdecoration2 = Hey, if you're looking to explore our planet, you'll need to understand it first. Otherwise you won't know if you're stepping on grass or quicksand!
-firstdecoration3 = Don't know how to identify [icon:relic][name]relics[/name]? Fear not, [name]Cooking Cat[/name] is here!
-firstdecoration4 = I'll let you have this [name]Burger Cushion[/name] relic for free!
-firstdecoration5 = You can identify this [icon:relic][name]relic[/name] at the podium! If you place them on the podium in the correct order, you might be able to make sense of it.
-firstdecoration7 = If you're able to identify a [icon:relic][name]relic[/name],[br]something great might happen! You never know! So keep an eye out for relics.
-firstdecoration8 = Kalıntılar hakkında bildiğim herşeyi sana öğrettim!
-
-cooking0 = Oh, hey! Umarım mutfağını kullanmama izin verirsin. I figured I'd treat you to some nice earth food, since you're an alien and all.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-uzaylı olmana rağmen
-
-
-
-cooking1 = Desene, are you a steak kinda person, or a veggie kinda person?
+cooking0 = Oh, hey! Umarım mutfağını kullanmama izin verirsin. Bazı dünya yemeklerini ikram edebilirim, senin uzaylı olmana rağmen vesaire.
+//Anlam oluşturmak zorunda kaldım.
+cooking1 = Söylesene, et mi seversin, vejetaryen birisi misin?
+//^Burası bu tür insanlar için anlam ifade etmeyebilir
 cooking_q_steak = Etobur
-cooking_q_veggie = Vejeteryan
-cooking2_steak = Öyle mi? Güzel, I hope you're not looking to cook up some earthlings anytime soon!
-
-Umarım hemen bir şeyler dünyalı bir şeyler pişirmeme
-
-cooking2_veggie = Öyle mi? I guess you aliens have more in common with, uhhh, ants and stuff?
-
-cooking3 = Neyse, Yemeğim umarım yemeğim ayrılmadan önce hazır olur. I wanna see how great a dish I can cook using an alien stove!
-
-
-
-
-
-
-
-
-
-
-
-
-Nasıl olduğunu
-
-asıl güzel yemekler yapabileceğimi görmek istiyorum!
-
-cooking4 = Biliyor musun, I kinda imagined an alien stove to be a bit more technologically advanced.
-^uzaylı ocağının biraz daha teknolojik olarak gelişmiş oldunu hayal etmiştim.
+cooking_q_veggie = Vejetaryen
+cooking2_steak = Öyle mi? Güzel, umarım hemen dünyalı bir şeyler pişirmemi beklemiyorsundur!
+cooking2_veggie = Öyle mi? Umarım siz uzaylılar şunlara alışıksındır, uhhh, karınca ve diğer şeylere?
+cooking3 = Neyse, Yemeğim umarım yemeğim sen ayrılmadan önce hazır olur. Bir uzaylı ocağında ne güzel yemekler pişirebileceğimi görmek istiyorum!
+cooking4 = Biliyor musun, uzaylı ocağının biraz daha teknolojiksel olarak gelişmiş olacağını düşünmüştüm.
 
 [finale]
-outside0 = Hararetli mutfaklarda daha önce bulunmuştum, ama bu başka bir şey! Nasıl tek bir damla ter dökmezsin bilmiyorum, ama pişiyorum.
-//^Hararetli kelimesi sıkıntılı bir kelime olabilir. Pişiyorum=Yanıyorum
+outside0 = Kavurucu mutfaklarda daha önce bulunmuştum ama bu başka bir şey! Nasıl tek bir damla ter dökemezsin bilmiyorum ama pişiyorum.
+//^Hararetli kelimesi sıkıntılı bir kelime olabilir. Pişiyorum=Yanıyorum Hareretli->Kavurucu
 outside1 = Belki sen bu kuyruğu atlatabilir ve baş şefin kim olduğunu bulursun, değil mi çocuk? 
-ninjacat0 = Meow.
+ninjacat0 = Miyav.
 ninjacat1 = Rrrreeow.
-ninjacat2 = [wave]Mrrroooowww.[/wave]
+ninjacat2 = [wave]Mırraaaav.[/wave]
 ninjacat3 = Belli ki sen kedilerin bu kıtasal lehçesini konuşmuyorsun.
 group_counter0 = Evet! Kaybol!
