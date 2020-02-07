@@ -6,7 +6,8 @@ speaker2 = Dikkat yolcular ve 'mürettebat'.
 speaker3 = Gemi limandan ayrılıyor. Lütfen sıkı tutunun.
 speaker4 = [wave]Ding! Dong! Ding! Dong![/wave]
 
-captain0 = Meşgulüm, delikanlı. Bu gemi kendi kendini sürmüyor.
+captain0 = Meşgulüm, delikanlı. Bu gemi kendini sürmüyor.
+//^Kendi kendini çıkartıldı
 captain1 = Meşgulüm dedim delikanlı.
 captain2 = Yapacak başka bir işin yok mu?
 captain3 = Bana bunun için yeterince ödeme yapmıyorlar...
@@ -30,7 +31,6 @@ captainDone0 = Şimdi durabilirsin delikanlı. Dümene geri gel bence.
 captainDone1 = Güzel... görünüşe göre gerçekten yaptığın karmaşayı bile temizledin delikanlı. Bu çoğu mürettebatın becerebileceğindem fazla.
 //Anlam bütünlüğü için karşıtlık çıkartıldı
 captainDone2 = Kayıp Eşya kutusundan alabilirsin. Kimse bu tür şeyler için geri dönmüyor.
-//Anlamı tam vermiyor
 
 yes = Evvet!
 no = Hayıııııır!
@@ -38,39 +38,36 @@ no = Hayıııııır!
 [docks]
 captain0 = Uh... Kendi başına açılmak için fazla genç görünüyorsun delikanlı.
 captain1 = Neyse. Birisinin karşısına çıkma sadece. 'Mürettebat' bunu yeterince yapıyor.
-//^ORTA CÜMLE HATALI
 captain2 = Koridoru gördün mü delikanlı? Ne kargaşa ama...
-captain3 = How is anyone supposed to get up that thing?
-//^ Nasıl hiç kimse onu gelip alamadı?
-captain4 = Dümdüz yol bile yapamıyorlar. Tamamen ortadan ikiye ayrılmaması şaşırtıcı.
+captain3 = Nasıl birisi de bu şeyi düzene sokamadı?
+captain4 = Düz yol bile yapamıyorlar. Geminin ortadan ikiye ayrılmaması şaşırtıcı.
+//^Gemi" anlam bütünlüğü için eklendi
 
 [act3]
-captainbar0 = Meşgul gibi görünmüyor muyum delikanlı? Git başka yerde oyna.
+captainbar0 = Meşgulmüş gibi görünmüyor muyum delikanlı? Git başka yerde oyna.
 captainbar1 = Yaşlı kaptan rahatlasın. Foklar gemiyi bir süreliğine idare edebilir.
-captainbar2 = Umarım onlar [hint]dümeni kırmamayı[/hint] öğrenmişlerdir...
+captainbar2 = Umarım [hint]dümeni kırmamayı[/hint] öğrenmişlerdir...
 
 loudspeaker0 = Mehhaba! Kapdandan bir mesaj-
-loudspeaker1 = Mikrofonu bana ver! [scream]Dümende kim var??![/scream]
-loudspeaker2 = [scream]Buzula çarptık! [br]Herkes güverteye![/scream]
-//burası hatalı olmalı
+loudspeaker1 = Mikrofonu bana ver! [scream]Dümende kim var?![/scream]
+loudspeaker2 = [scream]Buzula çarptık! [br]Herkes iş başına![/scream]
 
 start0 = Her şey kötü gidiyor delikanlı. Bu günleri görmeyi aklımın ucundan bile geçirmiyordum.
 start1 = Bu gemi de öyle. Hepimizin deniz zeminine boylaması birkaç dakikadan fazla uzun sürmez bence.
 start2 = Güzel, belki kendine filika almak isteyebilirsin delikanlı. Bu akıllıca olurdu.
 
-loudspeaker3 = Beni bekleme, delikanlı. Filikaya bin ve çek git.
+loudspeaker3 = Beni bekleme delikanlı. Filikaya bin ve çek git.
 loudspeaker4 = Bu lanet gemi benim ve onunla beraber batacağım.
 
-carried0 = Beni yere bırak, delikanlı!
-carried1 = Bırak beni! Bırak beni, delikanlı ol!
+carried0 = Beni yere bırak delikanlı!
+carried1 = Bırak beni! Olduğu gibi bırak beni!
 carried2 = Ne kadar da güçlüsün?!
 carried3 = Beni. Yere. Bırak!
 carried4 = Gemimle batmama izin ver!
 carried5 = Boğulmama izin ver, delikanlı!
 
-captain0 = *İç çeker* delikanlı, neden gemimle batıp gitmeme izin vermedin?? Ben boğulmam, ama en azından öyle olmadığıma inanırdım.
-//^ HATALI OLABİLİR
-captain1 = Hmph, ben olmadan bu mürettebat, filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
+captain0 = *İç çeker* delikanlı, neden gemimle batıp gitmeme izin vermedin? Ben boğulmam, ama en azından öyle olmadığıma inanabilirdim.
+captain1 = Hmph, ben olmadan bu mürettebat filikalarla asla kıyıya varamaz. Güzel. Mürettebat, haydi eve gidelim.
 captain2 = Umarım sigorta bunu karşılar...
-captain3 = Neyse, iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması tam bir komedi.
+captain3 = Neyse, iade yok, ama buzuldaki parlak şey de nedir öyle? Gemimizin bunun yanına çarpması da cabası.
 captain4 = Hepsi senindir, delikanlı.
