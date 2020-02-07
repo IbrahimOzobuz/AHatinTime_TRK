@@ -1,28 +1,31 @@
 [internal]
-conductor0 = Heyy... Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve make the good part a double.
-conductor1 = Oh, senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, are değil mi?
-conductor2 = If yer after a drink, I think they might have some wee bottles of juice. 
-conductor3 = Yer a capable one, sure, but what I'm having isnae for young lasses.
+conductor0 = Heyy... Batan bir Gemi getir bana, kayalıkların üzerinde olsun. Ve onu ortadan ikiye güzelcene ayır.
+conductor1 = Oh, senin orda olduğunu farketmemiştim, kızım. Seyahate çıktık, değil mi?
+conductor2 = İçtikten sonra, bence onlar they might have some wee bottles of juice. 
+//Cümleyi anlamadım
+conductor3 = Yetenekli birisisin, elbette, fakat what I'm having isnae for young lasses.
+//Cümle saçma oluyor= genç kızlara karşı hiç öyle değilim.
 
 [act2]
-conductor0 = [wave].....hic....Ooh, selam, kızım![/wave]
-conductor1 = [wave]Nasıl, nasıl gidiyor, he? İyi bir tatil geçiriyor musun, kızım?[/wave]
-conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben, ve benim şuradaki küçük arkadaşlarım. Hayat budur, he?[/wave]
-conductor3 = [wave]... Geminin kalanının nasıl olduğunu merak ediyorum...[wave]
+conductor0 = [wave].....hık....Ooh, selam, kızım![/wave]
+conductor1 = [wave]Nasıl, nasıl gidiyor, hı? İyi bir tatil geçiriyor musun, kızım?[/wave]
+conductor2 = [wave]Ah, benim için. Grooves yok, film yok. Sadece ben ve benim şuradaki küçük arkadaşlarım. Hayat budur, hı?[/wave]
+conductor3 = [wave]... Geminin geri kalanının nasıl olduğunu merak ediyorum...[wave]
 
 [docks]
-conductor0 = Well, if it isn't the little lass. How's stardom treating ya?
-conductor1a = Tell you the truth, I'm taking some time off after that [br]peck-neck [icon:djgrooves] [name]DJ[/name] tried tae to, well, y'know.
-conductor1b = Oh, and sorry about the whole... knife incident. [br]What's a wee argument between colleagues though, lassy?
+conductor0 = Peki, if it isn't the little lass. Yıldız olmak nasıl gidiyor?
+conductor1a = Tell you the truth, I'm taking some time off after that [br]gaga kafalı [icon:djgrooves] [name]DJ[/name] tried tae to, peki, biliyosun.
+conductor1b = Oh ve tüm bu... bıçak vakasında üzgünüm. [br]What's a wee argument between colleagues though, lassy?
 conductor1c = I'm taking some time off tae relax. Get away from that noisy [br][icon:djgrooves][name]DJ Grooves[/name] fer a while.
-conductor2 = Anyway, I'd better go ask about the childcare on board. I love these little blighters, but I cannae bring them to the bar with me can I?
+conductor2 = Neyse, I'd better go ask about the childcare on board. Bu küçük delikanlıları seviyorum ama onları bar'a götüremem, yoksa?
+//^Yoksa ek cümle olarak eklendi
 
 [act3]
 finale0 = Bekle, kızım, nireye gidiyon? Onu kurtaracak mısın?
-finale1 = I'm not gonna hang around a sinking ship! If you don't make it back quick, we'll leave without yer!
+finale1 = Ben batan bir gemide oyalanamam! Eğer çabuk dönemezsen, sensiz ayrılacağız!
 
-conductor0 = O kız nerede? Bu gemi batıyor, biz şimdi buradan çıkmalıyız!
-conductor1 = [scream]Buraya gel, kızım! Şimdi ayrılıyoruz ŞİMDİ!![/scream]
+conductor0 = O küçük kız nerede? Bu gemi batıyor, biz şimdi buradan ayrılmalıyız!
+conductor1 = [scream]Buraya gel, kızım! Şimdi ayrılıyoruk ŞİMDİ!![/scream]
 
 conductor2 = Hayhay, teşekkürler kızım. Küçükler henüz yüzmeyi öğrenemedi!
 
