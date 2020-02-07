@@ -1,15 +1,18 @@
 [deadbird]
 lobby_a0 = Hey! Nereye gittiğine dikkat et, kardeş![br][icon:djgrooves][name]DJ Grooves[/name]'un yanına yaklaşma, tamam mı?
-lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] bizim için çok şey ifade ediyor, bu yüzden onu koruyacağız. Don't you think of anything, yeah? Seni izliyorum kardeş. Gözler üstünde.
+lobby_a1 = [icon:djgrooves][name]DJ Grooves[/name] bizim için çok şey ifade ediyor, bu yüzden onu koruyacağız. Öyle düşünmüyor musun, hı? Seni izliyorum kardeş. Gözler üzerinde.
 
-lobby_b0 = Parmaklarımı görüyor musun? Nasıl şıklattığımı görüyor musun?[br]That is the universal bird sign for "beat it".
-lobby_b1 = Bir bak, parmaklarım have taken a liking to you. Look at them go. Snap, snap, snap. You catch my drift?
+lobby_b0 = Parmaklarımı görüyor musun? Nasıl şıklattığımı görüyor musun?[br]Bu kuş dilinde bu 'defol git'.
+//Beat it, MJ şarkısı referansı
 
-lobby_c0 = Kuş değilsin de mi, de mi? Öyleyse ne seni Dead Bird Stüdyosuna getirdi? Yanıtlamadan önce, DJ Grooves'un son filmini izlemelisin. Film gerçekten iyi, ve bana bunu demek için ödeme yapılmadı. Sahi mi!
+lobby_b1 = Bir bak, parmaklarım sana bakıyor. Ne yaptıklarına bak. Çıt, çıt, çıt. Ne dediğimi kaptın?
+//1. Çevirinin anlamı komple değiştirildi, bu bir genç oyunu
 
-lobby_d0 = Hey, köçük kız! Bizim [icon:djgrooves][name]DJ Grooves[/name] hayran kulübümüze katılmalısın. Üyelik kartı ve her şeyi alacaksın. Bu gerçekten any movie-going bird için iyi bir teklif.
+lobby_c0 = Kuş değilsin de mi, de mi? Öyleyse Dead Bird Stüdyosuna seni ne getirdi? Yanıtlamadan önce, DJ Grooves'un son filmini izlemelisin. Film gerçekten iyi ve bana bunu demek için ödeme yapılmadı. Sahi mi!
 
-lobby_e0 = Bunu kimseye söyleme, ama önceden [icon:djgrooves][name]DJ Grooves[/name] filmlerden etkilenirdi, o cidden bir gece kulübü işletti. Biliyorum, çılgınca, de mi? Kimin aklına gelirdi ki.
+lobby_d0 = Hey, köçük kız! Bizim [icon:djgrooves][name]DJ Grooves[/name] hayran kulübümüze katılmalısın. Bir üyelik kartı ve her şeyi alacaksın. Bu gerçekten sinemaya giden kuşlar için iyi bir teklif.
+
+lobby_e0 = Bunu kimseye söyleme, ama önceden [icon:djgrooves][name]DJ Grooves[/name] filmlerden etkilenirdi, o cidden bir gece kulübü işletti. Biliyorum, çılgınca, değil mi? Kimin aklına gelirdi ki.
 
 [finale]
 outside0 = Bas git, çocuk. [br] Sıraya girmeye çalışıyorum.
@@ -20,4 +23,4 @@ group_counter0 = Kaybol! Değil mi, çete?!
 group_counter1 = Kaybol!
 group_counter2 = Evet, kaybol!
 group_counter3 = Git buradan!
-group_counter4 = Berbatsın!
+group_counter4 = Kötüsün!
