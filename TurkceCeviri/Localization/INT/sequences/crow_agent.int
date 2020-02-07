@@ -1,28 +1,28 @@
 [murder]
-IntroMaidenName0 = A, selam, baykuş dostum. I don't believe we've had the pleasure of meeting?
-IntroMaidenName1 = Sana diyebilirim ki, ben de bir Ekspres baykuşuyum. I do much hooting.
-IntroMaidenName2 = Bir baykuştan diğerine, bilgi verebilir miyiz, evet mi? Amcanın kız kardeşinin kızlık adı nedir?
-IntroMaidenName3 = Oh, bu [name][MotherMaidenName][/name] mu? Anladım, anladım. This is the kind of uncle's sister's maiden name I would expect from a fellow Express Owl.
-Bu, amcanın kız kardeşinin kızlık adı Ekspres baykuşu dostumdan bekleyebileceğim türden bir şey.
-IntroMaidenName4 = Umarım bir gün [name][MotherMaidenName][/name] ile tanışırız, as us Express Owls enjoy meeting the family of our fellow owls.
+IntroMaidenName0 = A, selam, baykuş dostum. Tanışma zevkine ortak olduğumuza inanamıyorum!
+//^Cümle soru cümlesinden ünleme çevrildi. --- Tanışma zevki bir anlam ifade etmiyor, cümle tamamen yanlış olabilir
+IntroMaidenName1 = Sana diyebilirim ki, ben de bir Ekspres baykuşuyum. Çok gevezeyim.
+//Tanıdık bir cümle değil, son cümle. Çok öttüm=gevezeyim, insanlaştırıldı, cümle düşük olabilir
+IntroMaidenName2 = Bir baykuştan diğerine, bilgi aktarabilir miyiz, evet mi? Amcanın kız kardeşinin kızlık adı nedir?
+IntroMaidenName3 = Ah, bu [name][MotherMaidenName][/name] mu? Anladım, anladım. Bu türden bir kız kardeşinin kızlık adını ancak ekspres baykuşu bir dostumdan bekleyebilirdim.
+//^Ek cümleler kullandım
+IntroMaidenName4 = Umarım bir gün [name][MotherMaidenName][/name] ile tanışırız, biz ekspres baykuşlarının diğer aile dostu baykuş bireyleriyle tanışmayı sevdiği gibi.
+//Cümle uzun, tüm sözcükler kullanıldı, TR açısından hatalı.
 
-
-
-biz Ekspres Baykuşlarının yaptığı gibi.
-
-BlackboardHelp0 = Selam, Ekspres baykuşu dostum. I am stuck on an advanced mathematical and scientific issue.
+BlackboardHelp0 = Selam, Ekspres baykuşu dostum. Bu ileri matematiksel ve bilimsel soruda tıkandım.
 BlackboardHelp1 = Kara tahtadaki gelişmiş ileri formülü görüyor musun? Çözemiyorum.
 BlackboardHelp2 = Bilimsel formülü benim için çözer misin? Ne anlatmak istiyor?
-BlackboardHelp3 = Anladım! Çözüm [BlackboardSolution]! It was obvious! Thank you, fellow Express Owl.
-BlackboardHelp4 = And thank you for agreeing to the terms and conditions on the back side of the blackboard.
+BlackboardHelp3 = Anladım! Çözüm [BlackboardSolution]! Belliydi! Teşekkürler, ekspres baykuşu dostum.
+BlackboardHelp4 = Ve kara tahtanın arkasındaki şartlar ve koşulları kabul ettiğiniz için teşekkürler.
 
-Pet0 = Did you know that having a pet helps improve self-confidence and relieves stress?
-Pet1 = Did you also know that pets can have pets? It is true!
-Pet2 = Unfortunately, us Express Owls are not allowed to have pets. It is a sacrifice we must make in the name of hooting.
-Pet3 = But, if you had a pet, what do you think the name of your pet's childhood pet would be?
-Pet4 = [PetName] is certainly an interesting name for a pet. Even for a pet's pet.
+Pet0 = Evcil hayvanların kendine güveni arttırdığını ve stresi azalttığını biliyor muydun?
+Pet1 = Evcil hayvanların evcil hayvan edinebileceğini biliyor muydun? Bu doğru!
+//Cümle ekonomik değil
+Pet2 = Ne yazıkki, biz Ekspres Baykuşları evcil hayvan sahibi olmamıza izin yok. It is a sacrifice we must make in the name of hooting.
+Pet3 = Fakat, evcil hayvanın olsaydı, çocukluğundaki evcil hayvanı adının ne olmasını isterdin?
+Pet4 = [PetName] kesinlikle evcil hayvan için ilginç bir ad. Evcil hayvanın, evcil hayvanına göre olsa bile.
 
-Password0 = Hello, fellow Express Owl. Do you care about security? I care about security a whole lot.
+Password0 = Selam, ekspres baykuşu dostum. Güvenliği önemser misin? Güvenliği oldukça önemserim.
 Password1 = You should not be going around telling information to strangers. It could be a security risk!
 Password2 = I can help your daily life become more secure. What is your favorite combination of letters and numbers?
 Password3 = I see, I see. [FavoritePassword] is also my favorite combination of letters and numbers.
@@ -70,7 +70,7 @@ BodyPartChatter3 = I've never seen such[br]terrifying [BodyPartName]
 BodyPartChatter4 = I asked her[br]about her least[br]favorite body part
 
 [finale]
-outside0 = Greetings, fellow [br]alleged criminal. There [br]are very many of us.
+outside0 = Selamlar, fellow [br]alleged criminal. There [br]are very many of us.
 outside1 = We are all here for crimes. Allegedly. What alleged crime did you commit, fellow criminal?
 outside1a = What legal term would you use to describe your crime?
 outside1b = I see. So this is the face of [Crimes].
