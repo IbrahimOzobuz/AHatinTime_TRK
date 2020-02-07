@@ -10,24 +10,23 @@ SecondTip2 = [shake2]İpucu olmadan parmağınla birini gösteremezsin.[br]Zaman
 
 PetTrap0 = [shake2]Pes etmeyeceksin, değil mi?[/shake2]
 PetTrap1 = [shake2]Senden kurtulmamın tek yolu bu gibi gözüküyor... zamanının tükenmesini sağlamak.[/shake2]
-PetTrap2 = [shake2]So here's a fun time-eater: [PetName] has gotten itself in an[br]unusual situation. It's hanging onto a thin rope for dear life, just above a wood cutting machine. What an odd coincidence![/shake2]
-PetTrap3 = [shake2]What are you gonna do?[br]Save [PetName] from becoming saw dust, or figure out who the murderer is?[/shake2]
+PetTrap2 = [shake2]İşte eğlencelik bir zaman tüketici: [PetName] hkendini olağandışı bir[br]durumda buldu. Biricik canı incecik bir ipte sallanıyor, üstünde odun kesme makinesi var. Ne tuhaf tesadüf ama![/shake2]
+PetTrap3 = [shake2]Ne yapacaksın?[br][PetName] un ufak olmak olmaktan kurtaracak mısın, yoksa katilin kim olduğunu mu bulacaksın?[/shake2]
 
 DogThankYou0 = Beni kurtardığın için teşekkürkler kibar insan canlısı. Hav. Hav.
 DogThankYou1 = Katilde bu ipucunu buldum. Umarım bu yardımcı olur. Hav. Hav.
 
 PetWarning0 = [shake2][PetName] asılı bırakmak isteddiğine emin misin?[/shake2]
 //^HATALI
-PetWarning1 = [shake2]Neden etrafta dolaşmıyor ve give [PetName] a[br]little time-consuming help before it's too late?[/shake2]
+PetWarning1 = [shake2]Neden etrafta dolaşmıyor ve çok geç olmadan [PetName] a[br]zaman tüketici yardıma el uzatmıyorsun?[/shake2]
 
 suspect_mothermaiden0 = ...
 suspect_mothermaiden1 = Tamamdır, beni yakaladın, canım.
 suspect_mothermaiden2 = Farkındaysan, canım, ben gerçekten Bayan [MotherMaidenName] değilim. Bu benim, [icon:djgrooves][name]DJ Grooves[/name]!
-suspect_mothermaiden3 = I know you've been having troubles shooting a movie, canım, bu yüzden ben bu planı sana ilginç bir film hikayes yaratmak için yardımcı oldum!
-suspect_mothermaiden4 = ***Ekspres Baykuşu beni bıçağı saplamak ve beni ölü numarası yapmak için yeterince kibardı.
-//^HATALI, (3 yıldız)
-
-ending_revealed0 = Beni iyi yakaladın, ha, canım? Sen etraftayken kimse katliam gerçekleştiremeyecek!
+suspect_mothermaiden3 = Film çekerken sorun yaşadığını bildiğim için, canım, bu yüzden bu planı sana ilginç bir film hikayesi yaratmana yardımcı olmak için yaptım!
+suspect_mothermaiden4 = Ekspres Baykuşu, bıçağı bana saplamak ve ölü numarası yapmama yardım etmek için yeterince kibardı.
+//^Hatalı olması yüksek
+ending_revealed0 = Beni iyi yakaladın, ha, canım? Sen etraftayken kimse cinayet gerçekleştiremeyecek!
 
 [spaceship]
 hub_alert_generic0 = ...
@@ -35,5 +34,5 @@ hub_alert_generic1 = [icon:trophy][trophy]Yıllık Kuş Ödülü[/trophy] hileli
 hub_alert_dj2 = Kazanan kişi [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nın gücünü biliyor. Kendisi bu yüzden bir tanesini saklıyordu ve onu kıracak.
 hub_alert_conductor2 =  Kazanan kişi [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nın gücünü biliyor. Kendisi bu yüzden bir tanesini saklıyordu, ve onu kıracak.
 hub_alert_generic3 = Gerçek [hint]Ölü Kuş Stüdyosu[/hint]nun altında saklı.[br]Dead Bird Stüdyosunda kimse yoksa oraya neden gider?
-hub_alert_dj4 = Onun kimliğini ortaya çıkar, canım.
-hub_alert_conductor4 = Onun kimliğini ortaya çıkar, kızım.
+hub_alert_dj4 = Onun kimliğini ortaya çıkar canım.
+hub_alert_conductor4 = Onun kimliğini ortaya çıkar kızım.
