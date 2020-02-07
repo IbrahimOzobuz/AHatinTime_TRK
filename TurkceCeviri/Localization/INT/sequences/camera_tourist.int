@@ -1,22 +1,22 @@
 [camera_unlock]
 CameraStolen0 = Oradaki bu lanetolası martı kameramı aldı!
 CameraStolen1 = Oraya [button:duck] ile belimle dalardım, ama bu bel kaymak için çok kıymetli!
-CameraRetrieved0 = Kameramı aldın mı? Vay, teşekkürler, veled! Ama yedeğimde bir sürü kamera var. İhtiyacım yok.
+CameraRetrieved0 = Kameramı aldın mı? Vay, teşekkürler veled! Ama yedeğimde bir sürü kamera var. İhtiyacım yok.
 CameraRetrieved1 = Martılara bağırmak için bir bahane arıyordum. Saklayabilirsin.
 
 [mafia_town]
 TownIsSoBig0 = Bu şehir çok büyük! Turistik yerleri oldukça havalı,[br]ama sana diyorum ki, hiçbir şey aya gitmenin yerini tutamaz!
 
 [finale]
-inside0 = Düşünüyorum ki bu zıplama[br]benim için fazla ve [br]kameram için de...
-touristexterior0 = Bak, veled, dürüst olacağım. Ziyaret ettiklerimin arasında, bu yer sorgusuz sualsiz en kötüsü.
+inside0 = Düşünüyorum ki bu zıplama[br]benim için fazla ve [br]kameram için de fazla...
+touristexterior0 = Bak veled, dürüst olacağım. Ziyaret ettiklerimin arasında, bu yer sorgusuz sualsiz en kötüsü.
 touristexterior1 = Oraya ulaşmalı ve bu kıza kimin patron olduğunu göstermelisin[br]böylece ay'a geri dönebilirim![br]Ay bundan daha eğlenceli olurdu!
-touristexterior2 = Sana inanıyorum, veled.
+touristexterior2 = Sana inanıyorum veled.
 
 [moon]
-moon0 = Ay oldukça iyi, veled. Nihayet tüm bu yıllardan sonra burada olmak harika hissettiriyor!
-moon1 = Ama işteki bu lanet Steve güneşten bana bir kartpostal gönderdi! Buranın harika olduğunu söylüyor! [br]Bu adama inanamıyorum, her zaman bir adım önüme geçmeye çalışıyor!
+moon0 = Ay oldukça iyi veled. Nihayet yıllardan sonra burada olmak harika hissettiriyor!
+moon1 = Ama meslektaşım, lanet Steve güneşten bana bir kartpostal gönderdi! Buranın harika olduğunu söylüyor! [br]Bu adama inanamıyorum, her zaman bir adım önüme geçmeye çalışıyor!
 
 [subcon]
-touristsubcon0 = Tamamdır. Kendimi burada piknik yaparken görebiliyorum.[br]Halen, ay değil.[br]Oraya ulaşmalıyım ki böylece işteki Steve'e kartpostal gönderebileyim!
-touristsubcon1 = İşteki Steve bu bahar ay'a gitmişti. O, bunun harika olduğunu söylemişti.[br]Kahrolası Steve. O her zaman bir adım önümde.[br] Ona aydan bir kartpostal göstereceğim!
+touristsubcon0 = Pekala. Kendimi burada piknik yaparken görebiliyorum.[br]Halen ay değil.[br]Oraya ulaşmalıyım ki, meslektaşım Steve'e kartpostal gönderebileyim!
+touristsubcon1 = Meslektaşım Steve bu bahar ay'a gitmişti. O, bunun harika olduğunu söylemişti.[br]Kahrolası Steve. O her zaman bir adım önümde.[br] Ona aydan bir kartpostal göstereceğim!
