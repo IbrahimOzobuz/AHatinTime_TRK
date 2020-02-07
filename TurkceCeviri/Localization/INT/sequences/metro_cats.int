@@ -12,6 +12,11 @@ metrocat_2p_sushi_0 = Yukarıdaki suşi lokantasına gittin mi, he?
 metrocat_2p_sushi_1 = Henüz değil. Yeşil Hattan işe giderken her zaman onları görüyorum ve bu da beni acıktırıyor.
 metrocat_2p_sushi_2 = Bazen, I wish I could leap straight across to it.
 
+
+dilerdim
+
+
+
 metrocat_2p_stolen_0 = Did I tell you I had to buy a new [hint]metro pass[/hint]? Benimkisi çalındı galbia.
 metrocat_2p_stolen_1 = Daha dikkatli olmalısın. Duyduğuma göre son zamanlarda burada çok fazla suç işlenmiş.
 metrocat_2p_burgers_0 = Biz ayrılmadan bir şeyler yemek ister misin?
@@ -23,7 +28,7 @@ metrocat_2p_right_0 = Doğru bileti aldığından emin ol.
 metrocat_2p_right_1 = Biliyorum, biliyorum. Onlar [hint]renk kodlu[/hint].
 
 metrocat_2p_knocking_0 = Trenin yukarısından gelen tıkırtıyı duydun mu? [br]Sanki birileri üzerinde yürüyormuş gibi?
-metrocat_2p_knocking_1 = Uh, belki de sen gaipten sesler duyuyorsundur. [br]Kimse trenin üzerine tırmanmaz.
+metrocat_2p_knocking_1 = Uh, belki de sen gaipten sesler duyuyorsundur. [br]Kimse trenin üzerine çıkmaz.
 
 metrocat_2p_shortcuts_0 = Benden duyma ama, uh, ama bu rögar kapaklarını biliyor musun? Onlar gerçek değil.
 metrocat_2p_shortcuts_1 = Ne? Boyanmışlar mı?
@@ -68,55 +73,53 @@ metrocat_2p_missingvan_1 = Hmmm... doesn't that spot just down the street do bur
 
 
 
-
-
-
-
-
 metrocat_2p_missingvan_2 = Evet, ama... ama kamyon tam da buradaydı, biliyor musun?
 metrocat_2p_missingvan_3 = Tch. Çok tembelsin.
 
-metrocat_3p_needmoney_0 = I hope I can get some more hours at work.
+metrocat_3p_needmoney_0 = Umarım işte daha çok zaman geçirebilirim.
 metrocat_3p_needmoney_1 = Fazladan paraya ihtiyacın var mı, hı?
 metrocat_3p_needmoney_2 = Yan tarafta işlere bakıyorsan, kiminle görüşmen gerektiğini biliyorum.
 
 metrocat_3p_bigidea_0 = Bu lokanta için muhteşem bir fikrim var.
 metrocat_3p_bigidea_1 = Gerçekten mi? A restaurant in this part of town? Burada onlardan çok var!
 metrocat_3p_bigidea_2 = Evet. Seni bu kadar özel yapan nedir?
-metrocat_3p_bigidea_3 = Yani... arabadan servis i hayal et.
+metrocat_3p_bigidea_3 = Yani... araba servisini bir hayal et.
 metrocat_3p_bigidea_4 = Burada araçlar için boş yer yer yok!
 metrocat_3p_bigidea_5 = Haklısın, haklısın, ama bir hayal etsene... trenler için olanını!
 metrocat_3p_bigidea_6 = Please tell me this isn't a set up for a 'fast' food pun.
 
+//SAÇMA! - Lütfen bana 'hazır' yemekleri için açılmadığını söyle.
 
 
 
-
-
-
-
-metrocat_3p_bigidea_7 = You'd have to grab your food so qui- oh.
+metrocat_3p_bigidea_7 = Yemeğini hızlıca kapardı- oh.
 
 metrocat_3p_foodchoice_0 = Erişteye ne dersin?
 metrocat_3p_foodchoice_1 = Bunu dün yemiştik... ve balık ve patates kızartmasına ne dersin?
 metrocat_3p_foodchoice_2 = Yarın yiyeceğim. Ama burger de yiyebiliriz.
 metrocat_3p_foodchoice_3 = Uhhh... Bu hafta zaten iki kez burger yedim.
-metrocat_3p_foodchoice_4 = ... maybe we should just eat separately.
+metrocat_3p_foodchoice_4 = ... belki biz ayrı ayrı yemeliyiz.
 
-metrocat_2p_beckoning_0 = So what's with the big waving cat?
-metrocat_2p_beckoning_1 = It's beckoning, not waving! At nalları ve dört yapraklı yoncalar gibi iyi şans sembolüdür.
-metrocat_2p_beckoning_2 = What do cats need good luck for? We land on our feet, we have nine lives...
-metrocat_2p_beckoning_3 = I mean, you can't be TOO lucky, right?
+metrocat_2p_beckoning_0 = Yani elini sallayan kedi neyin nesi?
+metrocat_2p_beckoning_1 = Bu gel işareti, el sallamıyor! At nalları ve dört yapraklı yoncalar gibi iyi şans sembolüdür.
+metrocat_2p_beckoning_2 = Kedilerin şansa ne ihtiyacı olur? Ayaklarımızın üstüne düşeriz, 9 canımız var...
+metrocat_2p_beckoning_3 = Yani, ÇOK şanslı olamazsın, değil mi?
 
 metrocat_2p_purehate_0 = Bu istasyondan nefret ediyorum.
-metrocat_2p_purehate_1 = Oh, here we go again...
+metrocat_2p_purehate_1 = Ah, işte yine başlıyoruz...
+
+
+
+
+
+
 metrocat_2p_purehate_2 = You get off one line, walk over to another, scan two different passes...
-metrocat_2p_purehate_3 = Mmm-hmm.
+metrocat_2p_purehate_3 = Hı-hııı.
 metrocat_2p_purehate_4 = And I have to switch four more times just to get to where I wanna be.
 metrocat_2p_purehate_5 = Uhuh.
 metrocat_2p_purehate_6 = I'm pretty sure some of these trains aren't even going anywhere!
-metrocat_2p_purehate_7 = You wanna get something to eat after this?
-metrocat_2p_purehate_8 = ... Sure, I guess.
+metrocat_2p_purehate_7 = Bundan sonra bir şeyler yemek ister misin?
+metrocat_2p_purehate_8 = ... Kesinlikle, belki.
 
 metrocat_2p_sphynx_0 = Have you seen this weird looking cat running around?
 metrocat_2p_sphynx_1 = Huh?
@@ -156,10 +159,14 @@ metrocat_2p_cclives_9 = Oh thank goodness. I wouldn't be able to stand a loose e
 metrocat_2p_metrosmell_0 = Kokuyu alıyor musun?
 metrocat_2p_metrosmell_1 = Ne?
 metrocat_2p_metrosmell_2 = It's kind of like wet fur, mixed with petrol, and smoke.
-metrocat_2p_metrosmell_3 = Ugh, now that you mention it...
+metrocat_2p_metrosmell_3 = Ugh, şimdi şu bahsettiğin...
 metrocat_2p_metrosmell_4 = Berbat değil mi?
 metrocat_2p_metrosmell_5 = Bu korkunç! It's all I can smell now. Bu koku her yerde!
-metrocat_2p_metrosmell_6 = I can't believe I didn't notice it before now.
+metrocat_2p_metrosmell_6 = Daha önce farkına varamadığıma inanamıyorum.
+
+
+
+
 
 metrocat_3p_ignored_0 = Hey, maskeni ödünç alabilir miyim? Benimkisi koptu.
 metrocat_3p_ignored_1 = Şttt, sessiz ol! Birisi bizi dinliyor olabilir!
