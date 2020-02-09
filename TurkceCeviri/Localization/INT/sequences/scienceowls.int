@@ -1,39 +1,40 @@
 [murder]
-CrowAskForDetails0 = Bu trendeki tüm bu kargaları farkettin mi?
-CrowAskForDetails1 = Kişisel bilgiler sorup duruyorlar, ve ben ne cevap vereceğimi bilemiyorum bile!
+CrowAskForDetails0 = Bu trendeki şu kargaları farkettin mi?
+CrowAskForDetails1 = Kişisel bilgilerimizi sorup duruyorlar, ve ben ne cevap vereceğimi bilemiyorum bile!
 
-CrowsGotOn0 = Bu trene birden bir sürü karga geldiğini farkettin mi? Onların hepsi son duraktayken geldiler.
-CrowsGotOn1 = Bahsederken, bu trene hangi duraktayken geldin?
+CrowsGotOn0 = Bu trene birdenbire bir sürü karga geldiğini farkettin mi? Onların hepsi son duraktayken geldiler.
+CrowsGotOn1 = Mevzubahis, bu trene hangi duraktayken geldin?
+//Bahsederken->Mevzubahis
 CrowsGotOn2 = ...
 CrowsGotOn3 = ... gökyüzünden düştü derken ne demek istiyorsun?
 
-CrowsAnnoy0 = Bu trende, bu kalabalık kargalarla sakin olmak bile gerçekten zor.
+CrowsAnnoy0 = Bu trende, bu karga kalabalığıyla sakin olmak bile gerçekten zor.
 CrowsAnnoy1 = Yaptığım her şeyi sorgulayıp duruyorlar!
 
-ScientificEquation0 = Anlamadım, Nasıl bir türden denklem bu?[br]Bu sadece karıştırılmış sayılar ve harfler tıpkı online formlarda gördüğün gibi.
+ScientificEquation0 = Anlamadım, nasıl bir türden denklem bu?[br]Bunlar sadece karıştırılmış sayılar ve harfler, tıpkı online formlarda gördüğün gibi.
 
-StayOut0 = Bekle, sakın buraya gelme. Burada kontakt lensimi kaybettim... lütfen üzerine basma![br]Buradan ayrılamam, üzerime bile basabilirim!
+StayOut0 = Bekle, sakın buraya gelme. Bir yerde kontakt lensimi kaybettim... lütfen üzerine basma![br]Buradan ayrılamam, üzerime bile basabilirim!
 StayOut1 = Umarım kimse VIP alanına gitmez ve yanlışlıkla kontakt lensime basmaz...
 
 PostMurder0 = Adamım, ben sadece işten eve dönmeliyim. Ben büyük bir cinayet gizemine yazılmadım.
 PostMurder1 = Eşim beni öldürecek.
 
-OwlHiddenRoom0 = Adamım, hayat budur.[br]Hiçbir şey[br]sıcak saunayı geçemez.
+OwlHiddenRoom0 = Adamım, hayat budur.[br]Sıcak sauna[br]gibisi yok.
 OwlHiddenRoom1 = Dışarıdan gelen sesi [br]duydun mu?
-OwlHiddenRoom2 = Eh, peck it.[br]Bu soğukta[br]dışarı çıkmayı istemem.
+OwlHiddenRoom2 = Eh, gagala gitsin.[br]Bu soğukta[br]dışarı çıkmayı istemem.
 
-VictimRubberKnife0 = Evet, şimdi gidebilir miyim? I'm kinda sore from playing dead for so long.
+VictimRubberKnife0 = Evet, şimdi gidebilir miyim? Bunca zaman ölü taklidi yapmaktan bitap düştüm.
 VictimRubberKnife1 = Bu kauçuk bıçak ayrıca birazcık rahatsız edici.
 
 suspect_sciowls0 = ...
 suspect_sciowls1 = Bu doğru.
-suspect_sciowls2 = Salonda otururken kart oynuyorduk, ve biz çok eğleniyorduk! Herkes barış ve sessizlikle kart oyunlarının tadını çıkartıyordu!
+suspect_sciowls2 = Salonda otururken kart oynuyorduk ve biz çok eğleniyorduk! Herkes barış ve sessizlikle kart oyunlarının tadını çıkartıyordu!
 suspect_sciowls3 = ... ve Robin ağzı açıkken sakız çiğneyip dururdu.
 suspect_sciowls4 = Cidden, kim ağzı açıkken sakız çiğner? Bu yüzden biz onu sırtından bıçakladık, azıcık barış ve sesszilik için.
 
-suspect_victim0 = It seems you've seen through my charade.
-suspect_victim1 = Baykuş Ekspresini temizlemek benim sıramdı, ve ben de şunu yaptım... uhh... bu kauçuk bıçakla, birlikte ölü numarası yaptım.
-suspect_victim2 = Ama bütün bu belaya değmezdi. Ben hemen şimdi temizlemeye başlıyorum.
+suspect_victim0 = Düzmecemi çözmüşsünüz gibi görünüyor.
+suspect_victim1 = Baykuş Ekspresinin temizlemek benim sıramdaydı ve ben de şunu yaptım... uhh... bu kauçuk bıçakla birlikte ölü numarası yaptım.
+suspect_victim2 = Ama bütün bu belaya değmezdi. Ben hemen şimdi temizlemeye başlayacağım.
 
 suspect_hatkid0 = Ben aslında iyiyim.
 suspect_hatkid1 = Bu kız bu sahte kauçuk bıçağı bana sapladı ve ölü rolü yapmamı söyledi.
@@ -44,6 +45,12 @@ prop0 = Ne, sen onların taşıdıkları film figüranını mı istiyorsun ?
 prop1 = Sen film figüranlarını eBird'te satan türden birisi misin?
 
 intro0 = Uhhh, selam. Ben bir [name]Ekspres Baykuşu[/name]yum. Which really just means I ride the [name]Owl Express[/name] that the [icon:conductor][name]Conductor[/name] runs.
+
+
+
+
+
+
 intro1 = I need to ride the train to get to work, but the [icon:conductor][name]Conductor[/name] makes unexpected stops all the time.
 intro2 = I have no idea why we're at a movie studio. Benim 15 dakika içinde işte olmam lazım!
 
@@ -69,14 +76,30 @@ initial0_a = Swap Music
 initial0_b = Play me a tune
 initial0_c = Bye!
 listentomusic_generic0 = Tamamdır, şunu dinle. It's a new tune we're working on!
-listentomusic_bubblegum0 = Tamamdır, kulaklarını aç. We heard this in a distant desert village![br]Tadı sakız gibi duruyor! 
-listentomusic_caverave0 = Tamamdır, şunu dinle. It's a new melody we're working on.[br]It'll make you really want pumpkin soup, for some reason!
-listentomusic_heatdusts0 = Tamamdır, şuna bir bak, fırından yeni çıktı.[br]It's a smooth drive kind of song. Uzun yollar için mükemmel!
-listentomusic_foxmask0 = Tamamdır, tune in, this one's an old ear worm.[br]It's got a warm feel to it but it's kinda sneaky, like a fox.[br]A bit spooky, too!
+listentomusic_bubblegum0 = Tamamdır, kulaklarını aç. Biz bunu ıssız bir çöl köyünde duyduk![br]Tadı sakız gibi duruyor!
+listentomusic_caverave0 = Tamamdır, şunu dinle. Bu üzerinde uğraştığımız yeni bir melodi.[br]Seni bir şekilde balkabağı çorbası almayı istetecek!
+//Çalışmak->Uğraşmak
+listentomusic_heatdusts0 = Tamamdır, şuna bir bak, fırından yeni çıktı.[br]Akışkan yollar için yapılmış gibi bir şarkı. Uzun yollar için mükemmel!
+listentomusic_foxmask0 = Tamamdır, dikkatle dinle, bu akıllara kazınmış eski bir parça.[br]Bana yakın geliyor ama bu kurnaz, tıpkı bir tilki gibi.[br]Biraz da korkutucu!
 listentomusic_heatgusts0 = Tamamdır, dikkatle dinle, biz bu parça üzerinde çalışıyorduk.[br]It's got that far-out desert dance feel to it.
-listentomusic_moonswing0 = Tamamdır, dinle şunu, bu şey aydan taze geldi.[br][name]The Lazy Paw Gang[/name] really knows how to write some wild swinging jazz![/name]
-listentomusic_electroswing0 = Catch this one, this is the favorite piece of us [name]Express Owls[/name].[br]This time we added some fresh groove to it. What do you think?
-listentomusic_newadventure0 = Tamam, bunu belki de daha önce duymuşsundur.[br]The perfect kind of song for starting a new adventure![br]Kabul etmiyor musun?
+listentomusic_moonswing0 = Tamamdır, dinle şunu, bu şey aydan taze çıktı.[br][name]The Lazy Paw Gang[/name] really knows how to write some wild swinging jazz![/name]
+
+
+
+^gerçekten
+
+listentomusic_electroswing0 = Ritme kaptır kendini, bu bizim [name]Ekspres Baykuşları[/name]nın favori parçası.[br]Bu sefer buna taptaze ritmler ekledik. Ne düşünüyorsun?
+//fresh groove hatalı=taptaze ritmler.
+
+
+
+
+
+listentomusic_newadventure0 = Tamam, bunu belki de daha önce duymuşsundur.[br]Yeni bir maceraya başlamak için harika türden bir şarkı![br]Kabul etmiyor musun?
+
+
+
+
 
 [trainrush]
 calm0 = Bugün ne[br]filmi çekiyoruz? Programa göre[br]durmak yok...
@@ -88,11 +111,9 @@ rush2= [scream]Bu trende b-bomba mı var?![/scream]
 
 [finale]
 outside0 = N'için yargılanıyoruz?
-outside01 = Tüm filmlerimiz were wholesome action flicks!
-
-
+outside01 = Tüm filmlerimiz süperaksiyon filmleriydi!
 outside1 = Hayatımda asla [br]cinayet işlemedim!!
 outside2 = Ben işe asla zamanında başlayamadım...
 inside0 = Oraya gidemem! [br]Dublör baykuşu değilim ben!
 inside1 = [scream]Aaaaghhh![/scream]
-attack0 = Gimme your [br]back-of-the-line [br]ticket!
+attack0 = Arka koltuk [br] biletini [br]ver bana!!
