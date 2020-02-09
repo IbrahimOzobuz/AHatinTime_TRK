@@ -33,21 +33,20 @@ suspect_sciowls3 = ... ve Robin ağzı açıkken sakız çiğneyip dururdu.
 suspect_sciowls4 = Cidden, kim ağzı açıkken sakız çiğner? Bu yüzden biz onu sırtından bıçakladık, azıcık barış ve sesszilik için.
 
 suspect_victim0 = Düzmecemi çözmüşsünüz gibi görünüyor.
-suspect_victim1 = Baykuş Ekspresinin temizlemek benim sıramdaydı ve ben de şunu yaptım... uhh... bu kauçuk bıçakla birlikte ölü numarası yaptım.
+suspect_victim1 = Baykuş Ekspresini temizlemek benim sıramdaydı ve ben de şunu yaptım... uhh... bu kauçuk bıçakla birlikte ölü numarası yaptım.
 suspect_victim2 = Ama bütün bu belaya değmezdi. Ben hemen şimdi temizlemeye başlayacağım.
 
 suspect_hatkid0 = Ben aslında iyiyim.
 suspect_hatkid1 = Bu kız bu sahte kauçuk bıçağı bana sapladı ve ölü rolü yapmamı söyledi.
-suspect_victim_idle0 = Adamım, cinayetin gerçekçi durması için tüm ketçap şişesini bile harcadım...
+suspect_victim_idle0 = Adamım, cinayetin gerçekçi durması için tüm bu ketçap şişesini bile boşalttım...
 
 [DeadBird]
 prop0 = Ne, sen onların taşıdıkları film figüranını mı istiyorsun ?
 prop1 = Sen film figüranlarını eBird'te satan türden birisi misin?
 
-intro0 = Uhhh, selam. Ben bir [name]Ekspres Baykuşu[/name]yum. Which really just means I ride the [name]Owl Express[/name] that the [icon:conductor][name]Conductor[/name] runs.
-
-
-intro1 = I need to ride the train to get to work, but the [icon:conductor][name]Conductor[/name] makes unexpected stops all the time.
+intro0 = Uhhh, selam. Ben bir [name]Ekspres Baykuşu[/name]yum. Bu gerçekten şu anlama geliyor ki [icon:conductor][name]Kondüktörün[/name] sürdüğü [name]Baykuş Ekspresi[/name]ne biniyorum.
+intro1 = işe başlamak için trene binmem lazım, ama bu [icon:conductor][name]Kondüktör[/name] bize her zaman beklenmedik duraklamalar yaşatıyor.
+//stosps=duraklamalar=durak=duraklamalar=kısmi Edebi
 intro2 = Neden bir film stüdyosundayız, hiçbir fikrim yok. Benim 15 dakika içinde işte olmam lazım!
 
 guard0 = Uh evet üzgünüm, [icon:conductor][name]Kondüktör[/name] dedi ki, sadece kuşlar burada izinli. Ve o özellikle hiçbir türden penguene yer yok dedi.
@@ -70,23 +69,16 @@ initial0_b = Bir şarkı çal
 initial0_c = Bye!
 listentomusic_generic0 = Tamamdır, şunu dinle. Bu üzerinde çalıştığımız yeni bir beste!
 listentomusic_bubblegum0 = Tamamdır, kulaklarını aç. Biz bunu ıssız bir çöl köyünde duyduk![br]Tadı sakız gibi duruyor!
-listentomusic_caverave0 = Tamamdır, şunu dinle. Bu üzerinde uğraştığımız yeni bir melodi.[br]Seni bir şekilde balkabağı çorbası almayı istetecek!
+listentomusic_caverave0 = Tamamdır, şunu dinle. Bu üzerinde uğraştığımız yeni bir melodi.[br]Seni bir şekilde balkabağı çorbası almanı istetecek!
 //Çalışmak->Uğraşmak
 listentomusic_heatdusts0 = Tamamdır, şuna bir bak, fırından yeni çıktı.[br]Akışkan yollar için yapılmış gibi bir şarkı. Uzun yollar için mükemmel!
 listentomusic_foxmask0 = Tamamdır, dikkatle dinle, bu akıllara kazınmış eski bir parça.[br]Bana yakın geliyor ama bu kurnaz, tıpkı bir tilki gibi.[br]Biraz da korkutucu!
-listentomusic_heatgusts0 = Tamamdır, dikkatle dinle, biz bu parça üzerinde çalışıyorduk.[br]It's got that far-out desert dance feel to it.
-
-
-
-mükemmel çöl dansını hissettiriyor.
-
-
-
-
+listentomusic_heatgusts0 = Tamamdır, dikkatle dinle, biz bu parça üzerinde çalışıyorduk.[br]Mükemmel bir çöl dansı hissiyatına sahip.
+//"bir" eklenti. Çevirinin uyumlu olması için cümle baştan tasarlandı.
 listentomusic_moonswing0 = Tamamdır, dinle şunu, bu şey aydan taze çıktı.[br][name]The Lazy Paw Gang[/name] gerçekten nasıl çılgınca jazz besteleyeceğini biliyor.[/name]
 listentomusic_electroswing0 = Ritme kaptır kendini, bu bizim [name]Ekspres Baykuşları[/name]nın favori parçası.[br]Bu sefer buna yepyeni ritmler ekledik. Ne düşünüyorsun?
 //fresh groove hatalı=taptaze ritmler.
-listentomusic_newadventure0 = Tamam, bunu belki de daha önce duymuşsundur.[br]Yeni bir maceraya başlamak için harika türden bir şarkı![br]Kabul etmiyor musun?
+listentomusic_newadventure0 = Tamam, belki bunu de bunu daha önce duymuşsundur.[br]Yeni bir maceraya başlamak için harika türden bir şarkı![br]Kabul etmiyor musun?
 
 [trainrush]
 calm0 = Bugün ne[br]filmi çekiyoruz? Programa göre[br]durmak yok...
