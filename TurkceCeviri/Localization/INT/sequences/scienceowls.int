@@ -47,63 +47,50 @@ prop1 = Sen film figüranlarını eBird'te satan türden birisi misin?
 intro0 = Uhhh, selam. Ben bir [name]Ekspres Baykuşu[/name]yum. Which really just means I ride the [name]Owl Express[/name] that the [icon:conductor][name]Conductor[/name] runs.
 
 
-
-
-
-
 intro1 = I need to ride the train to get to work, but the [icon:conductor][name]Conductor[/name] makes unexpected stops all the time.
-intro2 = I have no idea why we're at a movie studio. Benim 15 dakika içinde işte olmam lazım!
+intro2 = Neden bir film stüdyosundayız, hiçbir fikrim yok. Benim 15 dakika içinde işte olmam lazım!
 
-guard0 = Uh yeah sorry, [icon:conductor][name]Kondüktör[/name] dedi ki sadece kuşlar burada izinli. Ve o özellikle hiçbir türden penguene yer yok dedi.
-guard1 = I have no idea -why-, ben sadece bu trenin  yolcusuyum. Whatever gets us back on the train faster.
+guard0 = Uh evet üzgünüm, [icon:conductor][name]Kondüktör[/name] dedi ki, sadece kuşlar burada izinli. Ve o özellikle hiçbir türden penguene yer yok dedi.
+guard1 = Hiçbir fikrim yok -neden-, ben sadece bu trenin yolcusuyum. Bizi her ne trene hızlı ulaştıracaksa.
 
-feud0 = I don't really get this feud between [name]The Conductor[/name] and [icon:djgrooves][name]DJ Grooves[/name].
-feud1 = Like, why does a train operator and a disco guy want to compete? We're all birds here, right? Shouldn't we cooperate?
-feud2 = ... I dunno, I guess cooperating is kinda stupid. I guess. Yeah... just ignore me...
+feud0 = Ben gerçekten [name]Kondüktör[/name] ve [icon:djgrooves][name]DJ Grooves[/name] arasındaki düşmanlığı anlamıyorum.
+feud1 = Yani, neden bir tren operatörü ve bir diskocu rekabet etmek ister? Hepimiz burada kuşuz, değil mi? Neden işbirliği yapmıyoruz?
+feud2 = ... Bilmem, bence işbirliği aptalca. Bence. Evet... beni boşver...
 
-reception_desk0 = Danışmaya bir soru sormak istemiştim, ama o beni tanıyamadı.
-reception_desk1 = Uhh, ama şimdi burada bu kadar süre boyunca dikildim, bu da konuşma başlatmak için tuhaf olur.
+reception_desk0 = Danışmaya bir soru sormak istemiştim ama o beni tanıyamadı.
+reception_desk1 = Uhh, ama şimdi burada bunca süre dikildim, bu da konuşma başlatmak için tuhaf olurdu.
 reception_desk2 = Diğer kuşlarla konuşmakta gerçekten kötüyüm.
 
 [ExpressBand]
-intro0 = Selam! Bizler [name]Ekspres bandosu[/name]yuz, just a bunch of owls that got together to play music while riding the [icon:conductor][name]Kondüktör[/name]ün Baykuş Ekspresinde . 
-intro1 = Is it OK if we practice here? In exchange, if you have any song requests, we'll be happy to play whatever you have on mind!
-
-0= bizler sadece
-
-initial0 = Wanna swap out some of the music you hear in the different chapters, or wanna hear us practice?
-initial0_a = Swap Music
-initial0_b = Play me a tune
+intro0 = Selam! Bizler [name]Ekspres bandosu[/name]yuz, biz sadece [icon:conductor][name]Kondüktör[/name]ün Baykuş Ekspresinde seyahat ederken beraber müzik çalan bir avuç baykuşuz . 
+intro1 = Burada çalışmamız sana uyar mı? Karşılığında, istek parçan varsa, aklında ne varsa onu çalmaktan mutluluk duyarız!
+initial0 = Farklı bölümlerde duyduğun müzikleri değiştirmek mi istersin veya çalışmamızı dinlemek mi istersin?
+initial0_a = Müzik Değiştir
+initial0_b = Bir şarkı çal
 initial0_c = Bye!
-listentomusic_generic0 = Tamamdır, şunu dinle. It's a new tune we're working on!
+listentomusic_generic0 = Tamamdır, şunu dinle. Bu üzerinde çalıştığımız yeni bir beste!
 listentomusic_bubblegum0 = Tamamdır, kulaklarını aç. Biz bunu ıssız bir çöl köyünde duyduk![br]Tadı sakız gibi duruyor!
 listentomusic_caverave0 = Tamamdır, şunu dinle. Bu üzerinde uğraştığımız yeni bir melodi.[br]Seni bir şekilde balkabağı çorbası almayı istetecek!
 //Çalışmak->Uğraşmak
 listentomusic_heatdusts0 = Tamamdır, şuna bir bak, fırından yeni çıktı.[br]Akışkan yollar için yapılmış gibi bir şarkı. Uzun yollar için mükemmel!
 listentomusic_foxmask0 = Tamamdır, dikkatle dinle, bu akıllara kazınmış eski bir parça.[br]Bana yakın geliyor ama bu kurnaz, tıpkı bir tilki gibi.[br]Biraz da korkutucu!
 listentomusic_heatgusts0 = Tamamdır, dikkatle dinle, biz bu parça üzerinde çalışıyorduk.[br]It's got that far-out desert dance feel to it.
-listentomusic_moonswing0 = Tamamdır, dinle şunu, bu şey aydan taze çıktı.[br][name]The Lazy Paw Gang[/name] really knows how to write some wild swinging jazz![/name]
 
 
 
-^gerçekten
+mükemmel çöl dansını hissettiriyor.
 
-listentomusic_electroswing0 = Ritme kaptır kendini, bu bizim [name]Ekspres Baykuşları[/name]nın favori parçası.[br]Bu sefer buna taptaze ritmler ekledik. Ne düşünüyorsun?
+
+
+
+listentomusic_moonswing0 = Tamamdır, dinle şunu, bu şey aydan taze çıktı.[br][name]The Lazy Paw Gang[/name] gerçekten nasıl çılgınca jazz besteleyeceğini biliyor.[/name]
+listentomusic_electroswing0 = Ritme kaptır kendini, bu bizim [name]Ekspres Baykuşları[/name]nın favori parçası.[br]Bu sefer buna yepyeni ritmler ekledik. Ne düşünüyorsun?
 //fresh groove hatalı=taptaze ritmler.
-
-
-
-
-
 listentomusic_newadventure0 = Tamam, bunu belki de daha önce duymuşsundur.[br]Yeni bir maceraya başlamak için harika türden bir şarkı![br]Kabul etmiyor musun?
-
-
-
-
 
 [trainrush]
 calm0 = Bugün ne[br]filmi çekiyoruz? Programa göre[br]durmak yok...
-calm1 = Did we load more [br]explosives than usual [br]today?
+calm1 = Bugün olduğundan [br]fazla mı patlayıcı[br]yükledik?
 calm2 = Umarım bugünün çekimleri [br]gecikmez...
 rush0 = [scream]Mahvolduk![/scream]
 rush1 = [scream]Koş, çocuk![/scream]
