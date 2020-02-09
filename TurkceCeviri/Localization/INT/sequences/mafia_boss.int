@@ -1,23 +1,24 @@
 [ThroneRoom]
 throne0 = So... bu sensin!
-throne1 = Ever since you landed in Mafia Town, it's been raining with these[timepiece][icon:timepiece] magical hourglasses[/timepiece].
-throne2 = You must be very lost, kid with the hat.[br]You're in the heart of our town, standing before the most powerful man you will ever witness.[br]Everything you've ever owned belongs to me now.
-throne3 = Including this [timepiece][icon:timepiece]hourglass piece[/timepiece].[br]If you want it, we'll have to settle it in true Mafia style!
-throne4 = Lights! Action! It is... showtime.
+throne1 = Mafya Şehrine geldiğinden beri, şu [timepiece][icon:timepiece] sihirli kumsaatleri[/timepiece] yağıp duruyor.
+throne2 = YKaybolmuş olmalısın, şapkalı çocuk.[br]Şehrimizin kalbindesin, tanık olacabileceğin en güçlü adamın huzurundasın.[br]Sahip olduğun her şey artık bana ait.
+throne3 = Şu [timepiece][icon:timepiece]Kumsaati parçası[/timepiece] da dahil.[br]Bunu istiyorsan, bunu gerçek Mafya tarzıyla yapmalıyız!
+throne4 = Işıklar! Aksyion! Şimdi... şov zamanı.
 
 [Spaceship]
-Intro0 = So... yeniden karşılaştık. My arch nemesis!
+Intro0 = Yani... yeniden karşılaştık. Ezeli düşmanım!
 Intro1 = ...[wait][scream][big]NE?![/big][br]Beni hatırlamıyor musun?![/scream] Ne kabasın!
-Intro2 = Benim bu, Mafyaların Patronu! Hatırladın? You blew me up in our little indiscretion, and your young "friend" captured my remains in this jar!
-Intro3 = I'm without a body! I should be furious! But, it is okay. The past is the past, and I'll accept your carcass as an apology.
-Intro4 = [scream][big]YOU WON'T HAND IT OVER?![/big][br]Such nerve on such a small child![/scream] If I had hands, I would slap you!
-Intro5 = I'll just buy a new body then! There has to be some poor soul out there who would be willing to trade his corpse for money!
+Intro2 = Bu benim, Mafyaların Patronu! Hatırladın mı? Küçük ters düşüşümüzde sen beni patlattın ve senin genç "arkadaşın" kalanlarımı bu kavanoza koymuştu!
 
-Intro6 = I may not look like it right now, but I'm well-travelled. I know the whereabouts of all secrets on this planet!
-Intro7 = Benim harita rozetimi al, and I will show you where you can find [name][icon:relic]relics[/name] that will make you rich!
-//Çeviri kontrolü^
+Intro3 = Bedensizim! Öfkelenmeliyim! Ama, sorun yok. Geçmiş geçti ve senin iskeletini özür olarak kabul edeceğim.
+//Çocuklara hitap etmiyor 1
+Intro4 = [scream][big]VERMİYOR MUSUN?![/big][br]Küçük çocuğa öfkeliyim![/scream] Ellerim olsaydı, seni tokatlardım!
+Intro5 = Yeni bir beden alırım öyleyse! Bedenini para karşılığı takas etmek isteyecek zavallı ruhlar olmalı.
+//Çocuklara hitap etmiyor 2
+Intro6 = Şu an öyle görünmüyor olabilirim, ama ben çok gezdim.. Bu gezegendeki her şeyin nerede bulunduğunu biliyorum!
+Intro7 = Benim harita rozetimi satın al ve ben de seni zengin edecek [name][icon:relic]kalıntıları[/name] nerede bulabileceğini göstereyim.
 
-NothingToSell0 = Pull out my map whenever you need to find [name][icon:relic]kalıntı[/name]ları bulmak için benim haritamı kullan!
+NothingToSell0 = [name][icon:relic]Kalıntı[/name]ları bulmaya ihtiyacın varsa benim haritamı kullan!
 
 [Finale]
 outside0 = Burası çok sıcak, kavanozdaki sıvı adeta haşlanıyor!
