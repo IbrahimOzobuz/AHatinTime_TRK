@@ -2,45 +2,53 @@
 SubconWell0 = [hint]Subcon Kuyusu[/hint][br]bu tarafta!
 Manor0 = [hint]Malikane[/hint][br]bu tarafta!
 EyeBlockade0 = It sure has its [hint]eye[/hint] on [br]something, huh?
-Swamp0 = I've got a real [hint]sinking[/hint] feeling about this [br]place... get it?
-
+Swamp0 = I've got a real [hint]sinking[/hint] feeling about this [br]place... kaptın?
 BigTree0 = Ağacın üstündeki manzaranın oldukça iyi olduğuna bahse girerim!
 BigTree1 = Fazla uzağa gitme, çocuk!
 BigTree2 = It'd probably be really [br]painful if you fell [br]from this high.
 
-Ice0 = Bu ormak sakinleri ile [br]konuşmak çok zor . 
+Ice0 = Bu orman sakinleri ile [br]konuşmak çok zor . 
 Ice1 = Belki  [hint]buzu [br]kırabilirsin[/hint] bizim için?
 Graves0 = I hear there's money to be made in [hint]gravedigging[/hint]!
 Mushroom0 = Some of these [br][hint]mushrooms[/hint] bounce [br]you pretty high! 
 Mushroom1 = There's a joke here, [br]but I don't think a kid [br]would get it.
 Noose0 = These ropes will give you [br]a lift, if you have a safe [br]way to [hint]hang[/hint].
+
+
+
+
+
+
+
+
 House0 = O yukarıdaki [icon:yarn] mı? 
 House1 = Maybe some [hint]branches[/hint] [br]nearby haven't burned [br]up yet.
-Fruit0 = You know the soft part [br]of fruit is sometimes [br]called the flesh? 
+Fruit0 = You know the soft part [br]of fruit is sometimes [br]called the flesh?
 Fruit1 = Don't go giving bodies to any [hint]upset spirits[/hint], kid! 
-DwellerPlatform0 = They say if you ring [br]certain [hint]bells[/hint]... 
+DwellerPlatform0 = Onlar bazı [hint]zilleri[/hint] çalarsan....
 DwellerPlatform01 = ...Objects from [shake]other[/shake] [br][shake]dimensions[/shake] come [br]into focus!
 DwellerPlatform1 = Those poor [hint]dwellers[/hint] can't [br]stand on things like this. [br]They [hint]pass right through[/hint]!
 Spider0 = Those [hint]spiders[/hint] don't have [br]any trouble staying above the swamp...
 Trees0 = Don't forget to [hint]look up[/hint]! [br]There's a lot happening up in these trees.
-Welcome0 = Found your way here [br]already? That's a shame.
-Statues0 = Bu heykeller hoş degil mi?
-Fire0 = Dikkat et, çocuk! [br]There's a bit of a fire over here.
-Village0 = Shame all these houses [br]are empty, now.[br]It's free real estate!
+Welcome0 = Found your way here [br]already? Ne acınası.
+Statues0 = Bu heykeller hoş değil mi?
+Fire0 = Dikkat et, çocuk! [br]Burası alev dolu.
+Village0 = Şu an bu evlerin [br]boş olması acınası.[br]İşte bedavaya konak!
+//It's free real estate, meem alıntısı
 Trap0 = Hey, çocuk! [br]Şu şeyin üstünde dur! [br]Bu güveli!
-ScooterWall0 = There's more[br][hint]mail receivers[/hint] behind[br]the fire wall...
-ScooterWall1 = You need to[br]find the [icon:painting][name]Fire Spirits[/name][br]to break this wall!
+ScooterWall0 = Ateş duvarın arkasında[br]daha fazla [br][hint]Posta alıcıları[/hint][br]arkasında...
+//^Oyuniçi Kontrol edilmeli,
+ScooterWall1 = Bu duvarı kırmak[br]için [icon:painting][name]Ateş Ruhları[/name][br]nı bulmalısın!
  
 [manor]
-limitations_alert0 = Hey, newbie! Boss told me to remind you, uhhh... you signed that paper about not using your hats while in the manor.
-Patron hatırlatmamı söyledi, imzaladığın kağıtta malikanede şapkaları kullanmamak hakkında
-limitations_alert_alt0 = Hey, yeni çocuk! Patron bana dedi ki, uhhh, tell you that all hats are off-limits in here or something.
+limitations_alert0 = Hey, yeni çocuk! Patron şunu hatırlatmamı sana söyledi, uhhh... imzaladığın kağıtta malikanede şapkalarını kullanmamazsın diyor.
+limitations_alert_alt0 = Hey, yeni çocuk! Patron bana dedi ki, uhhh, şunu dedi tüm şapkaların burada sınırlamaları varmış vesaire.
 limitations_alert1 = Evet. Onları kullanma. Teşekkürler.
 
 [finale]
 outside0 = [br]Lavaya düşmemeye calış, çocuk!
-outside1 = This isn't my menacing, oppressive home!
-outside2 = Since when is being [br]spooky a crime?
+outside1 = Bu benim tehditkar, kasvetli evim değil!
+outside2 = Korkutucu olmak ne[br] zamandan beridir suç?
 inside0 = Adımına dikkat et, çocuk!
 inside1 = Pişmis Tavuk kokusu alıyorum!
 
