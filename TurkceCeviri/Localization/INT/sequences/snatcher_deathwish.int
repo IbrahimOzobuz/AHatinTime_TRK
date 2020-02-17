@@ -1,32 +1,45 @@
 [general]
 playerdied0 = [shake2][wave]Sabahları [scream][big]ÖLÜM[/big][/scream]ÜN kokusunu severim....[/wave][/shake2]
 //^ÖLÜM'ÜN, ÖLÜMün
-playerdied1 = [shake2]Seni öldürmek zor iştir, ama buna değiyor, HA HA HA.[/shake2]
-playerdied2 = [shake2]Oh, bu incitti mi? Öyleyse bunu yapmayı bırakmalısın, ufaklık.[/shake2]
+playerdied1 = [shake2]Seni öldürmek zahmetli bir iş, ama buna değiyor, HA HA HA.[/shake2]
+playerdied2 = [shake2]Oh, bu incitti mi? Öyleyse bunu yapmayı bırakmalısın ufaklık.[/shake2]
 //^%90 hatalı
 playerdied3 = [shake2]Ölmeyi çok seviyorsan, belki onunla evlenmelisin![/shake2]
 playerdied4 = [shake2]Oh, bu sadece trajik. Kalbim kırılırdı, eğer olsaydı.[/shake2]
-
-playerdied5 = [shake2]I'm gonna miss you now that you're gone. Failing over and over... What a great time we had![/shake2]
-playerdied6 = [shake2]I hope nobody else was watching you mess that up, kiddo...[/shake2]
-playerdied7 = [shake2]Hızlı yaşa, genç öl ve arkanda güzelim cesedi bırak, huh? At least you got two out of three right.[/shake2]
-//^ÇEVRİLMEDİ
+playerdied5 = [shake2]I'm gonna miss you now that you're gone. Defalarca başarısızlık... Ne iyi vakit geçirdik ama![/shake2]
 
 
 
+I'm gonna miss you now that you're gone.
+Senin ölümünü/gidişini özleyeceğim.
 
+
+
+
+playerdied6 = [shake2]Umarım hiç kimse senin mahvoluşunu izlemiyordur ufaklık...[/shake2]
+playerdied7 = [shake2]Hızlı yaşa, genç öl ve arkanda güzelim cesedi bırak, hı? En azından üçte ikisini doğru yapardın.[/shake2]
 playerdied8 = [shake2]Yapabileceğinin hepsi bu mu? Ayağa kalk, çocuk![/shake2]
-playerdied9 = [shake2]Hope you enjoyed that one, kiddo, because there's a lot more where that came from![/shake2]
+
+Hope you enjoyed that one
+
+
+playerdied9 = [shake2]Umarım eğleniyorsundur ufaklık, çünkü geldiği yerde bundan daha çok var![/shake2]
 playerdied10 = [shake2]Oh ho ho, I hope you don't think one measly death gets you out of your contract! We're only getting started...[/shake2]
 playerdied11 = [shake2]They say you can't truly appreciate something until it's gone...[br]I'm just helping you appreciate living![/shake2]
 playerdied12 = [shake2]Oh no, you're not slipping out of your contract that easily![/shake2]
-playerdied13 = [shake2]Whoops![/shake2]
-playerdied14 = [shake2]Wow, nice job! Really great work out there, kiddo. Impressive stuff.[/shake2]
-playerdied15 = [shake2]I have to hand it to you, kid. Nobody dies quite like you do.[/shake2]
+playerdied13 = [shake2]Eyvah![/shake2]
+playerdied14 = [shake2]Wow, aferin! Really great work out there, kiddo. Impressive stuff.[/shake2]
+
+Gerçekten güzel bir iş başardın ufaklık
+Really great work out there, kiddo
+
+
+playerdied15 = [shake2]Hakkını vermeliyim ki, çocuk. Hiç kimse senin öldüğün kadar iyi ölemez.[/shake2]
 playerdied16 = [shake2]Regretting the whole 'best friends forever' thing yet, kid? I can do this a lot longer than you can.[/shake2]
 playerdied17 = [shake2][wave]Ahhh[/wave], it gets better every time![/shake2]
 playerdied18 = [shake2]Is this what you call trying? These contracts won't fulfil themselves, kid.[/shake2]
-playerdied19 = [shake2]Are you having fun, kid? Is this exciting for you?[/shake2]
+playerdied19 = [shake2]Eğleniyor musun çocuk? Is this exciting for you?[/shake2]
+
 
 QuietMoment0 = [shake2]You know, they always say love is a warm feeling... But in my experience it's been positively [wave]chilling.[/wave][/shake2]
 QuietMoment1a = [shake2]Did you file your tax returns for the year? Wait, you DIDN'T? Oh boy. You're going to need a lawyer![/shake2]
