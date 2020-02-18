@@ -8,33 +8,29 @@ playerdied2 = [shake2]Oh, bu incitti mi? Öyleyse bunu yapmayı bırakmalısın 
 playerdied3 = [shake2]Ölmeyi çok seviyorsan, belki onunla evlenmelisin![/shake2]
 playerdied4 = [shake2]Oh, bu sadece trajik. Kalbim kırılırdı, eğer olsaydı.[/shake2]
 playerdied5 = [shake2]I'm gonna miss you now that you're gone. Defalarca başarısızlık... Ne iyi vakit geçirdik ama![/shake2]
-
-
-
-I'm gonna miss you now that you're gone.
-Senin ölümünü/gidişini özleyeceğim.
-
-
-
+//I'm gonna miss you now that you're gone.==/Şimdi senin bu yokluğunu/gidşini özleyeceğim.
 
 playerdied6 = [shake2]Umarım hiç kimse senin mahvoluşunu izlemiyordur ufaklık...[/shake2]
 playerdied7 = [shake2]Hızlı yaşa, genç öl ve arkanda güzelim cesedi bırak, hı? En azından üçte ikisini doğru yapardın.[/shake2]
 playerdied8 = [shake2]Yapabileceğinin hepsi bu mu? Ayağa kalk, çocuk![/shake2]
-
-Hope you enjoyed that one
-
-
 playerdied9 = [shake2]Umarım eğleniyorsundur ufaklık, çünkü geldiği yerde bundan daha çok var![/shake2]
 playerdied10 = [shake2]Oh ho ho, I hope you don't think one measly death gets you out of your contract! We're only getting started...[/shake2]
-playerdied11 = [shake2]They say you can't truly appreciate something until it's gone...[br]I'm just helping you appreciate living![/shake2]
-playerdied12 = [shake2]Oh no, you're not slipping out of your contract that easily![/shake2]
+
+
+bir şeyin yok
+
+Derler ki yokluğunda
+
+gidene kadar şükretmezler...
+
+playerdied11 = [shake2]They say you can't truly appreciate something until it's gone...[br]Hayatına şükretmende yardımcı oluyorum![/shake2]
+
+
+
+
+playerdied12 = [shake2]Oh olamaz, kontrattan bu kadar kolay kaytaramazsın![/shake2]
 playerdied13 = [shake2]Eyvah![/shake2]
-playerdied14 = [shake2]Wow, aferin! Really great work out there, kiddo. Impressive stuff.[/shake2]
-
-Gerçekten güzel bir iş başardın ufaklık
-Really great work out there, kiddo
-
-
+playerdied14 = [shake2]Vay be, aferin! Gerçekten güzel bir iş çıkardın ufaklık. Etkileyici şeyler.[/shake2]
 playerdied15 = [shake2]Hakkını vermeliyim ki, çocuk. Hiç kimse senin öldüğün kadar iyi ölemez.[/shake2]
 playerdied16 = [shake2]Regretting the whole 'best friends forever' thing yet, kid? I can do this a lot longer than you can.[/shake2]
 playerdied17 = [shake2][wave]Ahhh[/wave], it gets better every time![/shake2]
@@ -162,27 +158,54 @@ deathwish_open3 = [shake2]You ready to die some more? Great![/shake2]
 deathwish_open4 = [shake2]Hey look, it's the annoying kid who dies all the time![/shake2]
 deathwish_open5 = [shake2]Do you have a Death Wish, kid? I've got plenty![/shake2]
 deathwish_open6 = [shake2]Time to get back to work![/shake2]
-deathwish_open7 = [shake2]Back to the old grindstone![/shake2]
+deathwish_open7 = [shake2]İstemesen de işinin başına![/shake2]
 
-dw_25_complete0 = [shake2]Wow kid, look at you go! Maybe you're sturdier than you look.[/shake2]
+
+
+dw_25_complete0 = [shake2]Vay be çocuk, gidişata bak! Belki göründüğünden daha güçlüsündür.[/shake2]
+//look at you go=gidişata bak"" olarak çevirdim
+
+
 dw_25_complete1 = [shake2]You've got a good number of contracts under your belt, but there's plenty more where that came from![/shake2]
-dw_25_complete2 = [shake2]So get back to it, kiddo. Tik tak.[/shake2]
+dw_25_complete2 = [shake2]Yani geri dön, ufaklık. Tik tak.[/shake2]
 
-dw_50_complete0 = [shake2]Looks like you've completed quite a few of my contracts...[/shake2]
-dw_50_complete1 = [shake2]But don't be too proud of yourself, I'm only half-finished with you![/shake2]
+
+
+
+dw_50_complete0 = [shake2]Görünüşe göre sözleşmelerimin bir çoğunu tamamlamışsın...[/shake2]
+
+dw_50_complete1 = [shake2]Ama kendinle çok gururlanma, I'm only half-finished with you![/shake2]
+
+
+don't be too proud of yourself
+
+I'm only half-finished with you!
+Seninle işim daha bitmedi!
+
+
+
+ben sadece 
+
 dw_50_complete2 = [shake2]There's still plenty of contracts left to finish. You didn't think you could get away with just completing the main objectives, did you?[/shake2]
 dw_50_complete3 = [shake2]Şimdi ilerle, işinin başına![/shake2]
 
 dw_75_complete0 = [shake2]You're really tearing through these contracts, aren't you?[/shake2]
+
+Gerçekten bu sözleşmelerin üstesinden geliyorsun, değil mi?
+//Daha anlamlı yapılabilir
+
+
 dw_75_complete1 = [shake2]At this rate you'll be done with them in no time![/shake2]
 dw_75_complete2 = [shake2]...I have to be perfectly honest with you, kid. I didn't expect you to still be shuffling around this mortal coil for so long, you know?[/shake2]
-dw_75_complete3 = [shake2]But hey, who knows? Your next death might be your last![br]We could get lucky![/shake2]
-dw_75_complete4 = [shake2]Alright, back to work![/shake2]
 
-dw_all_complete0 = [shake][scream]...WHAT!? YOU'RE NOT DEAD![/scream][/shake]
-dw_all_complete1 = [shake2]This book was useless! I should sue...[/shake2]
-dw_all_complete2 = [shake2]Ugh. You completed all my contracts, but somehow you're still alive to pester me. Thanks, I guess.[/shake2]
-dw_all_complete3 = [shake2]Really. That's just great. Congratulations.[/shake2]
+dw_75_complete3 = [shake2]Ama hey, kim bilir? Gelecek ölümün belki sonuncu olur![br]Şanslı olabiliriz![/shake2]
+dw_75_complete4 = [shake2]Tamamdir, iş başına![/shake2]
+
+dw_all_complete0 = [shake][scream]...NE!? SEN ÖLMEDİN![/scream][/shake]
+dw_all_complete1 = [shake2]Bu kitap kullanışsız! Dava açacağım...[/shake2]
+dw_all_complete2 = [shake2]Of. Tüm sözleşmelerimi tamamladın, ama bir şekilde you're still alive to pester me. Teşekkürler, I guess.[/shake2]
+//Çevrilmedi
+dw_all_complete3 = [shake2]Gerçekten. That's just great. Tebrikler.[/shake2]
 dw_all_complete4 = [shake2]...Huh? You want a reward? Look, kid. We've done this before.[br]You really need to learn to negotiate up-front.[/shake2]
 dw_all_complete5 = [shake2]I get the feeling you're not going to leave me alone unless I hand over something. [br]It's always about you, huh?[/shake2]
 dw_all_complete6 = [shake2]You know, you weren't even supposed to make it this far. They should be picking out flowers for you right now.[/shake2]
@@ -190,10 +213,10 @@ dw_all_complete7 = [shake2]So I guess we can't always get what we want![/shake2]
 dw_all_complete8 = [shake2]Now, there there. At least you have the feeling you achieved something. [br]You [wave]earned[/wave] it.[/shake2]
 dw_all_complete9 = [shake2]If it wasn't clear, our business is concluded. Go bother someone else, kiddo.[/shake2]
 
-deathwish_revisit0 = [shake2]Yine mi sen? Why won't you leave me alone?[/shake2]
+deathwish_revisit0 = [shake2]Yine mi sen? Neden beni yalnız bırakmıyorsun?[/shake2]
 deathwish_revisit1 = [shake2]You know there aren't any more contracts, right?[/shake2]
 deathwish_revisit2 = [shake2]Want to reopen some old wounds? That's fine by me.[/shake2]
-deathwish_revisit3 = [shake2]Remember that time you almost died? I'd like to revisit that.[/shake2]
-deathwish_revisit4 = [shake2]Go away kid, you bother me.[/shake2]
-deathwish_revisit5 = [shake2]I don't have any more work for you, kid. Why don't you get a real job?[/shake2]
-deathwish_revisit6 = [shake2]Got some unfinished business, kid?[/shake2]
+deathwish_revisit3 = [shake2]Öldüğün zamanı hatırlıyor musun? Onu tekrar görmek isterim.[/shake2]
+deathwish_revisit4 = [shake2]Defol çocuk, you bother me.[/shake2]
+deathwish_revisit5 = [shake2]I don't have any more work for you, kid. Neden gerçek bir iş bulmuyorsun?[/shake2]
+deathwish_revisit6 = [shake2]Yarım kalmış işlerimiz var değil mi çocuk?[/shake2]
