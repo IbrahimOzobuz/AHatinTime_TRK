@@ -1,7 +1,8 @@
 [general]
 playerdied0 = [shake2][wave]Sabahları [scream][big]ÖLÜM[/big][/scream]ÜN kokusunu severim....[/wave][/shake2]
 //^ÖLÜM'ÜN, ÖLÜMün
-playerdied1 = [shake2]Seni öldürmek zahmetli bir iş, ama buna değiyor, HA HA HA.[/shake2]
+playerdied1 = [shake2]Seni öldürmek meşakkatli bir iş, ama buna değiyor, HA HA HA.[/shake2]
+//zahmetli->meşakkatli
 playerdied2 = [shake2]Oh, bu incitti mi? Öyleyse bunu yapmayı bırakmalısın ufaklık.[/shake2]
 //^%90 hatalı
 playerdied3 = [shake2]Ölmeyi çok seviyorsan, belki onunla evlenmelisin![/shake2]
