@@ -2,6 +2,13 @@
 fishdude0 = Hey selam, adamım. Madamım, Kastettiğim. Ben güzel bir yolculuk için hazırım gibi, peki ya sen? [br]Umarım bu gemide bit yeniği yoktur, bilirsin.
 fishdude1 = I got ripped off on a dodgy vacation last year. It was like, not rad at all. 
 
+
+
+Geçen yıl
+
+
+Şöyleydi, çok iyi değildi.
+
 //Konuşma pattern'i: Ben gibi=It's like
 
 [internal]
@@ -17,9 +24,9 @@ fishdude2 = Bu buzullarr oldukça büyük, ama endişelenme. Bu geminin broşür
 fishdude3 = Filmlerde olanlar gibi, bileyun mu? Bunun gibi bir gemi, batmayan. Sonunun böyle olduğunu hiç görmemiştim.
 //İRONİ VAR, KONTROL, Yerelleştirme var
 
-carried0 = Oh! Oldukça güçlüymüşsün gibi değil mi?
+carried0 = Oh! Oldukça güçlüsün değil mi?
 
 [fluff]
-fishdude0 = Hey, Madamım. N'aber? Şuna bakıyordum, şey, fazlasıyla sakin bir bahçeye. Burada çiçekler ve çöp gibi şeyler var.
+fishdude0 = Hey, Madamım. N'aber? Şuna bakıyordum, şey, fazlasıyla sakin bir bahçeye. Burada çiçekler ve çöpümsü şeyler var.
 //FAZLA KELİME KULLANDIM KONTROL, tamamen=fazlasıyla diye çevrildi
 fishdude1 = Buradaki balkonun güzel bir manzarası var gibi, bileyun mu?
