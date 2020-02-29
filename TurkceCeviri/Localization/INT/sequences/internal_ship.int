@@ -1,33 +1,34 @@
 [internal]
-yes = Heck yeah!
-no = Nooo!
+yes = Evveeet!
+no = Hayıııır!
 
-deckshard1 = Hey - that's not ice! There's a shard in this drink!
-
-smash0 = Hmm... this damage is serious. It's in more pieces than one, which is terrible.
+deckshard1 = Hey - bu buz değil! Bu içecekte cam kırıkları var!
+smash0 = Hmm... bu hasar ciddi. It's in more pieces than one, which is terrible.
 smash1 = Maybe you could stick it all back together if you find the [hint]missing shards[/hint].
-smash2 = It looks like there's one in every room...
+smash2 = Her odada bir parçası var gözüküyor...
 
-checkin0 = You're all checked in!
-checkin1 = Now to track down that timepiece...
+checkin0 = Kayıt yaptırdınız!
+checkin1 = Zaman parçasının izini sürme zamanı...
 
-washingmachine0 = Someone started the wash cycle without any detergent! You'd better dunk some in there.
-washingmachine1 = There was a timepiece shard in with the clothes!
-
-restarauntshard1 = Underneath the lettuce - that's a shard from the timepiece!
-
+washingmachine0 = Birisi yıkama programını deterjan olmadan başlatmış! Oraya dalarsan iyi olur.
+washingmachine1 = Kıyafetlerle birlikte zaman parçası kırığı var!
+restarauntshard1 = Marulun altında - bu zaman parçasından bir kırık!
 slotmachine0 = You're getting really good vibes from this machine! You need some chips to play, though...
-slotmachine1 = You're feeling lucky...
-slotmachine2 = There was a shard stuck in the machine!
+slotmachine1 = Şanslı hissediyorsun...
+//
+
+
+slotmachine2 = Bu makinenin içine bir kırık sıkışmıştı!
 
 [act2]
-yes = Heck yeah!
-no = Nooo!
+yes = Evveeet!
+no = Hayıııır!
 
 [docks]
-binocs0 = Wow! The ship looks incredible! And safe! Incredibly safe, you might say.
+binocs0 = Vay! Gemi muhteşem görünüyor! Ve güvenli! İnanılmaz güvenli, diyebilirsin.
 
-crates0 = The label on this crate reads 'PBR'. Whoever they are, they're good at making shiny things.
+crates0 = Bu kutudaki etikette 'PBR' okunuyor. Onlar her kimse, parlak şeyler yapmada iyiler.
+
 
 seals0 = They look like they're having an nice time! [br]Though they probably shouldn't be left unattended.
 
