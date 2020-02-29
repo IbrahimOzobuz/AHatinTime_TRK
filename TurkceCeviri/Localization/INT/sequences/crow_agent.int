@@ -1,5 +1,5 @@
 [murder]
-IntroMaidenName0 = A, selam, baykuş dostum. Tanışma zevkine ortak olduğumuza inanamıyorum!
+IntroMaidenName0 = A, selam, baykuş dostum. Sizinle tanışma zevkine ortak olduğuma inanamıyorum!
 //^Cümle soru cümlesinden ünleme çevrildi. --- Tanışma zevki bir anlam ifade etmiyor, cümle tamamen yanlış olabilir
 IntroMaidenName1 = Sana diyebilirim ki, ben de bir Ekspres baykuşuyum. Çok gevezeyim.
 //Tanıdık bir cümle değil, son cümle. Çok öttüm=gevezeyim, insanlaştırıldı, cümle düşük olabilir
@@ -19,19 +19,45 @@ Pet0 = Evcil hayvanların kendine güveni arttırdığını ve stresi azalttığ
 Pet1 = Evcil hayvanların evcil hayvan edinebileceğini biliyor muydun? Bu doğru!
 //Cümle ekonomik değil
 Pet2 = Ne yazıkki, biz Ekspres Baykuşları evcil hayvan sahibi olmamıza izin yok. It is a sacrifice we must make in the name of hooting.
-Pet3 = Fakat, evcil hayvanın olsaydı, çocukluğundaki evcil hayvanı adının ne olmasını isterdin?
+// Hooting adına/aşkına
+//Bu Hooting adına bir fedakarlık yapmalıydık***
+
+Pet3 = Fakat, evcil hayvanın olsaydı, çocukluğundaki evcil hayvan adının ne olmasını isterdin?
 Pet4 = [PetName] kesinlikle evcil hayvan için ilginç bir ad. Evcil hayvanın, evcil hayvanına göre olsa bile.
 
 Password0 = Selam, ekspres baykuşu dostum. Güvenliği önemser misin? Güvenliği oldukça önemserim.
-Password1 = You should not be going around telling information to strangers. It could be a security risk!
+Password1 = You should not be going around telling information to strangers. Güvenlik riski yaratabilir!
+
+
+// Yabancılara özel bilgilerini anlatmamalısın.
+
+
 Password2 = I can help your daily life become more secure. What is your favorite combination of letters and numbers?
-Password3 = I see, I see. [FavoritePassword] is also my favorite combination of letters and numbers.
+//What is your favorite combination of letters and numbers?
+//En sevdiğin harf ve rakam kombinasyonu nedir?
+
+//
+
+
+Password3 = Anladım, anladım. [FavoritePassword] ayrıca benim de en sevdiğim harf ve rakam kombinasyonudur.
 
 Username0 = Fellow Express Owl, do you ever wonder what it would be like to be a superhero?
-Username1 = The most important feature of a superhero is the name. Every superhero needs an intricate name to their fame.
-Username2 = If you were a superhero, what would your name be, if entered in an online form with standardized account identification requirements?
-Username3 = That name is great! I can already imagine it: the mighty [SuperheroName], savior of justice!
+
+//
+
+
+
+merak etmiş miydin?
+
+//
+Username1 = Bir süper kahramanın en önemli özelliği adıdır. Her süper kahramanın karmaşık bir ad'a ihtiyacı vardır.
+//HATALI? AD'a.
+
+Username2 = Süper kahraman olsaydın, adının ne olmasını isterdin, eğer standardize edilmiş tanımlama bilgileri gereksinimlerine göre girilseydi?
+Username3 = Bu ad harika! Hayal bile edebiliyorum: korkusuz [SuperheroName], adaletin kurtarıcısı!
 Username4 = I'll just write your answer down here, real quick...
+
+//Cevabını şuraya yazıyorum, hemencecik.
 
 PrivatePart0 = Us Express Owls all have a part of our body we're ashamed of. This is why some owls choose to pluck their feathers.
 PrivatePart1 = Which body part of yours are you the most ashamed of,[br]fellow Express Owl?
@@ -39,14 +65,18 @@ PrivatePart2 = Oh, poor Express Owl, you shouldn't be ashamed of your [BodyPartN
 PrivatePart3 = But you'd better get your [BodyPartName] checked out by a doctor. I read online it could be a sign of bird flu.
 PrivatePart3b = But you'd better get your [BodyPartName] checked out by a doctor. I read online your [BodyPartName] could become infected with bird flu.
 
-Victim_Reveal0 = Leave this case to us.
-Victim_Reveal1 = We're CAW, the [name]Crow Agent Watch[/name].[br]We've been monitoring everyone on this train[br]since the last station.
+Victim_Reveal0 = Bu vakayı bize bırakın.
+Victim_Reveal1 = Biz KGB'yiz. [name]Karga Gözlem Bürosu[/name].[br]Son istasyondan beridirbu trendeki herkesi[br]gözetliyoruz.
+
 Victim_Reveal2 = We'll be [hint]searching the entire train for evidence[/hint]. No one is allowed to go outside of this wagon.
 Victim_Reveal3 = Once the [hint]clock hits midnight[/hint], we'll get off at the station with the murderer in cuffs.
 Victim_Reveal4 = Stay here while we investigate further.
 
-mission_end0 = We don't know.
+mission_end0 = Bilmiyoruz.
 mission_end1 = We couldn't find any conclusive evidence. We have no idea who murdered this owl.
+
+We have no idea who murdered this owl.
+Bu baykuşu kimin katlettiği konusunda hiçbir fikrimiz yok.
 
 suspect_crows0 = ...
 suspect_crows1 = Bu doğru.
@@ -56,6 +86,8 @@ suspect_crows4 = We needed some crime to solve in order to get paid! So we stabb
 
 CafeteriaChatter0 = ona dedim ki,[br]mağazaya girme
 CafeteriaChatter1 = pizzada çok[br]sos vardı
+
+
 CafeteriaChatter2 = it didn't even matter[br]what he said anyway
 CafeteriaChatter3 = because he was missing[br]one of his feathers
 CafeteriaChatter4 = and the owls don't like[br]to give their blueprints
@@ -66,6 +98,10 @@ CafeteriaChatter7 = but has anyone[br]noticed we all[br]wear the same coat?
 BodyPartChatter0 = o kız dedi ki[br][BodyPartName] dan utanıyormuş
 BodyPartChatter1 = onun çirkin[br] [BodyPartName] ini görmeliydin
 BodyPartChatter2 = the little girl had[br]the ugliest [BodyPartName]
+
+
+küçük kız ,, en çirkin
+
 BodyPartChatter3 = I've never seen such[br]terrifying [BodyPartName]
 BodyPartChatter4 = I asked her[br]about her least[br]favorite body part
 
