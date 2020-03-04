@@ -39,14 +39,16 @@ StatueFallTech0 = Buz kütlesi oluşturmak için [button:badge] basılı tut!
 
 HoverName = Floating Şapkası
 HoverDescFun0 = Float away from a sticky situation!
+/Olmadık bir durumdan 
 HoverDescTech0 = Press and hold [button:badge] to float for a bit!
+//OYUN İÇİ TEST EDİLMELİ
 
 HelpName = Çocuğun Şapkası
 HelpDescTech0 = Sonraki [icon:timepiece][timepiece]Zaman Parçası[/timepiece]nı aramak için [button:badge]!
 HelpUsage = Hedefini bulmak için [icon:activehat] kullan!
 
 ChemicalName = Brewing Şapkası
-ChemicalDescFun0 = Deli karışımlar hazırla!
+ChemicalDescFun0 = Çılgın karışımlar hazırla!
 ChemicalDescTech0 = Patlayıcı karışımı atmak için [button:badge] butonuna bas!
 
 TimeStopName = Zaman Durduran Şapka
@@ -199,12 +201,12 @@ HK64_Name = Sanal Çocuk
 HikingSkin_Name = Gezginin Giysisi
 
 NyakuzaOutfitName = Nyakuza Üniversitesi Ceketi
-NyakuzaOutfitShop = Sadece havalı kediler bu giysiyi giyebilir. Onların verdikleri en büyük beden bu.
+NyakuzaOutfitShop = Sadece havalı kediler bu giysiyi giyebilir. Onların verebilecekleri en büyük beden bu.
 BigSweaterName = Rahat Kazak
 BigSweaterShop = İçine kıvrılabileceğin bir yastık gibi.
 
 WireframeName = Taslak
-WireframeShop = Bitmemiş gibi duruyor, ama bugünlerde moda!
+WireframeShop = Bitirilmemiş gibi duruyor ama bugünlerde moda!
 
 BeeSkinName = Çalışkan Arı
 FlamesSkinName = Ele Alınması Güç
@@ -338,19 +340,12 @@ SoupDumplingsName = Soup Dumplings
 SoupDumplingsDesc = Hamur buns'lar buharla pişirilmiş, et ve çorbayla doldurulmuştur. Bilmediğin bir şey için cesaretini toplayıp ısırdığında, hamurun lezzetinin altında ne olduğunu kestiremeyeceksin.
 
 SpringRollName = Çin Böreği
-SpringRollDesc = A wide variety of rolled appetizers, often filled with meat or vegetables. Lezzetli bir atıştırmalık, mevsimi ne olursa olsun.
-
-
-Geniş kapsamlı
-
-
-
-
-
+SpringRollDesc = Çok çeşitli sarılmış bir aperatif, sıklıkla et veya sebzeyle doldurulur. Lezzetli bir atıştırmalıktır, mevsimi ne olursa olsun.
 
 TripleScoopName = Üç Kepçe
-TripleScoopDesc = Uygun bir sıcaklıkta top şeklindeki donmuş vanilya kreması, bunlar da külaha koyuluyor. Külahındaki toplar, sunuşuyla dondurması olmayan ziyaretçilerini etkileyecektir.
+TripleScoopDesc = Uygun bir sıcaklıkta top şeklindeki donmuş vanilya kreması, bunlar da külaha koyuluyor. Külahındaki toplar, sunumuyla dondurması olmayan ziyaretçilerini etkileyecektir.
 //^HATALI
+//Sunumuyla-tanıtımıyla
 
 IceCreamSandwichName = Dondurmalı Sandviç
 IceCreamSandwichDesc = Dondurma gofret veya iki bisküvi arasında servis edilir. Sandviç sadece adıdır, bu tatlı kılık değiştirmede doktora yapmış.
@@ -360,14 +355,10 @@ FishDesc = Ezilmiş ve kızartılmış balık, genellikle sazan or morinaya. Ço
 //^HATALI
 
 TheMetroSpecialName = Metro Spesyali
-TheMetroSpecialDesc = Koca bir kase pilav, kızartılmış balık, yumurta, ve patates kızartması bileşimi. A meal of everything, proving that even little care can have delicious results.
-
-
-
-Her yemek öğününde,
-
-
-leziz sonuçlar almayı umursamayanlar için
+TheMetroSpecialDesc = Koca bir kase pilav, kızartılmış balık, yumurta, ve patates kızartması bileşimi. Her zamanın öğünü, lezzetli sonuçlar almayı umursamayanlar için bile.
+//A meal of everything, proving that even little care can have delicious results.
+//Her zamanın öğünü, lezzetli sonuçlar almayı umursamayanlar için bile.
+//^HATALI
 
 MeatballsName = Köfteler
 MeatballsDesc = Kıyma küçük toplar biçiminde. Gerçek aydınlanmaya ulaşmak için kıymalar içeri, tüy yumakları dışarı.
@@ -388,14 +379,19 @@ CookiesName = Kurabiyeler
 CookiesDesc = Hafif pişirilmiş bisküviler, genellikle çikolata kaplıdır, üzümle, ya da başka şeylerle. Atıştırmak için harikadır ve ayrıca kırıntılarını her yere dökmek için de.
 
 JuiceBoxName = Meyve Suyu
-JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Kaliteli nektar sıklıkla topak topak posa içerir, showing the hypocrisy in mankind's unwillingness to drink spoiled milk.
+JuiceBoxDesc = Meyveyi sıkmışlar ve kutuya koymuşlar. Kaliteli nektar bol topak topak posa içerir, showing the hypocrisy in mankind's unwillingness to drink spoiled milk.
+//[[showing the hypocrisy]] [[in [[mankind's unwillingness [to drink] spoiled milk]].
 //insanlığın riyakarlığını bozuk süt içme isteksizliğini gösteren.
+//insanlığın bozuk süt içme riyakarlığını gösteren.
+//İnsanlığın bozuk süt içmeye razı olmamasını gösteren riyakarlık.""
+//içmek istememesi
+^HATALI
 
 PizzaSliceName = Pizza Dilimi
 PizzaSliceDesc = Ana malzemesi yuvarlak hamur; domates, peynir ve malzemelerle süslenmiş. Çoğu aşçı, bu üçgen güzellikle karşılaştıklarında gözyaşlarına hakim olamaz.
 
 LargeSodaName = Büyük Soda
-LargeSodaDesc = Büyük boyla gelen gazlı bir içecek. Yönetimce büyük soda takdir edilmemiş bir kahraman vaziyetinde; halk arasında kabul edilebilir bir seçim, oburlar için yalnızca tek boyutta.
+LargeSodaDesc = Büyük boyla gelen gazlı bir içecek. Yönetimce büyük soda isimsiz bir kahraman vaziyetinde; halk arasında kabul edilebilir bir seçim, oburlar için yalnızca tek boyutta.
 //Çeviri saçma olmuş, ekstra sözcük kullanıldı. 3. cümle ciddi miktarda hatalı.
 
 CakeName = Kek
@@ -407,7 +403,8 @@ FriesDesc = Dilimlenmiş ve kızgın yağda kızartılmış patatesler. Önemli 
 ComboFound = Karışım elde edildi:
 ComboCoffeeCookies = Kahve & Kurabiyeler
 ComboYumCha = Yum Çayı
-ComboIceCreamFloat = Ice Cream Float
+ComboIceCreamFloat = Dondurma Taşkını
+//^Ice Cream Float
 ComboFishChips = Balık & Patates Kızartması
 ComboBurgerMenu = Burger Menü
 ComboCurryRice = Köri & Pilav
