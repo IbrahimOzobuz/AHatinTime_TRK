@@ -58,7 +58,7 @@ breakice8 = [shake2]Sende kalabilir, ama bu seni bir sözleşmeyi tamamladığı
 [contract_generic_trap]
 trapA0 = [shake][big][scream][wave]AHHHHAHAHAHAHAHAHAHA!![/wave][/scream][/big][/shake][br][shake2]AHMAAAAAAAAAAaaa... oh bekle, bu sensin?[/shake2]
 trapA1 = [shake2]Tuzağıma düşsün diye yeni bir kurban bekliyordum. Senin ruhunu zaten aldım filan. Zorunluluklarını yerine gitirdin mi bile?[/shake2]
-trapA2 = [shake2]Kişisel algılama, çocuk, ama tuzaklarımdan uzak dur. Sesimin böyle bağırmayı kaldırabileceği sayılı bir süre var. Tecrübeyi diğer insanlardan sakınıyorsun.[/shake2]
+trapA2 = [shake2]Kişisel algılama, evlat, ama tuzaklarımdan uzak dur. Sesimin böyle bağırmayı kaldırabileceği sayılı bir süre var. Tecrübeyi diğer insanlardan sakınıyorsun.[/shake2]
 trapA3 = [shake2]Ah, ama tuzağıma takıldığına göre, senin çalışma gayretini biraz daha genişletebilirim![/shake2]
 trapA4 = [shake2][small]*öksürük*[/small][/shake2][br] [br][shake][big][scream][wave]AHMAAAAAAAAAAAAAAAAAAK!![/wave][/scream][/big][/shake]
 trapA5 = [shake2]Ormanıma adım attın, ve şimdi bedelini ödemelisin![/shake2]
@@ -82,37 +82,37 @@ home_businessconcluded = [shake2]Evlat, bizim işimiz sona erdi. Sana başka bir
 
 wheretogo_subconwell0 = [shake2]Kuyuyu temizliyor olman lazım, evlat. Bataklığın derinliklerinde, ama senin gibi küçük bir şeyin bile görebileceği kadar büyük. Kayıp kafanı dibe vurmamaya çalış... [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
-postfinale0 = [shake2]You again? I thought I made myself pretty clear last time, kiddo.[/shake2]
-postfinale1 = [shake2]We're done. Finished. Our working relationship is over. I'm not wasting any more clerical supplies on you![/shake2]
-postfinale2 = [shake2][wave][scream][big]Now get the heck out of my forest![/big][/scream][/wave][/shake2]
+postfinale0 = [shake2]Yine mi sen? Son sefer gayet açık anlattığımı sanıyorum, evlat.[/shake2]
+postfinale1 = [shake2]İşimiz bitti. Tamamlandı. Çalışma ilişkimiz yok artık. Artık senin üstünde daha fazla yazı işi için malzeme harcamayacağım![/shake2]
+postfinale2 = [shake2][wave][scream][big]Şimdi toz ol benim ormanımdan![/big][/scream][/wave][/shake2]
 
 [bossbattle]
-intro0 = [shake2]Wait up, kid. Remember how the old contractor had his head pop off?[/shake2]
-intro1 = [shake2]That wasn't a coincidence. It popped off the moment he stopped being useful to me.[/shake2]
-intro2 = [shake2]And guess who else just became obsolete? That's right. You.[/shake2]
-intro3 = [shake2]Now that that possessed outhouse isn't bothering me anymore, and all those contracts of yours are tidied away... I don't need you around.[/shake2]
-intro4 = [shake2]Besides, you didn't think I was gonna let you keep all these [icon:timepiece][timepiece]Time Pieces[/timepiece], did you? They fell in my forest, kid! They belong to [scream]ME[/scream].[/shake2]
-intro6 = [shake2]Time you saw what I'm really capable of, kid. Say goodbye to that little head of yours![/shake2]
+intro0 = [shake2]Bekle, evlat. Eski kalfanın kafasını kaybettiğini hatırlıyor musun?[/shake2]
+intro1 = [shake2]O bir kaza değildi. Benim için kullanışlı olmayı bıraktığı anda oldu o.[/shake2]
+intro2 = [shake2]Ve bil bakalım başka ne kullanışsız hale geldi? Doğru bildin. Sen.[/shake2]
+intro3 = [shake2]Artık şu ele perili ev beni rahatsız etmediğine ve bütün sözleşmelerin tamamlandığına göre... Sana ihtiyacım yok.[/shake2]
+intro4 = [shake2]Üstelik, bütün bu [icon:timepiece][timepiece]Zaman Parçalarını[/timepiece] sana bırakacağımı sanmadın, değil mi? Benim ormanıma düştüler, evlat! [scream]BANA[/scream] aitler.[/shake2]
+intro6 = [shake2]Elimden ne geliyormuş görme zamanı, evlat. Şu küçük kafana elveda de![/shake2]
 
-Derp0 = This is how you look![br]You're an idiot!
-Derp1 = And you smell!
+Derp0 = Böyle görünüyorsun![br]Çok salaksın!
+Derp1 = Ve kokuyorsun!
 
-blue0 = [shake2]You're probably waiting for me to turn blue, aren't you?[/shake2]
-blue1 = [shake2]Sorry kiddo, blue doesn't suit me.[br]And I guess that makes me invincible, huh?[br]That's too bad! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
+blue0 = [shake2]Maviye dönmemi bekliyorsun muhtemelen, değil mi?[/shake2]
+blue1 = [shake2]Üzgünüm evlat, mavi bana yakışmıyor.[br]Ve sanırım bu beni ölümsüz kılar, ha?[br]Çok yazık! [wave][scream]HA HA HA HA HA HA![/scream][/wave][/shake2]
 
-Chemicals0 = [shake2]Let's try some of these![/shake2]
-Chemicals1 = [shake2]Not enough?[br]Let's try 1,000![/shake2]
-Chemicals2 = [shake2]Too many, eh?[br]Let's try just one![/shake2]
-Chemicals3 = [shake2]Wait, hold on.[/shake2]
-Chemicals4 = [shake2]That one should[br]totally have hit you![/shake2]
-Chemicals5 = [shake2]Come on,[br]give it a chance![/shake2]
-Chemicals6 = [shake2]I'm glad[br]you reconsidered![/shake2]
-Chemicals7 = [shake2]You're kinda rude,[br]aren't you?[/shake2]
+Chemicals0 = [shake2]Haydi biraz bunlardan deneyelim![/shake2]
+Chemicals1 = [shake2]Yeterli değil mi?[br]Haydi 1,000 tane deneyelim![/shake2]
+Chemicals2 = [shake2]Fazla geldi, eh?[br]Haydi sadece bir tane deneyelim![/shake2]
+Chemicals3 = [shake2]Bekle, dur biraz.[/shake2]
+Chemicals4 = [shake2]Bu sana [br]kesinlikle vurmalı![/shake2]
+Chemicals5 = [shake2]Yapma böyle,[br]bir şans tanı![/shake2]
+Chemicals6 = [shake2]Tekrar düşünmene[br]memnun oldum![/shake2]
+Chemicals7 = [shake2]Sen biraz kabasın,[br]yanlış mıyım?[/shake2]
 
 turned_blue0 = [shake2]...[/shake2]
-turned_blue1 = [shake2]Did you just color me blue with my own attack?[/shake2]
-turned_blue2 = [shake2]This can't count, right? Surely this doesn't count?[/shake2]
-turned_blue3 = [shake2]That does it, time to [scream][wave]DIE[wait][/wave][/scream].[/shake2]
+turned_blue1 = [shake2]Az önce sen beni kendi saldırımla maviye mi çevirdin?[/shake2]
+turned_blue2 = [shake2]Bu sayılamaz, değil mi? Eminim bu sayılmıyordur?[/shake2]
+turned_blue3 = [shake2]Yetti, [scream][wave]ÖLME[wait][/wave] zamanı[/scream].[/shake2]
 
 [death]
 death0 = [shake2]*huff*[waitlong] *huff*[waitlong] You're such a disrespectful young lady...[/shake2]
